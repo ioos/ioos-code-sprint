@@ -1,15 +1,15 @@
 ---
-title: Hackathon event checklist
-date: 2021-05-14
+title: Code Sprint event checklist
+date: 2022-03-02
 authors:
- - "[James Thomas](https://github.com/jatonline/) ([Jean Golding Institute](https://www.bristol.ac.uk/golding/))"
+ - "[someone](https://github.com/)"
 layout: resource
 ---
 
 <div class="lead" markdown="1">
-# A checklist for activities required in the run-up to a hackathon event
+# A checklist for activities required in the run-up to the Code Sprint event
 
-An at-a-glace guide to the key activities required when organising a hackathon,
+An at-a-glace guide to the key activities required when organising the Code Sprint,
 including links to relevant resources and templates.
 </div>
 
@@ -29,7 +29,6 @@ Date              | Action
 1.5 months before | Finalise [participants]({% link resources/templates.md %}#participant-spreadsheet) and provisionally allocate projects
                   | Send [accept emails]({% link resources/templates.md %}#participant-acceptance-email) and [decline emails]({% link resources/templates.md %}#participant-decline-email) to applicants
                   | Request [confirmation of attendance]({% link resources/templates.md %}#participant-further-information-form) at hackathon and pre-hackathon meeting from participants
-                  | Ensure project leads have [created a JASMIN account]({% link resources/creating-jasmin-account.md %})
                   | Send calendar invites for pre-hackathon meetings and hackathon to project leads and participants
 ---               | ---                  
 2 weeks before    | Finalise [example notebooks / repositories]({% link resources.md %})
@@ -40,12 +39,9 @@ Date              | Action
                   | Create GitHub repository for each project, using [template repository](https://github.com/cmip6moap/project-template)
                   | Create [shared documents]({% link resources/templates/shared-documents.md %}) for online collaboration
                   | Send [project allocations, Slack invite]({% link resources/templates/project-email.md %}) and [participant guide]({% link resources/participant-guide.md %}) to project leads and participants
-                  | Ensure participants with their own JASMIN accounts have [requested access to the required services]({% link resources/creating-jasmin-account.md %}#getting-access-to-the-right-services)
-                  | Provide list of participants to JASMIN (both those requiring a training account and those already with an account)
                   | Add GitHub usernames of participants to their project repositories
 ---               | ---                  
-1 week before     | Training accounts set-up by JASMIN
-                  | Provide drop-in sessions with participants, ensuring they can connect
+1 week before     | Provide drop-in sessions with participants, ensuring they can connect
                   | Check there are contingencies in case of connection issues, including alternate host on Zoom
 ---               | ---                  
 Hackathon date    | Make sure the Zoom meeting can be joined without going via the waiting room
