@@ -32,13 +32,12 @@ Date              | Action
                   | Send calendar invites for pre-hackathon meetings and hackathon to project leads and participants
 ---               | ---                  
 2 weeks before    | Finalise [example notebooks / repositories]({% link resources.md %})
-                  | Ensure that [a Group Workspace has been created]({% link resources/creating-jasmin-account.md %}#ensuring-you-have-access-to-the-hackathon-group-workspace) for the hackathon
                   | Hold pre-hackathon meetings with project leads (1 hour) and participants (1.5 hours), outlining [how the hackathon will run]({% link resources/participant-guide.md %}) and the [hackathon agenda]({% link agenda.md %})
                   | Create recurring Zoom meeting for hackathon, with pre-allocated breakout rooms for projects, ensuring participants are muted on entry, can connect without host present and can move freely between breakout rooms
-                  | Create [Slack workspace]({% link resources/templates/slack-workspace.md %}), with channels for each project
+                  | Create Slack workspace, with channels for each project
                   | Create GitHub repository for each project, using [template repository](https://github.com/cmip6moap/project-template)
-                  | Create [shared documents]({% link resources/templates/shared-documents.md %}) for online collaboration
-                  | Send [project allocations, Slack invite]({% link resources/templates/project-email.md %}) and [participant guide]({% link resources/participant-guide.md %}) to project leads and participants
+                  | Create shared documents for online collaboration
+                  | Send project allocations, Slack invite and [participant guide]({% link resources/participant-guide.md %}) to project leads and participants
                   | Add GitHub usernames of participants to their project repositories
 ---               | ---                  
 1 week before     | Provide drop-in sessions with participants, ensuring they can connect
