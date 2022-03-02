@@ -1,0 +1,46 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        NOAA/NOS<br>
+        <a href="https://ioos.noaa.gov">IOOS</a> &amp; <a href="https://www.glos.org">GLOS</a><br>
+      </div>
+
+      <div class="footer-col footer-col-2">
+      </div>
+
+      <div class="footer-col footer-col-3 icon-list">
+        <a href="{{ site.github.repository_url }}">
+          <i class="bi bi-github"></i>
+          <span class="username">{{ site.github.repository_url }}</span>
+        </a><br>
+        <a href="{{ site.github.repository_url }}/edit/gh-pages/{{ page.path }}">
+          Improve this page
+        </a><br>
+        <a href="{% link code-of-conduct.md %}">
+          Code of conduct
+        </a>
+      </div>
+      <!--
+      <div class="footer-col footer-col-3">
+        The Met Office Academic Partnership is a cluster of research excellence
+        that brings together the Met Office and leaders in weather and climate
+        science (Universities of <a href="https://www.bristol.ac.uk">Bristol</a>,
+        <a href="https://www.exeter.ac.uk">Exeter</a>,
+        <a href="https://www.leeds.ac.uk">Leeds</a>,
+        <a href="https://www.ox.ac.uk">Oxford</a>,
+        <a href="https://www.reading.ac.uk">Reading</a> and
+        <a href="https://www.ucl.ac.uk">UCL</a>).
+        <a href="{% link about.md %}#the-met-office-academic-partnership">More info</a>.
+      </div>
+      -->
+    </div>
+
+  </div>
+
+</footer>

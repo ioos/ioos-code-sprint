@@ -1,0 +1,61 @@
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header">
+    <h1>
+      Project {{ page.number }}:<br>
+      {{ page.title | escape }}
+    </h1>
+    
+    <div class="aside authors">
+      <dl>
+        {% if page.pis %}
+        <dt>Project leads</dt>
+        <dd>
+          <ul>
+            {% for person in page.pis %}
+            <li>{{ person }}</li>
+            {% endfor %}
+          </ul>
+        </dd>
+        {% endif %}
+        
+        {% if page.contributors %}
+        <dt>Contributors</dt>
+        <dd>
+          <ul>
+            {% for person in page.contributors %}
+            <li>{{ person }}</li>
+            {% endfor %}
+          </ul>
+        </dd>
+        {% endif %}
+
+        {% if page.github %}
+        <dt>GitHub repository</dt>
+        <dd>
+          <a href="https://github.com/{{ page.github }}">github.com/{{ page.github }}</a>
+        </dd>
+        {% endif %}
+      </dl>
+    </div>
+  </header>
+  
+  <div class="post-content">
+    <div class="video video-project video-coming-soon">
+      <!--<a href="https://www.youtube.com/watch?v={TBC}&t={{ page.video_time }}s" title="Play video">-->
+        <div class="video-container">
+          <img alt="{{ page.title }}" src="/assets/event/{{ page.video_thumbnail }}.webp">
+          <!--<span class="play-button bi bi-play-fill"></span>-->
+        </div>
+      <!--</a>-->
+    </div>
+
+    {{ content }}
+  </div>
+    
+  <p><a href="{% link projects.md %}">← Back to project list</a></p>
+
+</article>

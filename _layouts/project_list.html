@@ -1,0 +1,14 @@
+---
+layout: page
+---
+
+{{ content }}
+
+<ul class="grid">
+  {% for project in site.projects %}
+    <li class="project">
+      <h3>Project {{ project.number }}: <a href="{{ project.url }}">{{ project.title }}</a></h3>
+      {{ project.content | truncatewords: 50 }}
+    </li>
+  {% endfor %}
+</ul>

@@ -1,0 +1,333 @@
+---
+---
+
+$content-width: 1200px;
+$header-brand-color: #00bcd4;
+
+@import "minima";
+
+.site-header {
+    background: #013088;
+    border: none;
+    color: #00bcd4;
+    min-height: 80px;
+}
+
+.site-nav {
+    @include media-query($on-palm) {
+        margin-top: 12px;
+    }
+
+    .page-link {
+        color: $header-brand-color;
+        line-height: 80px;
+        
+        @include media-query($on-palm) {
+            color: darken($header-brand-color, $amount: 10);
+            line-height: 40px;
+        }
+        
+        &:hover {
+            text-decoration: none;
+            span {
+                text-decoration: underline;
+            }
+        }
+        
+        &.active {
+            color: #00bcd4;
+            font-weight: 600;
+            pointer-events: none;
+
+            @include media-query($on-palm) {
+                color: #000;
+            }
+        }
+    }
+}
+
+.site-title {
+    display: block;
+    background: no-repeat center left url(logo.png);
+    background-size: 60px;
+    padding: 15px 0 15px 70px;
+    line-height: 23px;
+    font-weight: 500;
+    margin-right: 10px;
+    
+    small {
+        font-size: 59%;
+    }
+
+    &, &:visited {
+        color: #00bcd4;
+    }
+    
+    &.active {
+        pointer-events: none;
+    }
+
+    @include media-query($on-palm) {
+        margin-right: 50px;
+    }
+}
+
+#breadcrumbs {
+    font-size: 80%;
+    color: #828282;
+    margin-bottom: 15px;
+}
+
+.secondary {
+    font-size: 125%;
+    margin-top: -20px;
+    margin-bottom: 10px;
+}
+
+h1.secondary {
+    font-size: 125%;
+    margin-top: -30px;
+    margin-bottom: 30px;
+    padding-left: 2px;
+}
+
+.lead {
+    margin-bottom: $spacing-unit;
+    padding: 0.85*$spacing-unit 0.75*$spacing-unit;
+    background: #f0f0f0;
+    @include relative-font-size(1.25);
+    @include media-query($on-laptop) {
+        @include relative-font-size(1.125);
+    }
+}
+
+.aside {
+    margin: 0.5*$spacing-unit 0 0.5*$spacing-unit 0.5*$spacing-unit;
+    padding: 0.85*$spacing-unit 0.75*$spacing-unit;
+    background: #f0f0f0;
+    @include relative-font-size(1.25);
+    @include media-query($on-laptop) {
+        @include relative-font-size(1.125);
+    }
+    
+    float: right;
+    width: 35%;
+    @include media-query($on-palm) {
+        float: none;
+        width: unset;
+        margin-left: 0;
+    }
+}
+
+.authors {
+    font-size: inherit !important;
+    padding: 0.35*$spacing-unit 0.75*$spacing-unit;
+}
+
+dl {
+    dt {
+        margin-top: 0.5*$spacing-unit;
+        font-weight: 600;
+    }
+
+    dd {
+        padding-left: 0.25*$spacing-unit;
+    }
+}
+
+.team-list {
+    td {
+        border: none;
+    } 
+
+    tr td:first-child {
+        width: 80px;
+
+        img {
+            border-radius: 50%;
+        }
+    }
+
+    .profile-links {
+        display: inline-block;
+
+        @include media-query($on-palm) {
+            display: block;
+            
+            & + br {
+                display: none;
+            }
+        }
+    }
+}
+
+.icon-list {
+    @extend .social-media-list;
+}
+
+.hide-very-narrow {
+    @include media-query(420px) {
+        display: none;
+    }
+}
+
+.btn {
+    display: inline-block;
+    margin: 5px 10px;
+    padding: 10px 15px;
+    background: $header-brand-color;
+    font-size: 16px;
+    font-weight: bold;
+    color: #3f3f3f !important;
+
+    &:hover {
+        color: #1d1d1d !important;
+        outline: 3px solid #1d1d1d !important;
+        text-decoration: none;
+    }
+
+    &.disabled, &.disabled:hover {
+        background: #dddddd;
+        color: #555555 !important;
+        outline: none !important;
+    }
+}
+
+iframe.notebook {
+    width: 100%;
+    height: 90vh;
+    overflow: auto;
+    border: none;
+    margin-bottom: 30px;
+}
+
+iframe.template {
+    width: 100%;
+    max-width: 50rem;
+    height: 18rem;
+    max-height: 80vh;
+    border: 2px solid #1d1d1d;
+}
+
+.embedded {
+    header, footer, .post-meta, #breadcrumbs {
+        display: none;
+    }
+
+    .page-content {
+        padding: 10px 0 0;
+    }
+
+    .post-content {
+        margin: 0;
+    }
+}
+
+.agenda {
+    th:first-child {
+        min-width: 100px;
+        width: 20%;
+    }
+
+    th:last-child {
+        width: 40%;
+    }
+}
+
+.alt-table {
+    tr:nth-child(2n) {
+        background-color: transparent;
+    }
+
+    tbody:nth-child(2n) {
+        background-color: #f7f7f7;
+    }
+
+    td {
+        border-top: none;
+        border-bottom: none;
+    }
+
+    thead, tbody, tfoot {
+        border-top: 1px solid #e8e8e8;
+        border-bottom: 1px solid #e8e8e8;
+    }
+
+    th:first-child {
+        min-width: 100px;
+        width: 20%;
+    }
+}
+
+ul.grid {
+    margin-left: 0;
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: $spacing-unit;
+    
+    @include media-query($on-palm) {
+        grid-template-columns: repeat(1, minmax(0, 1fr));
+    }
+
+    li {
+        list-style: none;
+        padding: 0.5*$spacing-unit 0.75*$spacing-unit;
+    }
+
+    .project {
+        background: #f0f0f0;
+        
+        h3 a {
+            display: block;
+        }
+    }
+    
+    .resource-block {
+        background: #f0f0f0;
+    }
+}
+
+.video {
+    img {
+        border: 2px solid #000000;
+        margin-bottom: 0.25*$spacing-unit;
+    }
+
+    &.video-project .video-container {
+        max-width: 50%;
+        margin-bottom: 0.75*$spacing-unit;
+
+        @include media-query($on-palm) {
+            max-width: 100%;
+        }
+    }
+
+    .video-container {
+        position: relative;
+
+        .play-button {
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            background: #fff;
+            color: #000;
+            line-height: 0.6;
+            font-size: 60px;
+            
+            &:hover {
+                color: #777;
+            }
+        }
+    }
+}
+
+.video-coming-soon {
+    filter: opacity(50%);
+    
+    &::before {
+        content: "Presentation videos will be uploaded soon...";
+    }
+}
+
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css");

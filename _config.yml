@@ -1,0 +1,57 @@
+title: IOOS Code Sprint
+menu_title: IOOS Code Sprint
+author: Integrated Ocean Observing System (IOOS) Office, 
+  Great Lakes Observing System (GLOS)
+description:
+  The IOOS Code Sprint is a 4-day hackathon style event, organised by the
+  Integrated Ocean Observing System (IOOS) Office and the Great Lakes 
+  Observing System (GLOS). Over the course of the event, teams of developers 
+  and academic researchers from across the IOOS community will work on 
+  projects related to the IOOS mission to produce, integrate, and communicate 
+  high quality ocean, coastal and Great Lakes information that meets the 
+  safety, economic, and stewardship needs of the Nation.
+url: "https://ioos.github.io/ioos-code-sprint"
+#github_username: cmip6moap
+theme: minima
+header_pages:
+  - registration.md
+  - agenda.md
+  - projects.md
+  - videos-slides.md
+  - resources.md
+  - about.md
+
+# Open and close the registration form
+#   soon = Registration has not yet opened
+#   open = Registration form is open
+#   closed = Registration form is now closed
+registration_status: open
+
+# Remove ".html" from default permalinks
+permalink: pretty
+
+# (See default layout below)
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:name/
+
+# Social media links
+# (See default layout below)
+twitter:
+  card: summary_large_image
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/cs_graphic.png
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+
+# Simplify tables of contents
+kramdown:
+  toc_levels: "2,3"

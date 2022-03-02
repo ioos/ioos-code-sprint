@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+<article class="post">
+    <header class="post-header">
+        <h1 class="post-title">{{ page.title | escape }}</h1>
+
+        {% if page.date or page.authors %}
+            <p class="post-meta">
+                {% if page.date %}
+                    <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+                        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+                        {{ page.date | date: date_format }}
+                    </time>
+                {% endif %}
+                {% if page.authors %}
+                    by
+                    {% for author in page.authors %}
+                        <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+                            <span class="p-author h-card" itemprop="name">{{ author | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}</span>
+                            {%- unless forloop.last -%}, {%- endunless -%}
+                        </span>
+                    {% endfor %}
+                {% endif %}
+            </p>
+        {% endif %}
+    </header>
+
+    <div class="post-content">
+        {{ content }}
+    </div>
+
+    <p class="post-meta">
+        Resources are licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a>
+    </p>
+</article>

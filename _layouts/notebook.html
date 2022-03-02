@@ -1,0 +1,28 @@
+---
+layout: resource
+---
+
+{{ content }}
+
+<iframe src="https://cmip6moap.github.io/project-template/notebooks/{{ page.notebook }}.html" class="notebook"></iframe>
+
+{% comment Mileage of this method varies, so leave disabled %}
+<script type="module">
+    let iframe = document.querySelector('iframe.notebook');
+    iframe.onload = function() {
+        this.style.height = this.contentWindow.document.documentElement.offsetHeight + 'px';
+    };
+    var timeout;
+    window.onresize = function() {
+        clearTimeout(timeout);
+        timeout = setTimeout(function() {
+            iframe.style.height = iframe.contentWindow.document.documentElement.offsetHeight + 'px';
+        }, 10);
+    };
+</script>
+{% endcomment %}
+
+<p class="post-meta">
+    <a href="https://cmip6moap.github.io/project-template/notebooks/{{ page.notebook }}.html">Open in a new page</a>,
+    <a href="https://github.com/cmip6moap/project-template/blob/main/notebooks/{{ page.notebook }}.ipynb">Open source notebook</a>
+</p>

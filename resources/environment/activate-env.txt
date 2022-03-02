@@ -1,0 +1,53 @@
+#!/bin/bash
+
+# This script exists at:
+#   /gws/pw/j05/cop26_hackathons/bristol/activate-env
+#
+# It should be used as follows:
+#   source /gws/pw/j05/cop26_hackathons/bristol/activate-env
+#
+# Author: James Thomas (https://github.com/jatonline)
+
+SCRIPT_FILENAME=$(realpath ${BASH_SOURCE[0]})
+GWS=$(dirname $SCRIPT_FILENAME)
+
+if ! (return 0 2>/dev/null); then
+        echo "Please re-run this command as follows: source $SCRIPT_FILENAME"
+        exit 1
+fi
+
+if [[ "$(hostname)" =~ ^login ]]; then
+        echo "This script doesn't work on login servers, you need to SSH to a sci server"
+        return
+fi
+
+if [ "$__hackathon_loaded" = true ]; then
+        echo "Hackathon environment already loaded"
+        return
+fi
+
+__hackathon_previous_PATH=$PATH
+__hackathon_previous_PS1=$PS1
+
+module load jaspy
+PATH=$GWS/env/bin:$PATH
+PS1='(cmip6) \W$ '
+shopt -s direxpand
+
+echo
+echo "Loaded hackathon environment"
+echo
+echo "You can now use the variable \$GWS as a shortcut to the"
+echo "hackathon Group Workspace: $GWS"
+echo
+echo 'Type `deactivate` to leave the environment'
+echo
+
+deactivate () {
+        PATH=$__hackathon_previous_PATH
+        PS1=$__hackathon_previous_PS1
+        echo "Deactivated hackathon environment"
+        __hackathon_loaded=
+}
+
+__hackathon_loaded=true
