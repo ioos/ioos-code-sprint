@@ -10,7 +10,7 @@ The IOOS Code Sprint is a 4-day, hackathon-style event, organized by the Great L
 
 {:.lead}
 To contact us about the Code Sprint, please email:
-<mathew.biddle@noaa.gov>
+{% comment %}<mathew.biddle@noaa.gov>{% endcomment %}
 
 <table class="team-list">
     <tr>
