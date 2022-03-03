@@ -23,8 +23,6 @@ but participating researchers could include early career researchers
 (including PhDs and Postdocs) from any UK academic institution.
 {% endcomment %}
 
-The event took place virtually, using a combination of **video conferencing**
-(Zoom) for meetings and seminars, and **discussion forums** (Slack) for ongoing
-comms. Outputs were saved to [GitHub]({{ site.github.repository_url }}).
+The event will take place virtually and in-person, using a combination of **video conferencing** (TBD) for meetings and seminars, and **discussion forums** (Slack) for ongoing communication. Outputs will saved to [GitHub]({{ site.github.owner_url }}).
 
 [faq]: {% link faq.md %}

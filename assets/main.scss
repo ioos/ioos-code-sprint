@@ -187,10 +187,10 @@ dl {
     display: inline-block;
     margin: 5px 10px;
     padding: 10px 15px;
-    background: $header-brand-color;
+    background: #013088;
     font-size: 16px;
     font-weight: bold;
-    color: #3f3f3f !important;
+    color: $header-brand-color !important;
 
     &:hover {
         color: #1d1d1d !important;
