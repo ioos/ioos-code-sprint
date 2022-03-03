@@ -30,13 +30,11 @@ hackathons and events in the future.
 
 #### Registration stage
 
-![Social media sharing image for the CMIP6 Data Hackathon](/assets/advert-registration.png)  
-[Open PNG version](/assets/advert-registration.png), [Open SVG version](/assets/advert-registration.svg)
+![Social media sharing image for the IOOS Code Sprint]({{ site.baseurl }}/assets/cs_graphic.png){: width="500" }  
 
 #### Event stage
 
-![Social media sharing image for the CMIP6 Data Hackathon](/assets/advert.png)  
-[Open PNG version](/assets/advert.png), [Open SVG version](/assets/advert.svg)
+![Social media sharing image for the IOOS Code Sprint]({{ site.baseurl }}/assets/cs_graphic.png){: width="500" } 
 
 
 ## Getting applications to the hackathon
