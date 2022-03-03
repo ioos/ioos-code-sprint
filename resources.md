@@ -63,7 +63,7 @@ organising a CMIP6 Hackathon in association with the Met Office Academic
 Partners. It describes how we used the JASMIN platform, the decisions we took
 and why, and advice for others running similar events.
 {% endcomment %}
-#### [Event checklist]({% link resources/event-checklist.md %}) – a checklist for activities required in the run-up to a hackathon event
+#### [Event checklist]({{ site.baseurl }}{% link resources/event-checklist.md %}) – a checklist for activities required in the run-up to a hackathon event
 
 An at-a-glace guide to the key activities required when organising a
 hackathon, including links to relevant resources and templates.

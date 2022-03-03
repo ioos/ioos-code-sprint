@@ -19,25 +19,25 @@ Date              | Action
 4 months before   | Engage with JASMIN, check dates do not clash with other events and timescales are workable 
                   | Request research topic idea from researchers
 ---               | ---                  
-3 months before   | Finalise [proposed research topics]({% link resources/templates.md %}#project-lead-spreadsheet)
-                  | Publish [participant application form]({% link resources/templates.md %}#application-form)
-                  | Send [advertising email]({% link resources/templates.md %}#advertising-email)
-                  | [Promote on social media]({% link resources/templates.md %}#social-media-sharing-image)
+3 months before   | Finalise [proposed research topics]({{ site.baseurl }}{% link resources/templates.md %}#project-lead-spreadsheet)
+                  | Publish [participant application form]({{ site.baseurl }}{% link resources/templates.md %}#application-form)
+                  | Send [advertising email]({{ site.baseurl }}{% link resources/templates.md %}#advertising-email)
+                  | [Promote on social media]({{ site.baseurl }}{% link resources/templates.md %}#social-media-sharing-image)
 ---               | ---                  
 2 months before	  | Deadline for participant applications
 ---               | ---                  
-1.5 months before | Finalise [participants]({% link resources/templates.md %}#participant-spreadsheet) and provisionally allocate projects
-                  | Send [accept emails]({% link resources/templates.md %}#participant-acceptance-email) and [decline emails]({% link resources/templates.md %}#participant-decline-email) to applicants
-                  | Request [confirmation of attendance]({% link resources/templates.md %}#participant-further-information-form) at hackathon and pre-hackathon meeting from participants
+1.5 months before | Finalise [participants]({{ site.baseurl }}{% link resources/templates.md %}#participant-spreadsheet) and provisionally allocate projects
+                  | Send [accept emails]({{ site.baseurl }}{% link resources/templates.md %}#participant-acceptance-email) and [decline emails]({{ site.baseurl }}{% link resources/templates.md %}#participant-decline-email) to applicants
+                  | Request [confirmation of attendance]({{ site.baseurl }}{% link resources/templates.md %}#participant-further-information-form) at hackathon and pre-hackathon meeting from participants
                   | Send calendar invites for pre-hackathon meetings and hackathon to project leads and participants
 ---               | ---                  
-2 weeks before    | Finalise [example notebooks / repositories]({% link resources.md %})
-                  | Hold pre-hackathon meetings with project leads (1 hour) and participants (1.5 hours), outlining [how the hackathon will run]({% link resources/participant-guide.md %}) and the [hackathon agenda]({% link agenda.md %})
+2 weeks before    | Finalise [example notebooks / repositories]({{ site.baseurl }}{% link resources.md %})
+                  | Hold pre-hackathon meetings with project leads (1 hour) and participants (1.5 hours), outlining [how the hackathon will run]({{ site.baseurl }}{% link resources/participant-guide.md %}) and the [hackathon agenda]({{ site.baseurl }}{% link agenda.md %})
                   | Create recurring Zoom meeting for hackathon, with pre-allocated breakout rooms for projects, ensuring participants are muted on entry, can connect without host present and can move freely between breakout rooms
                   | Create Slack workspace, with channels for each project
                   | Create GitHub repository for each project, using [template repository](https://github.com/cmip6moap/project-template)
                   | Create shared documents for online collaboration
-                  | Send project allocations, Slack invite and [participant guide]({% link resources/participant-guide.md %}) to project leads and participants
+                  | Send project allocations, Slack invite and [participant guide]({{ site.baseurl }}{% link resources/participant-guide.md %}) to project leads and participants
                   | Add GitHub usernames of participants to their project repositories
 ---               | ---                  
 1 week before     | Provide drop-in sessions with participants, ensuring they can connect

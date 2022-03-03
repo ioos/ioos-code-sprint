@@ -10,8 +10,10 @@ description:
   projects related to the IOOS mission to produce, integrate, and communicate 
   high quality ocean, coastal and Great Lakes information that meets the 
   safety, economic, and stewardship needs of the Nation.
-url: "https://ioos.github.io/ioos-code-sprint"
-#github_username: cmip6moap
+url: "https://ioos.github.io"
+baseurl: "/ioos-code-sprint"
+repository: "ioos/ioos-code-sprint"
+#github_username: ioos-code-sprint
 theme: minima
 header_pages:
   - registration.md
@@ -28,7 +30,7 @@ header_pages:
 registration_status: open
 
 # Remove ".html" from default permalinks
-permalink: url/:categories/:year/:month/:day/:title/
+permalink: pretty
 
 # (See default layout below)
 collections:

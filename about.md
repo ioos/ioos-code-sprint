@@ -15,7 +15,7 @@ To contact us about the Code Sprint, please email:
 <table class="team-list">
     <tr>
         <td>
-            <img alt="Mathew Biddle" src="{{ site.url }}/assets/team/Matt.png">
+            <img alt="Mathew Biddle" src="{{ site.url }}{{ site.baseurl }}/assets/team/Matt.png">
         </td>
         <td>
             <strong>Mathew Biddle</strong>

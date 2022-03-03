@@ -25,13 +25,13 @@ In this guide we'll cover:
 * Table of contents
 {:toc}
 
-You can also [view this guide as a presentation]({% link resources/participant-briefing.html %}).
+You can also [view this guide as a presentation]({{ site.baseurl }}{% link resources/participant-briefing.html %}).
 
 ## Professional standards
 
 We value the input of all our participants and want everyone to have an
 enjoyable experience at our hackathon. All participants and organisers are
-required to agree with and follow our [code of conduct]({% link code-of-conduct.md %}),
+required to agree with and follow our [code of conduct]({{ site.baseurl }}{% link code-of-conduct.md %}),
 and this will be enforced this throughout the event. We expect everyone to
 behave professionally and show each other respect and courtesy to others
 throughout the event. This includes social and fringe events, whether officially
@@ -45,7 +45,7 @@ this, so please don't pressure others to do so.
 **If there is a problem,** then please reach out to one of the organisers via
 direct message on Slack (if you feel comfortable doing so), or alternatively
 [contact us via email](mailto:cmip6moap-hackathonevent2021@bristol.ac.uk). Our
-[code of conduct]({% link code-of-conduct.md %}) also provides other means of
+[code of conduct]({{ site.baseurl }}{% link code-of-conduct.md %}) also provides other means of
 reporting incidents.
 
 ## How our event is structured
@@ -72,7 +72,7 @@ Over the three-day hackathon, we have organised:
   day
 * Short presentations from selected groups to round off each day
 
-Check the [agenda]({% link agenda.md %}) or the announcements channel on Slack
+Check the [agenda]({{ site.baseurl }}{% link agenda.md %}) or the announcements channel on Slack
 for more detailed information.
 
 ## How we are communicating
@@ -117,7 +117,7 @@ We ask that by the end of the hackathon:
 environmental science and includes access to the [CEDA Archive](https://www.ceda.ac.uk/).
 It is operated by [STFC](https://stfc.ukri.org/) on behalf of [NERC](https://stfc.ukri.org/).
 
-To access JASMIN [you need an account]({% link resources/creating-jasmin-account.md %}).
+To access JASMIN [you need an account]({{ site.baseurl }}{% link resources/creating-jasmin-account.md %}).
 If you don't already have an account then we will allocate you a temporary
 account that you can use for the duration of the hackathon. Bear in mind that
 all data in temporary accounts will be removed at the end of the hackathon, so

@@ -28,7 +28,7 @@ Actions required:
 
 1. Tell us your JASMIN and GitHub usernames in our **[shared spreadsheet]**
    * If you already have a JASMIN account, please [ensure you have the right
-     permissions]({% link resources/creating-jasmin-account.md %})
+     permissions]({{ site.baseurl }}{% link resources/creating-jasmin-account.md %})
    * If your JASMIN username says "\<temporary account\>", then we will allocate
      you an account for the hackathon and send this at a later date
 
@@ -40,11 +40,11 @@ Actions required:
    * In your project’s Slack channel you will also find useful links, including
      a shared Word document you can use for collaboration
 
-3. Look at the [Participant guide]({% link resources/participant-guide.md %})
+3. Look at the [Participant guide]({{ site.baseurl }}{% link resources/participant-guide.md %})
    which is a summary of the key points covered during the briefing presentation
-   * You can also view a [copy of the slides]({% link resources/participant-briefing.html %})
+   * You can also view a [copy of the slides]({{ site.baseurl }}{% link resources/participant-briefing.html %})
      or **[recording of the briefing]**
-   * We also recommend you look at the [other resources and tutorial notebooks]({% link resources.md %})
+   * We also recommend you look at the [other resources and tutorial notebooks]({{ site.baseurl }}{% link resources.md %})
 
 If you have any questions or issues, you can use the #help channel on Slack, or email us on
 cmip6moap-hackathonevent2021@bristol.ac.uk.

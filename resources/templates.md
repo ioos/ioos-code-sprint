@@ -23,8 +23,8 @@ hackathons and events in the future.
 
 ### Advertising email
 
-<iframe class="template" src="{% link resources/templates/advert-email.md %}"></iframe>
-[Open in a new page]({% link resources/templates/advert-email.md %})
+<iframe class="template" src="{{ site.baseurl }}{% link resources/templates/advert-email.md %}"></iframe>
+[Open in a new page]({{ site.baseurl }}{% link resources/templates/advert-email.md %})
 
 ### Social media sharing images
 
@@ -43,85 +43,85 @@ hackathons and events in the future.
 
 ### Application form
 
-<iframe class="template" src="{% link resources/templates/application-form.md %}"></iframe>
-[Open in a new page]({% link resources/templates/application-form.md %})
+<iframe class="template" src="{{ site.baseurl }}{% link resources/templates/application-form.md %}"></iframe>
+[Open in a new page]({{ site.baseurl }}{% link resources/templates/application-form.md %})
 
 ### Participant acceptance email
 
-<iframe class="template" src="{% link resources/templates/accept-email.md %}"></iframe>
-[Open in a new page]({% link resources/templates/accept-email.md %})
+<iframe class="template" src="{{ site.baseurl }}{% link resources/templates/accept-email.md %}"></iframe>
+[Open in a new page]({{ site.baseurl }}{% link resources/templates/accept-email.md %})
 
 ### Participant decline email
 
-<iframe class="template" src="{% link resources/templates/decline-email.md %}"></iframe>
-[Open in a new page]({% link resources/templates/decline-email.md %})
+<iframe class="template" src="{{ site.baseurl }}{% link resources/templates/decline-email.md %}"></iframe>
+[Open in a new page]({{ site.baseurl }}{% link resources/templates/decline-email.md %})
 
 ### Participant further information form
 
-<iframe class="template" src="{% link resources/templates/participant-info-form.md %}"></iframe>
-[Open in a new page]({% link resources/templates/participant-info-form.md %})
+<iframe class="template" src="{{ site.baseurl }}{% link resources/templates/participant-info-form.md %}"></iframe>
+[Open in a new page]({{ site.baseurl }}{% link resources/templates/participant-info-form.md %})
 
 
 ## Keeping track of participants and project leads
 
 ### Participant spreadsheet
 
-<iframe class="template" src="{% link resources/templates/participant-spreadsheet.md %}"></iframe>
-[Open in a new page]({% link resources/templates/participant-spreadsheet.md %})
+<iframe class="template" src="{{ site.baseurl }}{% link resources/templates/participant-spreadsheet.md %}"></iframe>
+[Open in a new page]({{ site.baseurl }}{% link resources/templates/participant-spreadsheet.md %})
 
 ### Project lead spreadsheet
 
-<iframe class="template" src="{% link resources/templates/project-lead-spreadsheet.md %}"></iframe>
-[Open in a new page]({% link resources/templates/project-lead-spreadsheet.md %})
+<iframe class="template" src="{{ site.baseurl }}{% link resources/templates/project-lead-spreadsheet.md %}"></iframe>
+[Open in a new page]({{ site.baseurl }}{% link resources/templates/project-lead-spreadsheet.md %})
 
 
 ## Before the hackathon
 
 ### Project lead briefing presentation
 
-<iframe class="template" src="{% link resources/project-lead-briefing.html %}"></iframe>
-[Open in a new page]({% link resources/project-lead-briefing.html %})
+<iframe class="template" src="{{ site.baseurl }}{% link resources/project-lead-briefing.html %}"></iframe>
+[Open in a new page]({{ site.baseurl }}{% link resources/project-lead-briefing.html %})
 
 ### Participant briefing presentation
 
-<iframe class="template" src="{% link resources/participant-briefing.html %}"></iframe>
-[Open in a new page]({% link resources/participant-briefing.html %})
+<iframe class="template" src="{{ site.baseurl }}{% link resources/participant-briefing.html %}"></iframe>
+[Open in a new page]({{ site.baseurl }}{% link resources/participant-briefing.html %})
 
 ### Participant project allocation & Slack invite email
 
-<iframe class="template" src="{% link resources/templates/project-email.md %}"></iframe>
-[Open in a new page]({% link resources/templates/project-email.md %})
+<iframe class="template" src="{{ site.baseurl }}{% link resources/templates/project-email.md %}"></iframe>
+[Open in a new page]({{ site.baseurl }}{% link resources/templates/project-email.md %})
 
 ### Drop-in sessions email
 
-<iframe class="template" src="{% link resources/templates/drop-in-sessions-email.md %}"></iframe>
-[Open in a new page]({% link resources/templates/drop-in-sessions-email.md %})
+<iframe class="template" src="{{ site.baseurl }}{% link resources/templates/drop-in-sessions-email.md %}"></iframe>
+[Open in a new page]({{ site.baseurl }}{% link resources/templates/drop-in-sessions-email.md %})
 
 
 ## During the hackathon
 
 ### Slack workspace suggested layout
 
-<iframe class="template" src="{% link resources/templates/slack-workspace.md %}"></iframe>
-[Open in a new page]({% link resources/templates/slack-workspace.md %})
+<iframe class="template" src="{{ site.baseurl }}{% link resources/templates/slack-workspace.md %}"></iframe>
+[Open in a new page]({{ site.baseurl }}{% link resources/templates/slack-workspace.md %})
 
 ### Shared document suggested content
 
-<iframe class="template" src="{% link resources/templates/shared-documents.md %}"></iframe>
-[Open in a new page]({% link resources/templates/shared-documents.md %})
+<iframe class="template" src="{{ site.baseurl }}{% link resources/templates/shared-documents.md %}"></iframe>
+[Open in a new page]({{ site.baseurl }}{% link resources/templates/shared-documents.md %})
 
 ### Hackathon presentation
 
-<iframe class="template" src="{% link resources/agenda-slides.html %}"></iframe>
-[Open in a new page]({% link resources/agenda-slides.html %})
+<iframe class="template" src="{{ site.baseurl }}{% link resources/agenda-slides.html %}"></iframe>
+[Open in a new page]({{ site.baseurl }}{% link resources/agenda-slides.html %})
 
 
 ## After the hackathon
 
 ### Feedback form
 
-<iframe class="template" src="{% link resources/templates/feedback-form.md %}"></iframe>
-[Open in a new page]({% link resources/templates/feedback-form.md %})
+<iframe class="template" src="{{ site.baseurl }}{% link resources/templates/feedback-form.md %}"></iframe>
+[Open in a new page]({{ site.baseurl }}{% link resources/templates/feedback-form.md %})
 
 
 <script>

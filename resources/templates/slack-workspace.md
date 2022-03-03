@@ -69,13 +69,13 @@ layout: resource
 
 > A summary of the material discussed at the project lead briefing:
 > * Website address – https://cmip6moap.github.io/
-> * Project lead briefing – [slides]({% link resources/project-lead-briefing.html %}) and **recording**
-> * [Participant guide]({% link resources/participant-guide.md %}) – more detail on all the points discussed during the presentation
-> * [Creating an account on JASMIN]({% link resources/creating-jasmin-account.md %}) and [checking you have the right level of access]({% link resources/creating-jasmin-account.md %}#getting-access-to-the-right-services)
-> * [Project abstracts]({% link projects.md %})
-> * [Hackathon agenda]({% link agenda.md %})
-> * [Resources & tutorials]({% link resources.md %})
-> * [CEDA Archive](https://data.ceda.ac.uk/) & guides to [finding]({% link resources/finding-cmip6-data.md %}) and [loading]({% link resources/loading-data-xarray.md %}) data
+> * Project lead briefing – [slides]({{ site.baseurl }}{% link resources/project-lead-briefing.html %}) and **recording**
+> * [Participant guide]({{ site.baseurl }}{% link resources/participant-guide.md %}) – more detail on all the points discussed during the presentation
+> * [Creating an account on JASMIN]({{ site.baseurl }}{% link resources/creating-jasmin-account.md %}) and [checking you have the right level of access]({{ site.baseurl }}{% link resources/creating-jasmin-account.md %}#getting-access-to-the-right-services)
+> * [Project abstracts]({{ site.baseurl }}{% link projects.md %})
+> * [Hackathon agenda]({{ site.baseurl }}{% link agenda.md %})
+> * [Resources & tutorials]({{ site.baseurl }}{% link resources.md %})
+> * [CEDA Archive](https://data.ceda.ac.uk/) & guides to [finding]({{ site.baseurl }}{% link resources/finding-cmip6-data.md %}) and [loading]({{ site.baseurl }}{% link resources/loading-data-xarray.md %}) data
 >
 > Example Jupyter notebooks
 > * [Earthquake paper](https://nbviewer.ipython.org/github/cossatot/lanf_earthquake_likelihood/blob/master/notebooks/lanf_manuscript_notebook.ipynb)
