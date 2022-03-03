@@ -6,6 +6,18 @@ $header-brand-color: #00bcd4;
 
 @import "minima";
 
+.footer-col-2 {
+    text-align: center;
+    width: -webkit-calc(20% - (30px / 2));
+    width: calc(20% - (30px / 2));
+}
+
+.footer-col-3 {
+    text-align: right;
+    width: -webkit-calc(45% - (30px / 2));
+    width: calc(45% - (30px / 2));
+}
+
 .site-header {
     background: #013088;
     border: none;
