@@ -12,7 +12,7 @@ menu_icon: house-door
 
 The IOOS Code Sprint is a 4-day hackathon style event on **25-28 April 2022**, organized by the Great Lakes Observing System (GLOS) and the Integrated Ocean Observing System (IOOS) Office. Over the course of the event, teams of developers, academic researchers, and community members will work on projects that address pressing data and information challenges. Projects will relate to the IOOS mission to produce, integrate, and communicate high quality ocean, coastal and Great Lakes information that meets the safety, economic, and stewardship needs of the Nation.
 
-
+{% link /assets/cs_graphic.png %} 
 {% comment %}
 EDIT THIS SECTION
 Researchers could sign up to [topics ranging from]({% link projects.md %})

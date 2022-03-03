@@ -28,7 +28,7 @@ header_pages:
 registration_status: open
 
 # Remove ".html" from default permalinks
-permalink: pretty
+permalink: url/:categories/:year/:month/:day/:title/
 
 # (See default layout below)
 collections:
