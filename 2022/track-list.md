@@ -6,6 +6,8 @@ For each topic, we recommend that the lead submits an [issue](https://github.com
 
 Expectations for topic leads: Leads are expected to identify a plan for the code sprint topic, establish a team, and take the lead on executing said plan. 
 
+*Most of the content below came from surveys past. Nothing is fixed as of 2022/03/04*
+
 ## ERDDAP
 |**Topics within track**|**links**|**lead**|**duration**|
 |---------------|---------|--------|------|
