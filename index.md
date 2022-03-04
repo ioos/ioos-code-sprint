@@ -6,7 +6,7 @@ menu_icon: house-door
 ---
 
 {:.secondary}
-# **25–28 April 2022** - hosted in Chicago, IL by the Great Lakes Observing System (GLOS).
+# **25–28 April 2022** - a hybrid event hosted by the [Great Lakes Observing System (GLOS)](https://glos.org){: target="_blank"}.
 
 ![](/assets/cs_graphic.png)
 

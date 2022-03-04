@@ -21,7 +21,9 @@ The Code Sprint will begin at 1 PM CST on Monday, April 25 and run until 11 AM C
 
 ## Travel
 
-The Great Lakes Observing System that is hosting the Code Sprint will provide $1,500 travel voucher for those in-person attendees who need them.  The travel voucher will be paid with check in advance of the event. 
+The Great Lakes Observing System will be hosting the Code Sprint and will provide $1,500 travel voucher for those in-person attendees who need them.  The travel voucher will be paid with check in advance of the event. The in-person event will be held at The Pendry Chicago, see map below.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5940.506303121107!2d-87.62575596218389!3d41.88740589135664!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2d4baf8536a5%3A0x84aad57b4460fe5b!2sPendry%20Chicago!5e0!3m2!1sen!2sus!4v1646413120630!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 Please note the following: 
 
