@@ -34,12 +34,17 @@ Expectations for topic leads: Leads are expected to identify a plan for the code
 | Biodiversity indicator development from open source data & visualization/analysis of indicators. |  |  |  |
 | Biodiversity assessment |  |  |  |
 
-## Cloud/IoT
+## Cloud
 |**Topics within track**|**links**|**lead**|**duration**|
 |---------------|---------|--------|----|
 | Geospatial and Metadata |  |  |  |
 | Front end JavaScript (React) |  |  |  |
 | Python as it pertains to cloud/IoT |  |  |  |
+
+## IoT
+|**Topics within track**|**links**|**lead**|**duration**|
+|---------------|---------|--------|----|
+| Python as it pertains to IoT |  |  |  |
 
 ## Metadata
 |**Topics within track**|**links**|**lead**|**duration**|
