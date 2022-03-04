@@ -2,7 +2,7 @@
 
 This is the development page for topic ideas during the 2022 IOOS Code Sprint. Each header below identifies a track during the code sprint (essentially the room each group will be in). Within each track, various topics are identified for sprint projects.
 
-For each topic, we recommend that the lead submits an [issue](https://github.com/ioos/ioos-code-sprint/issues/new?assignees=&labels=&template=code-sprint-project-proposal.md&title=Project+title) to this repository, identifying the scope of that topic. This will help ensure each code sprint topic has a plan that can be executed during the code sprint week. 
+If you have a topic you would like to focus on during a track, we recommend that you submits an [issue](https://github.com/ioos/ioos-code-sprint/issues/new?assignees=&labels=&template=code-sprint-project-proposal.md&title=Project+title) to this repository, identifying the scope of that topic. This will help ensure each code sprint topic has a plan that can be executed during the code sprint week. 
 
 Expectations for topic leads: Leads are expected to identify a plan for the code sprint topic, establish a team, and take the lead on executing said plan. 
 
