@@ -18,43 +18,20 @@ registration is **31 March 2022**.
   <a class="btn disabled">Registration opens soon</a>
 {% endif %}
 
-The closing date for registration is 31 March 2022.
 </div>
 
-What to put here?
+The Code Sprint will begin at 1 PM CST on Monday, April 25 and run until 11 AM CST on Thursday, April 28. The event will be held in [Chicago, Illinois at the Pendry Hotel](https://www.google.com/maps/place/41%C2%B053'12.2%22N+87%C2%B037'30.0%22W/@41.8867298,-87.6249943,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x7770d883faa72dd5!8m2!3d41.8867298!4d-87.6249943) with a virtual option for participants.
 
-{% comment %}
-We are looking for enthusiastic and dedicated researchers who already have
-experience with analysing environmental data, and who are keen to experience
-working with different scientists and institutes, and perhaps on topics not
-immediately in their area. We also intend that early career
-researchers[<sup>(?)</sup>][faq]{:title="What do we mean by an Early Career
-Researcher (ECR)?"}, will build strong relationships with their peers from other
-institutes. 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5940.588087842417!2d-87.625598172907!3d41.88653031324727!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2d4baf8536a5%3A0x84aad57b4460fe5b!2sPendry%20Chicago!5e0!3m2!1sen!2sus!4v1646410004715!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
-This virtual event will require approximately two hours commitment prior to the
-hackathon, and then three days commitment during the event, which will take part
-from **2–4 June 2021**. Technical support and guidance will be provided by the
-[Cabot Institute](https://www.bristol.ac.uk/cabot/) and [Jean Golding
-Institute](https://www.bristol.ac.uk/golding/) at the University of Bristol, but
-we expect all applicants to have prior knowledge of scientific programming.
+COVID Policy: We will abide by City of Chicago and CDC guidelines. In addition, all attendees will be required to show proof of vaccination when they arrive at the venue and to wear masks for the duration of the event except when eating or drinking.
 
-We will supply each researcher with a temporary hackathon account on the [JASMIN
-data analysis facility](https://www.jasmin.ac.uk/), which will give then access
-to a Python&nbsp;3 notebook environment and a variety of relevant datasets, for
-which we can provide technical support and guidance. Researchers (especially
-those with existing JASMIN accounts) may be able to use other programming
-languages and tools, however we will only be able to provide limited support for
-these.
+**About the Pendry Hotel:** [website](https://www.pendry.com/chicago/)
 
-If you are interested in applying and having the opportunity to engage with
-like-minded scientists, then please [complete the application
-form](https://forms.office.com/Pages/ResponsePage.aspx?id=MH_ksn3NTkql2rGM8aQVGw_pOzWxiVREohc9UmBS3JRURDc1NU04STBJVUVETERORDRCU1Y0NTFWWC4u){:target="_blank"}.
-Please be aware that this event will only be open to those residing in UK
-academic institutions.
+**City of Chicago guidelines:** [website](https://www.chicago.gov/city/en/sites/covid-19/home/latest-guidance.html)
 
-The closing date for the applications is 16 April 2021. If you have any queries,
-or have any difficulties completing the registration form, please email our
-dedicated mailbox: <cmip6moap-hackathonevent2021@bristol.ac.uk>.
-{% endcomment %}
+**CDC guidelines:** [website](https://www.cdc.gov/coronavirus/2019-ncov/community/large-events/considerations-for-events-gatherings.html)
+
+We will reach out to those interested in attending with hotel reservation information. 
+
 [faq]: {% link faq.md %}
