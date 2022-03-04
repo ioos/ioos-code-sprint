@@ -8,7 +8,7 @@ menu_icon: journal-code
 <li class="resource-block" markdown="1">
 
 ## Getting set up
-
+#### [Participant guide]({{ site.baseurl }}{% link resources/participant-guide.md %}) - a guide that explains how the code sprint is being organised
 </li>
 <li class="resource-block" markdown="1">
 
@@ -27,6 +27,8 @@ hackathon, including links to relevant resources and templates.
 <li class="resource-block" markdown="1">
 
 ## Useful templates
+#### [Templates]({{ site.baseurl }}{% link resources/templates.md %}) - useful forms, emails and resources for organisers
+
 
 </li>
 </ul>
