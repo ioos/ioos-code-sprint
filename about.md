@@ -19,8 +19,8 @@ A bi-national nonprofit, GLOS provides end-to-end data services that support sci
 ## The organizing team
 
 {:.lead}
-To contact us about the Code Sprint, please email:
-{% comment %}<mathew.biddle@noaa.gov>{% endcomment %}
+If you would like to help organize the Code Sprint, please email:
+<mathew.biddle@noaa.gov>
 
 <table class="team-list">
     <tr>
