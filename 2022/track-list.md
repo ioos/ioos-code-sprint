@@ -18,7 +18,6 @@ Expectations for topic leads: Leads are expected to identify a plan for the code
 ## General Python
 |**Topics within track**|**links**|**lead**|**duration**|
 |---------------|---------|--------|-----|
-| mapping an ISO metadata record to EML |  |  |  |
 | Ioos_qc implementation |  |  |  |
 | strategies for querying/visualizing gridded data (pygeoapi, stac, xarray) as outputs get larger (higher resolution, more variables) |  |  |  |
 | IOOS Compliance Checker refactor and documentation/examples for plugins | https://github.com/ioos/ioos-code-sprint/issues/2 | @benjwadams | | 
@@ -41,3 +40,8 @@ Expectations for topic leads: Leads are expected to identify a plan for the code
 | Geospatial and Metadata |  |  |  |
 | Front end JavaScript (React) |  |  |  |
 | Python as it pertains to cloud/IoT |  |  |  |
+
+## Metadata
+|**Topics within track**|**links**|**lead**|**duration**|
+|---------------|---------|--------|-----|
+| mapping an ISO metadata record to EML |  |  |  |
