@@ -2,6 +2,8 @@
 
 The website here was developed from the content shared at https://cmip6moap.github.io/.
 
+Code Sprint website: https://ioos.github.io/ioos-code-sprint/
+
 ## Maintainer(s)
 
 * @MathewBiddle
