@@ -1,8 +1,5 @@
 ---
 title: Template forms, emails and resources
-date: 2021-05-20
-authors:
- - "[James Thomas](https://github.com/jatonline/) ([Jean Golding Institute](https://www.bristol.ac.uk/golding/))"
 layout: resource
 ---
 
@@ -23,41 +20,9 @@ hackathons and events in the future.
 
 ### Advertising email
 
-<iframe class="template" src="{{ site.baseurl }}{% link resources/templates/advert-email.md %}"></iframe>
-[Open in a new page]({{ site.baseurl }}{% link resources/templates/advert-email.md %})
-
 ### Social media sharing images
 
-#### Registration stage
-
-![Social media sharing image for the IOOS Code Sprint]({{ site.baseurl }}/assets/cs_graphic.png){: width="500" }  
-
-#### Event stage
-
 ![Social media sharing image for the IOOS Code Sprint]({{ site.baseurl }}/assets/cs_graphic.png){: width="500" } 
-
-
-## Getting applications to the hackathon
-
-### Application form
-
-<iframe class="template" src="{{ site.baseurl }}{% link resources/templates/application-form.md %}"></iframe>
-[Open in a new page]({{ site.baseurl }}{% link resources/templates/application-form.md %})
-
-### Participant acceptance email
-
-<iframe class="template" src="{{ site.baseurl }}{% link resources/templates/accept-email.md %}"></iframe>
-[Open in a new page]({{ site.baseurl }}{% link resources/templates/accept-email.md %})
-
-### Participant decline email
-
-<iframe class="template" src="{{ site.baseurl }}{% link resources/templates/decline-email.md %}"></iframe>
-[Open in a new page]({{ site.baseurl }}{% link resources/templates/decline-email.md %})
-
-### Participant further information form
-
-<iframe class="template" src="{{ site.baseurl }}{% link resources/templates/participant-info-form.md %}"></iframe>
-[Open in a new page]({{ site.baseurl }}{% link resources/templates/participant-info-form.md %})
 
 
 ## Keeping track of participants and project leads
@@ -77,24 +42,12 @@ hackathons and events in the future.
 
 ### Project lead briefing presentation
 
-<iframe class="template" src="{{ site.baseurl }}{% link resources/project-lead-briefing.html %}"></iframe>
-[Open in a new page]({{ site.baseurl }}{% link resources/project-lead-briefing.html %})
-
 ### Participant briefing presentation
-
-<iframe class="template" src="{{ site.baseurl }}{% link resources/participant-briefing.html %}"></iframe>
-[Open in a new page]({{ site.baseurl }}{% link resources/participant-briefing.html %})
 
 ### Participant project allocation & Slack invite email
 
 <iframe class="template" src="{{ site.baseurl }}{% link resources/templates/project-email.md %}"></iframe>
 [Open in a new page]({{ site.baseurl }}{% link resources/templates/project-email.md %})
-
-### Drop-in sessions email
-
-<iframe class="template" src="{{ site.baseurl }}{% link resources/templates/drop-in-sessions-email.md %}"></iframe>
-[Open in a new page]({{ site.baseurl }}{% link resources/templates/drop-in-sessions-email.md %})
-
 
 ## During the hackathon
 
@@ -108,19 +61,11 @@ hackathons and events in the future.
 <iframe class="template" src="{{ site.baseurl }}{% link resources/templates/shared-documents.md %}"></iframe>
 [Open in a new page]({{ site.baseurl }}{% link resources/templates/shared-documents.md %})
 
-### Hackathon presentation
+### Code Sprint presentation
 
-<iframe class="template" src="{{ site.baseurl }}{% link resources/agenda-slides.html %}"></iframe>
-[Open in a new page]({{ site.baseurl }}{% link resources/agenda-slides.html %})
-
-
-## After the hackathon
+## After the code sprint
 
 ### Feedback form
-
-<iframe class="template" src="{{ site.baseurl }}{% link resources/templates/feedback-form.md %}"></iframe>
-[Open in a new page]({{ site.baseurl }}{% link resources/templates/feedback-form.md %})
-
 
 <script>
     document.querySelectorAll('iframe.template').forEach(iframe =>
