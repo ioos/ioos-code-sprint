@@ -95,7 +95,7 @@ We ask that by the end of the code sprint:
 
 <div class="aside" markdown="1">
 The best way to contact us during the code sprint is to use the
-**[#help channel](https://cmip6moap.slack.com/archives/help) on Slack**.
+**[#help channel](https://ioos.slack.com/) on Slack**.
 </div>
 
 ## Feedback

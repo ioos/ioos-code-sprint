@@ -10,9 +10,11 @@ menu_icon: journal-code
 ## Getting set up
 #### [Participant guide]({{ site.baseurl }}{% link resources/participant-guide.md %}) - a guide that explains how the code sprint is being organised
 </li>
+
 <li class="resource-block" markdown="1">
 
-## Tutorial notebooks
+## Recordings and slides
+#### [Videos and slides]({{ site.baseurl }}{% link videos-slides.md %}) - Recordings and slide decks from the week
 
 </li>
 <li class="resource-block" markdown="1">

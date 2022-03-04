@@ -9,7 +9,7 @@ Code Sprint website: https://ioos.github.io/ioos-code-sprint/
 * @MathewBiddle
 
 ## Deploying site locally
-See [this documentation](https://carpentries.github.io/lesson-example/setup.html).
+See [this documentation](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
 
 Navigate to the folder that contains the lesson, and use `bundle exec jekyll serve` to preview the lessons.
 
