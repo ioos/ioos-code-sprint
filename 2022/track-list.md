@@ -13,7 +13,7 @@ Expectations for topic leads: Leads are expected to identify a plan for the code
 |---------------|---------|--------|------|
 | Using ERDDAP in the IOOS RA/DAC archive pipelines. | https://github.com/ioos/ioos-atn-data/issues/28 | @MathewBiddle | 6 hrs? |
 | ERDDAP server best practices (talk) |  |  |  |
-| User documentation on "how to get started with your erddap server" (sprint) |  |  |  |
+| User documentation on "how to get started with your erddap server" (sprint) |  | @joe-smithe-glos interested |  |
 | Tools for easing data integration into ERDDAP |  |  |  |
 | ERDDAP integration |  |  |  |
 
