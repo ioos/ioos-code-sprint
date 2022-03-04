@@ -4,9 +4,9 @@ This is the development page for topic ideas during the 2022 IOOS Code Sprint. E
 
 If you have a topic you would like to focus on during a track, we recommend that you submit an [issue](https://github.com/ioos/ioos-code-sprint/issues/new?assignees=&labels=&template=code-sprint-project-proposal.md&title=Project+title) to this repository, identifying the scope of that topic. This will help ensure each code sprint topic has a plan that can be executed during the code sprint week. 
 
-Expectations for topic leads: Leads are expected to identify a plan for the code sprint topic, establish a team, and take the lead on executing said plan. 
+Expectations for topic leads: Leads are expected to identify a short plan for the code sprint topic, establish a team, and take the lead on executing said plan. 
 
-*Most of the content below came from surveys past. Nothing is fixed as of 2022/03/04*
+*We've populated the tracks below with topics from the initial survey and registration forms. These topics are open for further discussion.*
 
 ## ERDDAP
 |**Topics within track**|**links**|**lead**|**duration**|
