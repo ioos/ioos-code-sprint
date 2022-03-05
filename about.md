@@ -25,7 +25,7 @@ If you would like to help organize the Code Sprint, please email:
 <table class="team-list">
     <tr>
         <td>
-            <img alt="Mathew Biddle" src="{{ site.url }}{{ site.baseurl }}/assets/team/Matt.png">
+            <img alt="Mathew Biddle" src="https://avatars.githubusercontent.com/u/8480023?v=4">
         </td>
         <td>
             <strong>Mathew Biddle</strong>
@@ -36,6 +36,30 @@ If you would like to help organize the Code Sprint, please email:
             </span>
             <br>Integrated Ocean Observing System (IOOS)
             <br>National Oceanic and Atmospheric Administration (NOAA)
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img alt="David Fitch" src="https://avatars.githubusercontent.com/u/52428210?v=4">
+        </td>
+        <td>
+            <strong>David Fitch</strong>
+            <span class="profile-links">
+                <a title="GitHub" href="https://github.com/david-fitch/"><i class="bi bi-github"></i></a>
+            </span>
+            <br>Great Lakes Observing System (GLOS)
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img alt="Joeseph Smith" src="https://avatars.githubusercontent.com/u/83672089?v=4">
+        </td>
+        <td>
+            <strong>Joseph Smith</strong>
+            <span class="profile-links">
+                <a title="GitHub" href="https://github.com/joe-smithe-glos/"><i class="bi bi-github"></i></a>
+            </span>
+            <br>Great Lakes Observing System (GLOS)
         </td>
     </tr>
 </table>
