@@ -12,26 +12,20 @@ including links to relevant resources and templates.
 
 {:.alt-table}
 Date              | Action
----               | ---
-4 months before   |  
+---               | ---                 
+March 31          | Finalize [participants]({{ site.baseurl }}{% link resources/templates.md %}#participant-spreadsheet) and provisionally allocate projects
+                  | Send calendar invites for pre-Code Sprint meetings and Code Sprint to project leads and participants
 ---               | ---                  
-3 months before   | 
----               | ---                  
-2 months before	  | 
----               | ---                  
-1.5 months before | Finalise [participants]({{ site.baseurl }}{% link resources/templates.md %}#participant-spreadsheet) and provisionally allocate projects
-                  | Send calendar invites for pre-hackathon meetings and hackathon to project leads and participants
----               | ---                  
-2 weeks before    | Finalise [tutorial notebooks / repositories]({{ site.baseurl }}{% link resources.md %})
-                  | Create recurring Zoom meeting for hackathon, with pre-allocated breakout rooms for projects, ensuring participants are muted on entry, can connect without host present and can move freely between breakout rooms
-                  | Create Slack workspace, with channels for each project
+April 11          | Finalize [tutorial notebooks / repositories]({{ site.baseurl }}{% link resources.md %})
+                  | Create recurring Zoom meeting for Code Sprint, with pre-allocated breakout rooms for topics, ensuring participants are muted on entry, can connect without host present and can move freely between breakout rooms
+                  | Create Slack channelsfor each track/topic.
                   | Create/share GitHub repository for each project
                   | Create shared documents for online collaboration
                   | Add GitHub usernames of participants to their project repositories
 ---               | ---                  
-1 week before     | Check there are contingencies in case of connection issues, including alternate host on Zoom
+April 18          | Check there are contingencies in case of connection issues, including alternate host on Zoom
 ---               | ---                  
-Code Sprint date  | Make sure the Zoom meeting can be joined without going via the waiting room
-                  | Ensure the code of conduct is signposted at the start
+**Code Sprint**   | Make sure the Zoom meeting can be joined without going via the waiting room
+April 25-28       | Ensure the code of conduct is signposted at the start
 ---               | ---                  
 1 week after      | Remind participants to move data off system
