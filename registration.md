@@ -35,10 +35,10 @@ Please note the following:
 
 To start the process, complete the form below. 
 {% if site.registration_status == 'open' %}
-  [Travel Voucher form coming soon...]({{ site.baseurl }}/404.html){:.btn target="_blank"}
+  [Travel Voucher Request form](https://docs.google.com/forms/d/e/1FAIpQLSe-6zdeZStmn7GJ_RKF7RP5Nqe-D-c-SzongAow8u1mwGUWOA/viewform?vc=0&c=0&w=1&flr=0){:.btn target="_blank"}
 {% elsif site.registration_status == 'closed' %}
   <a class="btn disabled">Registration has closed</a>
 {% elsif site.registration_status == 'soon' %}
-  <a class="btn disabled">Registration opens soon</a>
+  [Travel Voucher form coming soon...]({{ site.baseurl }}/404.html){:.btn target="_blank"}
 {% endif %}
 [faq]: {% link faq.md %}
