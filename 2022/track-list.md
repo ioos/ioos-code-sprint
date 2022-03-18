@@ -28,6 +28,7 @@ Expectations for topic leads: Leads are expected to identify a short plan for th
 ## Biology/Ecology
 |**Topics within track**|**links**|**lead**|**duration**|
 |---------------|---------|--------|-----|
+| General | | @hmoustahfid-NOAA interested in participating, is seeking lead |  |
 | Update the robis package |  |  |  |
 | Update the pyworms package |  |  |  |
 | Darwin Core training |  |  |  |
