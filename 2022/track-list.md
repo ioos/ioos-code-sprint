@@ -33,7 +33,7 @@ Expectations for topic leads: Leads are expected to identify a short plan for th
 | Update the pyworms package |  |  |  |
 | Darwin Core training |  |  |  |
 | Enhance robis MoF response |  |  |  |
-| Biodata tools |  |  |  |
+| OBIStools-style QC library in Python | https://github.com/ioos/ioos-code-sprint/issues/7 | @jdpye |  |
 | Biodiversity indicator development from open source data & visualization/analysis of indicators. |  |  |  |
 | Biodiversity assessment |  |  |  |
 
