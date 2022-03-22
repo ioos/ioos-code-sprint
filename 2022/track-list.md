@@ -8,6 +8,8 @@ Expectations for topic leads: Leads are expected to identify a short plan for th
 
 *We've populated the tracks below with topics from the initial survey and registration forms. These topics are open for further discussion.*
 
+To register for the Code Sprint, please see the registration website https://ioos.github.io/ioos-code-sprint/registration/.
+
 ## ERDDAP
 |**Topics within track**|**links**|**lead**|**duration**|
 |---------------|---------|--------|------|
