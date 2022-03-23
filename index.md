@@ -12,7 +12,9 @@ menu_icon: house-door
 
 The IOOS Code Sprint is a 4-day hackathon style event on **25-28 April 2022**, organized by the Great Lakes Observing System (GLOS) and the Integrated Ocean Observing System (IOOS) Office. Over the course of the event, teams of developers, academic researchers, and community members will work on projects that address pressing data and information challenges. Projects will relate to the IOOS mission to produce, integrate, and communicate high quality ocean, coastal and Great Lakes information that meets the safety, economic, and stewardship needs of the Nation.
 
-Researchers will sign up to work on [topics ranging from]({% link projects.md %}) ERDDAP, General Python, Biology/Ecology, Cloud, IoT, Metadata, and more. Teams will be lead by individuals who have a keen interest in topics. Some specific topics identified include:
+To register for the event please see the [registration page]({{ site.baseurl }}{% link registration.md %}). Participation is open to the IOOS community. The closing date for registration is **31 March 2022**.
+
+Researchers will sign up to work on [topics ranging from]({{ site.baseurl }}{% link projects.md %}) ERDDAP, General Python, Biology/Ecology, Cloud, IoT, Metadata, and more. Teams will be lead by individuals who have a keen interest in topics. Some specific topics identified include:
 * Using ERDDAP in the IOOS RA/DAC archive pipelines.
 * User documentation on "how to get started with your erddap server"
 * IOOS Compliance Checker refactor and documentation/examples for plugins
