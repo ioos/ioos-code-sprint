@@ -14,6 +14,14 @@ The IOOS Code Sprint is a 4-day hackathon style event on **25-28 April 2022**, o
 
 To register for the event please see the [registration page]({{ site.baseurl }}{% link registration.md %}). Participation is open to the IOOS community. The closing date for registration is **31 March 2022**.
 
+{% if site.registration_status == 'open' %}
+  [Registration Page]({{ site.baseurl }}{% link registration.md %}){:.btn target="_blank"}
+{% elsif site.registration_status == 'closed' %}
+  <a class="btn disabled">Registration has closed</a>
+{% elsif site.registration_status == 'soon' %}
+  <a class="btn disabled">Registration opens soon</a>
+{% endif %}
+
 Researchers will sign up to work on [topics ranging from]({{ site.baseurl }}{% link projects.md %}) ERDDAP, General Python, Biology/Ecology, Cloud, IoT, Metadata, and more. Teams will be lead by individuals who have a keen interest in specific topics. Some of the already identified topics include:
 * Using ERDDAP in the IOOS RA/DAC archive pipelines.
 * User documentation on "how to get started with your erddap server"
@@ -23,13 +31,5 @@ Researchers will sign up to work on [topics ranging from]({{ site.baseurl }}{% l
 If you have topics of interest, see the [track list](https://github.com/ioos/ioos-code-sprint/blob/main/2022/track-list.md) page for contribution guidance.
 
 The event will take place virtually and in-person, using a combination of **video conferencing** (TBD) for meetings and seminars, and **discussion forums** ([Slack invite link](https://join.slack.com/t/ioos/shared_invite/zt-14r0ntixu-7ux490FNRRvXCNJ0Kz~nKg) - see `#code-sprint-2022` channel) for ongoing communication. Outputs will saved to [GitHub]({{ site.github.owner_url }}).
-
-{% if site.registration_status == 'open' %}
-  [Register]({{ site.baseurl }}{% link registration.md %}){:.btn target="_blank"}
-{% elsif site.registration_status == 'closed' %}
-  <a class="btn disabled">Registration has closed</a>
-{% elsif site.registration_status == 'soon' %}
-  <a class="btn disabled">Registration opens soon</a>
-{% endif %}
 
 [faq]: {% link faq.md %}
