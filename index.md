@@ -25,7 +25,7 @@ If you have topics of interest, see the [track list](https://github.com/ioos/ioo
 The event will take place virtually and in-person, using a combination of **video conferencing** (TBD) for meetings and seminars, and **discussion forums** ([Slack invite link](https://join.slack.com/t/ioos/shared_invite/zt-14r0ntixu-7ux490FNRRvXCNJ0Kz~nKg) - see `#code-sprint-2022` channel) for ongoing communication. Outputs will saved to [GitHub]({{ site.github.owner_url }}).
 
 {% if site.registration_status == 'open' %}
-  [Register]({{ site.baseurl }}{% link registration.md %})
+  [Register]({{ site.baseurl }}{% link registration.md %}){:.btn target="_blank"}
 {% elsif site.registration_status == 'closed' %}
   <a class="btn disabled">Registration has closed</a>
 {% elsif site.registration_status == 'soon' %}
