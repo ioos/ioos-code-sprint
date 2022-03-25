@@ -10,10 +10,10 @@ menu_icon: clock
 Time (CST)    | Activity | Zoom | Room
 ------------- | -------- | ---- | ----
 12:00 - 13:00 | Registration open |  |
-13:00 – 14:30 | Code Sprint Introduction/Logistics<br>IOOS<br>GLOS | Michigan |
-14:30 – 15:30 | Sprint Pitches & Introductions | main room |
+13:00 – 14:30 | Code Sprint Introduction/Logistics<br>IOOS<br>GLOS | | Michigan Ballroom |
+14:30 – 15:30 | Sprint Pitches & Introductions | | Michigan Ballroom |
 15:30 - 16:00 | break | |
-16:30 - 16:30 | Collaboration | main room |
+16:30 - 16:30 | Collaboration | | Michigan Ballroom |
 16:30 – 17:00 | **End of Day/Social Activities** | breakout rooms |
 
 ## Day 2 - Tuesday April 26
@@ -52,4 +52,4 @@ Time (CST)    | Activity | Zoom | Room
 08:30 – 09:00 | Breakfast/Coffee | main room |
 09:00 – 09:30 | Stand ups? | breakout rooms |
 09:30 – 10:00 | **Breakout groups**<br>Recap and continue working on projects | breakout rooms |
-10:00 – 11:00 | **Report outs/Closing Discussion** | | Salon 1 & 2 |
+10:00 – 11:00 | **Report outs/Closing Discussion** | | Michigan Ballroom |
