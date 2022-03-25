@@ -10,9 +10,10 @@ menu_icon: clock
 Time (CST)    | Activity | Zoom | Room
 ------------- | -------- | ---- | ----
 12:00 - 13:00 | Registration open |  |
-13:00 – 14:00 | Code Sprint Introduction/Logistics | main room |
-14:00 – 15:30 |  | main room |
-15:30 - 16:30 | Sprint Pitches & Introductions | main room |
+13:00 – 14:30 | Code Sprint Introduction/Logistics<br>IOOS<br>GLOS | main room |
+14:30 – 15:30 | Sprint Pitches & Introductions | main room |
+15:30 - 16:00 | break | |
+16:30 - 16:30 | Collaboration | main room |
 16:30 – 17:00 | **End of Day/Social Activities** | breakout rooms |
 
 ## Day 2 - Tuesday April 26
