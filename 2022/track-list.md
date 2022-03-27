@@ -36,7 +36,7 @@ To register for the Code Sprint, please see the registration website https://ioo
 | Darwin Core training |  |  |  |
 | Enhance robis MoF response |  |  |  |
 | OBIStools-style QC library in Python | https://github.com/ioos/ioos-code-sprint/issues/7 | @jdpye |  |
-| Biodiversity indicator development from open source data & visualization/analysis of indicators. |  |  |  |
+| Biodiversity indicator development from open source data & visualization/analysis of indicators. | @7yl4r |  |  |
 | Biodiversity assessment |  |  |  |
 
 ## Cloud
