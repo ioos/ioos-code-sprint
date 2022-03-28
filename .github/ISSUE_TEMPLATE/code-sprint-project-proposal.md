@@ -2,7 +2,7 @@
 name: Code Sprint Project Proposal
 about: Use this template for Code Sprint project proposals.
 title: Project title
-labels: ''
+labels: code sprint topic
 assignees: ''
 
 ---
