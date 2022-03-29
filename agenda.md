@@ -19,7 +19,7 @@ Time (CST)    | Activity | Hangouts | Room
 ## Day 2 - Tuesday April 26
 
 {:.agenda}
-Time (CST)    | Activity | Zoom | Room
+Time (CST)    | Activity | Hangouts | Room
 ------------- | -------- | ---- | ----
 08:30 – 09:00 | Breakfast/Coffee | main room | Michigan Ballroom | 
 09:00 – 11:00 | **Breakout groups**<br>Recap and continue working on projects | breakout rooms | Salon 1, 2, 3, and 5 |
@@ -30,7 +30,7 @@ Time (CST)    | Activity | Zoom | Room
 ## Day 3 - Wednesday April 27
 
 {:.agenda}
-Time (CST)    | Activity | Zoom | Room
+Time (CST)    | Activity | Hangouts | Room
 ------------- | -------- | ---- | ----
 08:30 – 09:00 | Breakfast/Coffee | main room | Michigan Ballroom |
 09:00 – 11:00 | **Breakout groups**<br>Recap and continue working on projects | breakout rooms | Salon 1, 2, 3, and 5 |
@@ -43,7 +43,7 @@ Time (CST)    | Activity | Zoom | Room
 __GLOS annual meeting starts at noon.__
 
 {:.agenda}
-Time (CST)    | Activity | Zoom | Room
+Time (CST)    | Activity | Hangouts | Room
 ------------- | -------- | ---- | ----
 08:30 – 09:00 | Breakfast/Coffee | main room | Michigan Ballroom |
 09:00 – 10:00 | **Breakout groups**<br>Recap and continue working on projects | breakout rooms | Salon 1, 2, 3, and 5 |
