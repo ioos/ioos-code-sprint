@@ -22,8 +22,8 @@ Python programming, basic understanding of NetCDF files and associated metadata 
 
 Moderate
 
-Relevant links:
+**Relevant links:**
 
-* https://github.com/ioos/compliance-checker
-* https://github.com/ioos/compliance-checker-web
-* https://github.com/ioos/cc-plugin-glider
+* [https://github.com/ioos/compliance-checker](https://github.com/ioos/compliance-checker)
+* [https://github.com/ioos/compliance-checker-web](https://github.com/ioos/compliance-checker-web)
+* [https://github.com/ioos/cc-plugin-glider](https://github.com/ioos/cc-plugin-glider)
