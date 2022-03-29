@@ -8,7 +8,7 @@ layout: page
   {% for project in site.projects %}
     <li class="project">
       <h3>Project {{ project.number }}: <a href="{{ site.baseurl }}{{ project.url }}">{{ project.title }}</a></h3>
-      {{ project.content | truncatewords: 50 }}
+      {{ project.content | truncatewords: 20 }}
     </li>
   {% endfor %}
 </ul>
