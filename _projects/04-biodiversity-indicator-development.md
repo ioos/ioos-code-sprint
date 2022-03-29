@@ -29,7 +29,7 @@ Moderate
 
 **Relevant links:**
 
-* https://github.com/ioos/ioos-code-sprint/pull/8
-* https://github.com/marinebon/obis2index
-* https://github.com/USF-IMARS/obis_notebooks
-* https://github.com/marinebon/datatransformers
+* [https://github.com/ioos/ioos-code-sprint/pull/8](https://github.com/ioos/ioos-code-sprint/pull/8)
+* [https://github.com/marinebon/obis2index](https://github.com/marinebon/obis2index)
+* [https://github.com/USF-IMARS/obis_notebooks](https://github.com/USF-IMARS/obis_notebooks)
+* [https://github.com/marinebon/datatransformers](https://github.com/marinebon/datatransformers)
