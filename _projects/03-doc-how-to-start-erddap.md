@@ -27,6 +27,7 @@ Some bullet points to hit (please add more or contact joe@glos.org to do so):
   - Spatial data
   - Bio data
   - Other
+- Tools for easing data integration into ERDDAP
 
 **Skills required**
 
