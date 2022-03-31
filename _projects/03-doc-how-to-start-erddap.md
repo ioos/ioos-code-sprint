@@ -12,18 +12,30 @@ github: ioos/erddap-gold-standard
 
 User documentation on how to get started with your erddap server.
 
-**Expected Outcomes:**
+**Expected Outcomes**
 
-A more robust how-to guide for deploying, managing, and updating an erddap server. Could follow the IOOS Documentation website theme built out of the ioos/erddap-gold-standard repo?
+A more robust how-to guide for deploying, managing, and updating an erddap server. Could follow the IOOS Documentation website theme built out of the ioos/erddap-gold-standard repo.
 
-**Skills required:**
+Some bullet points to hit (please add more or contact joe@glos.org to do so):
+
+- Local development (Windows, Mac, Linux, given who's available)
+- On-premesis, or non-kubernetes cloud machine setup
+  - How to use Docker for ERDDAP
+- Kubernetes setup (for ERDDAP 2.18+; that had some breaking changes for particular setups)
+- Working the `datasets.xml` file, quirks, what's worked in practice
+  - Time series data
+  - Spatial data
+  - Bio data
+  - Other
+
+**Skills required**
 
 * Markdown
 * GH-pages??
 
 **Difficulty:**
 
-Easy
+Moderate
 
 **Relevant links:**
 
