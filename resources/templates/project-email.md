@@ -1,11 +1,11 @@
 --
-title: Participant project allocation & Slack invite email
+title: Participant registration confirmation & Slack invite email
 layout: resource
 ---
 
-Subject: IOOS Code Sprint – project allocations, Slack, participant guide
+Subject: IOOS Code Sprint – registration confirmation, Slack, participant guide
 
-Dear Code Sprinters,
+Dear IOOS Code Sprinters,
 
 Thank you for confirming your attendance at the upcoming **IOOS Code Sprint**. We’re looking forward to working with
 you!
@@ -16,12 +16,10 @@ Code Sprint, including an invite to our Slack.
 Actions required:
 
 1. Add yourself to our Slack with this **[invite link]**
-   * Say hello in the #code-sprint-2022 channel
-   * Join the channel for your project – we would encourage you to communicate
-     and share background information with your team and project lead prior to
-     the event
-   * In your project’s Slack channel you will also find useful links, including
-     a shared document you can use for collaboration
+   * Say hello in the #code-sprint-2022 channel – we would encourage you to communicate
+     and share background information prior to the event
+   * Join the channel for your project
+   * In your project’s Slack channel you will also find useful links.
 
 2. Look at the [Participant guide]({{ site.baseurl }}{% link resources/participant-guide.md %})
    which is a summary of the key points covered during the briefing presentation
