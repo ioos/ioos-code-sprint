@@ -27,6 +27,20 @@ Actions required:
 
 If you have any questions or issues, you can use the #help channel on Slack.
 
+Topic leads will have the flexibility to use collaboration software of their choosing. 
+What we have:
+* Slack
+* Hangouts
+
+Feel free to join the Friday call to ask questions:
+Code Sprint Checkin
+Friday's 2:00 – 2:45pm
+Google Meet joining info
+Video call link: https://meet.google.com/bww-beik-cfb
+Or dial: ‪(US) +1 401-903-4942‬ PIN: ‪987 131 423‬#
+More phone numbers: https://tel.meet/bww-beik-cfb?pin=4892461337831
+
+
 See you at **13:00 (CST) on 25th April!**
 
 Best regards,
