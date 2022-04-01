@@ -2,27 +2,21 @@
 title: Participant project allocation & Slack invite email
 layout: resource
 ---
+
 Subject: IOOS Code Sprint – project allocations, Slack, participant guide
 
-Dear **[Preferred Name]**,
+Dear Code Sprinters,
 
 Thank you for confirming your attendance at the upcoming **IOOS Code Sprint**. We’re looking forward to working with
 you!
 
 This email contains some actions required for your participation in the
-hackathon, including your allocated project and an invite to our Slack.
-
-Your project is as follows:
-
-Project: **[Project]**  
-Slack channel: #**[Project number]**  
-Project title: **[Project title]**  
-Project lead(s): **[Project leads]**  
+Code Sprint, including an invite to our Slack.
 
 Actions required:
 
 1. Add yourself to our Slack with this **[invite link]**
-   * Say hello in the #intros channel
+   * Say hello in the #code-sprint-2022 channel
    * Join the channel for your project – we would encourage you to communicate
      and share background information with your team and project lead prior to
      the event
@@ -35,7 +29,7 @@ Actions required:
 
 If you have any questions or issues, you can use the #help channel on Slack.
 
-See you in **12:30pm (EST) on 25th April!**
+See you at **13:00 (CST) on 25th April!**
 
 Best regards,
 
