@@ -27,7 +27,7 @@ header_pages:
 #   soon = Registration has not yet opened
 #   open = Registration form is open
 #   closed = Registration form is now closed
-registration_status: open
+registration_status: closed
 
 # Remove ".html" from default permalinks
 permalink: pretty
