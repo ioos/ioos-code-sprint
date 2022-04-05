@@ -5,7 +5,7 @@ pis:
   - Tylar Murray
 contributors:
   - 
-github: ioos/ioos-code-sprint
+github: ioos/ioos-code-sprint/issues/9
 ---
 
 Open source biodiversity indicator development from open data.

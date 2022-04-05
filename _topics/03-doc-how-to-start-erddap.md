@@ -7,7 +7,7 @@ pis:
   - Fernando Pacheco
 contributors:
   - 
-github: ioos/erddap-gold-standard
+github: ioos/ioos-code-sprint/issues/4
 ---
 
 User documentation on how to get started with your erddap server.

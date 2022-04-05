@@ -8,7 +8,7 @@ pis:
   - Pieter Provoost
 contributors:
   - 
-github: iobis/obis-qc
+github: ioos/ioos-code-sprint/issues/7
 ---
 
 Coming off the heels of the OBIS-USA/IOOS/MBON/OTN Bio Data Mobilization workshop, we realized there is a gap in the toolchain for Python folks who would like to prepare data for inclusion as DarwinCore archives into OBIS, esp via OBIS-USA. These functions are defined and implemented already in R, as part of the iobis/obistools package. The job would seem to be porting iobis/obistools functionality to a fresh package in Python. The existing obis-qc package could be imported by this package to include any useful checks currently implemented there, but an extension of obis-qc to accept arbitrary data sources is not the preferred method of solving this problem.

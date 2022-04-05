@@ -5,7 +5,7 @@ pis:
   - Ben Adams
 contributors:
   - 
-github: ioos/compliance-checker
+github: ioos/ioos-code-sprint/issues/2
 ---
 
 Refactor and possibly change the calling conventions of compliance checker. Make documentation for development of new plugins much easier. Possibly address OceanGliders 1.0 standard, others as needed.
