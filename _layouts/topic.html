@@ -5,14 +5,14 @@ layout: default
 
   <header class="post-header">
     <h1>
-      Project {{ page.number }}:<br>
+      Topic {{ page.number }}:<br>
       {{ page.title | escape }}
     </h1>
     
     <div class="aside authors">
       <dl>
         {% if page.pis %}
-        <dt>Project leads</dt>
+        <dt>Topic leads</dt>
         <dd>
           <ul>
             {% for person in page.pis %}
@@ -56,6 +56,6 @@ layout: default
     {{ content }}
   </div>
 
-  <p><a href="{% link projects.md %}">← Back to project list</a></p>
+  <p><a href="{% link topics.md %}">← Back to project list</a></p>
 
 </article>

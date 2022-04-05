@@ -1,0 +1,14 @@
+---
+layout: page
+---
+
+{{ content }}
+
+<ul class="grid">
+  {% for topic in site.topics %}
+    <li class="topic">
+      <h3>Topic {{ topic.number }}: <a href="{{ site.baseurl }}{{ topic.url }}">{{ topic.title }}</a></h3>
+      {{ topic.content | truncatewords: 20 }}
+    </li>
+  {% endfor %}
+</ul>

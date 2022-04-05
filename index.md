@@ -24,7 +24,7 @@ To register for the event please see the [registration page]({{ site.baseurl }}{
   <a class="btn disabled">Registration opens soon</a>
 {% endif %}
 
-Researchers will sign up to work on [topics ranging from]({{ site.baseurl }}{% link projects.md %}) ERDDAP, General Python, Biology/Ecology, Cloud, IoT, Metadata, and more. Teams will be lead by individuals who have a keen interest in specific topics. Some of the already identified topics include:
+Researchers will sign up to work on [topics ranging from]({{ site.baseurl }}{% link topics.md %}) ERDDAP, General Python, Biology/Ecology, Cloud, IoT, Metadata, and more. Teams will be lead by individuals who have a keen interest in specific topics. Some of the already identified topics include:
 * Using ERDDAP in the IOOS RA/DAC archive pipelines.
 * User documentation on "how to get started with your erddap server"
 * IOOS Compliance Checker refactor and documentation/examples for plugins

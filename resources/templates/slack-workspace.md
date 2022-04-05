@@ -68,6 +68,6 @@ layout: resource
 > * Website address – {{ site.baseurl }}
 > * Project lead briefing – 
 > * [Participant guide]({{ site.baseurl }}{% link resources/participant-guide.md %}) – more detail on all the points discussed during the presentation
-> * [Project abstracts]({{ site.baseurl }}{% link projects.md %})
+> * [Project abstracts]({{ site.baseurl }}{% link topics.md %})
 > * [Code Sprint agenda]({{ site.baseurl }}{% link agenda.md %})
 > * [Resources & tutorials]({{ site.baseurl }}{% link resources.md %})

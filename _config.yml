@@ -18,7 +18,7 @@ theme: minima
 header_pages:
   - registration.md
   - agenda.md
-  - projects.md
+  - topics.md
   - videos-slides.md
   - resources.md
   - about.md
@@ -34,7 +34,7 @@ permalink: pretty
 
 # (See default layout below)
 collections:
-  projects:
+  topics:
     output: true
     permalink: /:collection/:name/
 
@@ -50,9 +50,9 @@ defaults:
       image: /assets/cs_graphic.png
   - scope:
       path: ""
-      type: "projects"
+      type: "topics"
     values:
-      layout: "project"
+      layout: "topic"
 
 # Simplify tables of contents
 kramdown:
