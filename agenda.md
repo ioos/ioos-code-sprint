@@ -10,10 +10,10 @@ menu_icon: clock
 Time (CST)    | Activity | Hangouts | Pendry Room
 ------------- | -------- | ---- | ----
 12:00 - 13:00 | Registration open |  |  |
-13:00 – 14:30 | Code Sprint Introduction/Logistics<br>IOOS<br>GLOS | main room | Michigan Ballroom |
-14:30 – 15:30 | Sprint Pitches & Introductions | main room | Michigan Ballroom |
+13:00 – 14:30 | **Code Sprint Introduction/Logistics**<br>IOOS<br>GLOS | main room | Michigan Ballroom |
+14:30 – 15:30 | **Sprint Pitches & Introductions** | main room | Michigan Ballroom |
 15:30 - 16:00 | Break | | Michigan Ballroom |
-16:30 - 17:00 | Collaboration | breakout rooms/Slack | Michigan Ballroom |
+16:30 - 17:00 | **Collaboration** | breakout rooms/Slack | Michigan Ballroom |
 16:30 – 17:00 | **End of Day/Social Activities** |  |
 
 ## Day 2 - Tuesday April 26
