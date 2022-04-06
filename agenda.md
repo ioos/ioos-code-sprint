@@ -9,7 +9,7 @@ menu_icon: clock
 {:.agenda}
 Time (CST)    | Activity | Hangouts | Pendry Room
 ------------- | -------- | ---- | ----
-12:00 - 13:00 | Registration open |  |  |
+12:00 - 13:00 | Registration desk open |  |  |
 13:00 – 14:30 | **Code Sprint Introduction/Logistics**<br>IOOS<br>GLOS | main room | Michigan Ballroom |
 14:30 – 15:30 | **Sprint Pitches & Introductions** | main room | Michigan Ballroom |
 15:30 - 16:00 | Break | | Michigan Ballroom |
