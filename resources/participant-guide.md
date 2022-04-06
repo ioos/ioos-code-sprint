@@ -24,23 +24,23 @@ In this guide we'll cover:
 ## How our event is structured
 
 <div class="aside" markdown="1">
-We recommend that when you first sit down with your track group, someone volunteers to serve as the **track chair** for your project.
+We recommend that when you first sit down with your group, someone volunteers to serve as the **chair** for your topic.
 This person should be responsible for:
 * Ensuring that the group works to the suggested agenda.
-* The group is ready to present their work during their presentation slot. 
+* The group is ready to present their work during their presentation slot(s). 
 * The code/outputs are well organized.
 This is an excellent way of getting some team management experience and so we emphasize that this person does not need to be somebody who is already leading a topic. 
 
 </div>
 
-We recommend that when you first sit down with your track group, someone volunteers to serve as the track chair for your project.
+We recommend that when you first sit down with your group, someone volunteers to serve as the chair for your project.
 This person should be responsible for:
 * Ensuring that the group works to the suggested agenda.
 * The group is ready to present their work during their presentation slot. 
 * The code/outputs are well organized.
 This is an excellent way of getting some team management experience and so we emphasize that this person does not need to be the person listed. 
 
-Check the [agenda]({{ site.baseurl }}{% link agenda.md %}) or the #code-sprint-2022 channel on Slack
+Check the [agenda]({{ site.baseurl }}{% link agenda.md %}) or the `#code-sprint-2022` channel on Slack
 for more detailed information.
 
 ## How we are communicating
@@ -72,6 +72,10 @@ We ask that by the end of the code sprint:
 <div class="aside" markdown="1">
 The best way to contact us during the code sprint is to use the #code-sprint-2022 on Slack.
 </div>
+
+## A note on bandwidth at the event
+
+For those attending in-person, at The Pendry, we will be using the wifi network provided by the hotel. If you need high bandwidth to download large amounts of data for your project we recommend using cloud services, preload on local machine, or bring usb sticks. If you have special circumstances or questions, please post your requirements to the `#code-sprint-2022` Slack channel and we can see how we can accomodate your needs.
 
 ## Feedback
 
