@@ -1,73 +1,26 @@
 ---
-title: Slack Workspace suggested layout
+title: Slack Channel Suggestions
 layout: resource
 ---
 
+Add yourself to the OceanObservationData Slack with this [link](https://join.slack.com/t/ioos/shared_invite/zt-16fcb3lev-SsqZQkXC~Z23KbTvosUaNg).
+
 ## Channels
 
-#announcements (default channel – originally called #general)
-: Check this channel for important announcements
+Say hello in the `#code-sprint-2022` channel – we would encourage you to communicate and share background information prior to the event. 
 
-#admin 🔒 (private channel)
-: Messages visible to hackathon organisers only
+Join the channel(s) for your topic(s) - By selecting “Add channels,” you will see channels already exist in the OceanObservationData Slack space. To facilitate collaboration beyond the Code Sprint, we recommend that you join the channels that are appropriate for the projects you would like to work on. 
 
-#project-leads 🔒 (private channel)
-: For admin discussion with the project leads
-
-#help
-: Ask for help and support
-
-#intros
-: Feel free to introduce yourself!
-
-#project01
-: Project title...
-
-#project02
-: Project title...
-
-#project03
-: Project title...
-
-*etc.*
+For example, if you would like to work on projects related to ERDDAP, join the `#erddap` channel. If a channel does not already exist we can work with you to create a new one.
 
 ## Pinned posts
 
-### #announcements
+We highly recommend creating a post in the relevant channels that include some useful links. Slack has a nice feature to [pin posts](https://slack.com/help/articles/205239997-Pin-messages-and-bookmark-links) so that they are easily accessible later. Below is an example of what a post might look like, which you can pin to the channel. This will help folks know where to get pertinent information to your Code Sprint topic.
+
 
 > Useful links:
-> * Zoom call: https://zoom.us/...
+> * Google Meets call: meet.google.com/...
 > * Agenda: 
-> * Project abstracts: 
+> * Topic page: 
 > * Slack workspace: 
 > * GitHub repos: 
-> * Shared docs: (see links under each project channel)
->
-> Users are expected to follow our code of conduct: https://cmip6moap.github.io/code-of-conduct/
-
-### #project01 (etc.)
-
-> **\<Project title\>**
-> \<Project leads\>
->
-> \<Project abstract...\>
->
-> * \<Project references...\>
-
-> Useful links:
-> * Zoom call: https://zoom.us/...
-> * Project abstract: 
-> * Slack channel: 
-> * GitHub repo: 
-> * Shared doc: 
->
-
-### #project-leads
-
-> A summary of the material discussed at the project lead briefing:
-> * Website address – {{ site.baseurl }}
-> * Project lead briefing – 
-> * [Participant guide]({{ site.baseurl }}{% link resources/participant-guide.md %}) – more detail on all the points discussed during the presentation
-> * [Project abstracts]({{ site.baseurl }}{% link topics.md %})
-> * [Code Sprint agenda]({{ site.baseurl }}{% link agenda.md %})
-> * [Resources & tutorials]({{ site.baseurl }}{% link resources.md %})
