@@ -24,46 +24,22 @@ hackathons and events in the future.
 
 ![Social media sharing image for the IOOS Code Sprint]({{ site.baseurl }}/assets/cs_graphic.png){: width="500" } 
 
-
-## Keeping track of participants and project leads
-
-### Participant spreadsheet
-
-<iframe class="template" src="{{ site.baseurl }}{% link resources/templates/participant-spreadsheet.md %}"></iframe>
-[Open in a new page]({{ site.baseurl }}{% link resources/templates/participant-spreadsheet.md %})
-
-### Project lead spreadsheet
-
-<iframe class="template" src="{{ site.baseurl }}{% link resources/templates/project-lead-spreadsheet.md %}"></iframe>
-[Open in a new page]({{ site.baseurl }}{% link resources/templates/project-lead-spreadsheet.md %})
-
-
 ## Before the hackathon
 
-### Project lead briefing presentation
+### Topic lead briefing presentation
 
 ### Participant briefing presentation
 
-### Participant project allocation & Slack invite email
-
-<iframe class="template" src="{{ site.baseurl }}{% link resources/templates/project-email.md %}"></iframe>
-[Open in a new page]({{ site.baseurl }}{% link resources/templates/project-email.md %})
-
 ## During the hackathon
 
-### Slack workspace suggested layout
+### Slack channel suggestions
 
 <iframe class="template" src="{{ site.baseurl }}{% link resources/templates/slack-workspace.md %}"></iframe>
 [Open in a new page]({{ site.baseurl }}{% link resources/templates/slack-workspace.md %})
 
-### Shared document suggested content
-
-<iframe class="template" src="{{ site.baseurl }}{% link resources/templates/shared-documents.md %}"></iframe>
-[Open in a new page]({{ site.baseurl }}{% link resources/templates/shared-documents.md %})
-
 ### Code Sprint presentation
 
-## After the code sprint
+## After the Code Sprint
 
 ### Feedback form
 
