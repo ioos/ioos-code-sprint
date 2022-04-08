@@ -30,6 +30,7 @@ This person should be responsible for:
 * The group is ready to present their work during their presentation slot(s). 
 * The code/outputs are well organized.
 This is an excellent way of getting some team management experience and so we emphasize that this person does not need to be somebody who is already leading a topic. 
+* Updating the #code-sprint-2022 channel every 45 minutes with a short update on your track's activity. Make sure to #tag your topic's channel. 
 
 </div>
 
