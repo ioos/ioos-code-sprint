@@ -21,8 +21,6 @@ In this guide we'll cover:
 * Table of contents
 {:toc}
 
-## How our event is structured
-
 <div class="aside" markdown="1">
 We recommend that when you first sit down with your group, someone volunteers to serve as the **chair** for your topic.
 This person should be responsible for:
@@ -30,19 +28,25 @@ This person should be responsible for:
 * The group is ready to present their work during their presentation slot(s). 
 * The code/outputs are well organized.
 This is an excellent way of getting some team management experience and so we emphasize that this person does not need to be somebody who is already leading a topic. 
-* Updating the #code-sprint-2022 channel every 45 minutes with a short update on your track's activity. Make sure to #tag your topic's channel. 
+* Updating the `#code-sprint-2022` channel every 45 minutes with a short update on your track's activity. Make sure to `#tag` your topic's channel. 
 
 </div>
 
-We recommend that when you first sit down with your group, someone volunteers to serve as the chair for your project.
-This person should be responsible for:
-* Ensuring that the group works to the suggested agenda.
-* The group is ready to present their work during their presentation slot. 
-* The code/outputs are well organized.
-This is an excellent way of getting some team management experience and so we emphasize that this person does not need to be the person listed. 
+## How our event is structured
+The event is a hybrid format with attendees both in-person at The Pendry, and vitrual connecting through Google Meets and Slack. 
 
-Check the [agenda]({{ site.baseurl }}{% link agenda.md %}) or the `#code-sprint-2022` channel on Slack
-for more detailed information.
+### For virtual attendees
+Before the week of the Code Sprint, you will receive a Google Invite to a series of events. Below is a description of how each of those events relates to the Code Sprint as a whole.
+
+**Main Room** - This will be the virtual connection to the parts of the agenda that are for the entire Code Sprint audience (Introductions, Daily kickoff, and Daily recap).  
+
+**Code Sprint Track [x]** - There are individual Google Meet events for each of the Tracks listed [here](https://github.com/ioos/ioos-code-sprint/blob/main/2022/track-list.md) (eg. ERDDAP, General Python, Biology/Ecology, Cloud, IoT, and Metadata). This is where participants will be spending the majority of their time. These spaces will be available for you to connect to during the break group portions of the event. You can enter and exit the sprint track rooms as you wish. 
+
+### For in-peron attendees
+
+
+
+Check the [agenda]({{ site.baseurl }}{% link agenda.md %}) or the `#code-sprint-2022` channel on Slack for more detailed information.
 
 ## How we are communicating
 
