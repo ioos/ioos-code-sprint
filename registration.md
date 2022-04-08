@@ -28,7 +28,7 @@ The Great Lakes Observing System will be hosting the Code Sprint and will provid
 Please note the following: 
 
 1. The Pendry Hotel rate is $249.00 plus taxes and fees.
-   1. Book using the block rate at the [Pendry Chicago](https://www.pendry.com/chicago/) using [this link](https://book.passkey.com/go/GLOS2022) by **Monday, April 4**.
+   1. Book using the block rate at the [Pendry Chicago](https://www.pendry.com/chicago/) using [this link](https://book.passkey.com/go/GLOS2022) by **April 23**.
 3. **COVID Policy:** We will abide by City of Chicago and CDC guidelines. In addition, all attendees will be required to show proof of vaccination when they arrive at the venue and to wear masks for the duration of the event except when eating or drinking. 
    1. [City of Chicago guidelines](https://www.chicago.gov/city/en/sites/covid-19/home/latest-guidance.html)
    2. [CDC guidelines](https://www.cdc.gov/coronavirus/2019-ncov/community/large-events/considerations-for-events-gatherings.html)
