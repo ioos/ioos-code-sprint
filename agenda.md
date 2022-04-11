@@ -14,7 +14,7 @@ Time (CST)    | Activity | Google Meet | Pendry Room
 14:00 - 14:30 | **Participant Introductions**<br>Virtual<br>In-person | main room | Michigan Ballroom |
 14:30 – 15:30 | **Sprint Pitches**<br>[Topics](https://ioos.github.io/ioos-code-sprint/topics/) | main room | Michigan Ballroom |
 15:30 - 16:00 | Break | | Michigan Ballroom |
-16:30 - 17:00 | **Collaboration** | breakout rooms/Slack | Michigan Ballroom |
+16:00 - 17:00 | **Collaboration** | breakout rooms/Slack | Michigan Ballroom |
 16:30 – 17:00 | **End of Day/Social Activities** |  |
 
 ## Day 2 - Tuesday April 26
