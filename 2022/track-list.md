@@ -22,7 +22,7 @@ To register for the Code Sprint, please see the registration website https://ioo
 ## General Python
 |**Topics within track**|**links**|**lead**|**duration**|
 |---------------|---------|--------|-----|
-| Ioos_qc implementation |  |  |  |
+| Ioos_qc implementation | https://github.com/ioos/ioos-code-sprint/issues/13 | @gp86041 |  |
 | strategies for querying/visualizing gridded data (pygeoapi, stac, xarray) as outputs get larger (higher resolution, more variables) |  |  |  |
 | IOOS Compliance Checker refactor and documentation/examples for plugins | https://github.com/ioos/ioos-code-sprint/issues/2 | @benjwadams | | 
 
