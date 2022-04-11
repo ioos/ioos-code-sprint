@@ -7,7 +7,7 @@ menu_icon: clock
 ## Day 1 - Monday April 25
 
 {:.agenda}
-Time (CST)    | Activity | Hangouts | Pendry Room
+Time (CST)    | Activity | Google Meet | Pendry Room
 ------------- | -------- | ---- | ----
 12:00 - 13:00 | Registration desk open |  |  |
 13:00 – 14:00 | **Code Sprint Introduction/Logistics**<br>IOOS<br>GLOS | main room | Michigan Ballroom |
@@ -20,7 +20,7 @@ Time (CST)    | Activity | Hangouts | Pendry Room
 ## Day 2 - Tuesday April 26
 
 {:.agenda}
-Time (CST)    | Activity | Hangouts | Pendry Room
+Time (CST)    | Activity | Google Meet | Pendry Room
 ------------- | -------- | ---- | ----
 08:30 – 09:00 | Breakfast/Coffee | main room | Michigan Ballroom | 
 09:00 - 09:15 | **Daily kickoff** | main room | |
@@ -32,7 +32,7 @@ Time (CST)    | Activity | Hangouts | Pendry Room
 ## Day 3 - Wednesday April 27
 
 {:.agenda}
-Time (CST)    | Activity | Hangouts | Pendry Room
+Time (CST)    | Activity | Google Meet | Pendry Room
 ------------- | -------- | ---- | ----
 08:30 – 09:00 | Breakfast/Coffee | main room | Michigan Ballroom |
 09:00 - 09:15 | **Daily kickoff** | main room | |
@@ -46,7 +46,7 @@ Time (CST)    | Activity | Hangouts | Pendry Room
 __GLOS annual meeting starts at noon.__
 
 {:.agenda}
-Time (CST)    | Activity | Hangouts | Pendry Room
+Time (CST)    | Activity | Google Meet | Pendry Room
 ------------- | -------- | ---- | ----
 08:30 – 09:00 | Breakfast/Coffee | main room | Michigan Ballroom |
 09:00 - 09:15 | **Daily kickoff** | main room | |
