@@ -39,6 +39,16 @@ layout: default
           <a href="https://github.com/{{ page.github }}" target="_blank">github.com/{{ page.github }}</a>
         </dd>
         {% endif %}
+        {% if page.slack %}
+        <dt>Slack Channel</dt>
+        <dd>
+          <ul>
+            {% for slack in page.slack %}
+            <li>#{{ slack }}</li>
+            {% endfor %}
+          </ul>
+        </dd>
+        {% endif %}
       </dl>
     </div>
   </header>

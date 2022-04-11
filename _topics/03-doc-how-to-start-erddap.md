@@ -8,6 +8,8 @@ pis:
 contributors:
   - 
 github: ioos/ioos-code-sprint/issues/4
+slack:
+  - erddap
 ---
 
 User documentation on how to get started with your erddap server.
