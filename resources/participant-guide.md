@@ -38,15 +38,15 @@ The event is a hybrid format with attendees both in-person at The Pendry, and vi
 ### For virtual attendees
 Before the week of the Code Sprint, you will receive a Google Invite to a series of events. Below is a description of how each of those events relates to the Code Sprint as a whole.
 
-**Main Room** - This will be the virtual connection to the parts of the agenda that are for the entire Code Sprint audience (Introductions, Daily kickoff, and Daily recap).  
+**IOOS Code Sprint - MAIN ROOM** - This will be the virtual connection to the parts of the agenda that are for the entire Code Sprint audience (Introductions, Daily kickoff, and Daily recap).  
 
-**Code Sprint Track [x]** - There are individual Google Meet events for each of the Tracks listed [here](https://github.com/ioos/ioos-code-sprint/blob/main/2022/track-list.md) (eg. ERDDAP, General Python, Biology/Ecology, Cloud, IoT, and Metadata). This is where participants will be spending the majority of their time. These spaces will be available for you to connect to during the break group portions of the event. You can enter and exit the sprint track rooms as you wish. 
+**IOOS Code Sprint - Track [x]** - There are individual Google Meet events for each of the Tracks listed [here](https://github.com/ioos/ioos-code-sprint/blob/main/2022/track-list.md) (eg. ERDDAP, General Python, Biology/Ecology, Cloud, IoT, and Metadata). This is where participants will be spending the majority of their time. These spaces will be available for you to connect to during the break group portions of the event. You can enter and exit the sprint track rooms as you wish. 
 
 ### For in-peron attendees
 
-
-
-Check the [agenda]({{ site.baseurl }}{% link agenda.md %}) or the `#code-sprint-2022` channel on Slack for more detailed information.
+* Make sure the room you are in has a connection to the appropriate Google Meet event for virtual attendees.
+* Make an announcement on the `#code-sprint-2022` channel, identifying the topic to be worked on and the Google Meet connection information.
+* Check the [agenda]({{ site.baseurl }}{% link agenda.md %}) or the `#code-sprint-2022` channel on Slack for more detailed information.
 
 ## How we are communicating
 
@@ -66,9 +66,9 @@ Each project should have:
 <div class="lead" markdown="1">
 We ask that by the end of the code sprint:
 
-1. Your project's GitHub repository has a **README** file, identifying what work
+1. Your project's GitHub repository has a **README** file (or GitHub issue), identifying what work
    you did, how far you got and what the next steps required are
-2. You identify one (or more) **key figures** that could be showcased at the 
+2. You identify one (or more) **key figures/outcomes** that could be showcased at the 
    Annual DMAC meeting.
 </div>
 
@@ -78,7 +78,7 @@ We ask that by the end of the code sprint:
 The best way to contact us during the code sprint is to use the #code-sprint-2022 on Slack.
 </div>
 
-## A note on bandwidth at the event
+### A note on bandwidth at the event
 
 For those attending in-person, at The Pendry, we will be using the wifi network provided by the hotel. If you need high bandwidth to download large amounts of data for your project we recommend using cloud services, preload on local machine, or bring usb sticks. If you have special circumstances or questions, please post your requirements to the `#code-sprint-2022` Slack channel and we can see how we can accomodate your needs.
 

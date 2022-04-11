@@ -16,30 +16,20 @@ hackathons and events in the future.
 * Table of contents
 {:toc}
 
-## Advertising the hackathon
-
-### Advertising email
-
-### Social media sharing images
+## Social media sharing images
 
 ![Social media sharing image for the IOOS Code Sprint]({{ site.baseurl }}/assets/cs_graphic.png){: width="500" } 
 
-## Before the hackathon
-
-### Topic lead briefing presentation
-
-### Participant briefing presentation
-
-## During the hackathon
+## During the Code Sprint
 
 ### Slack channel suggestions
 
 <iframe class="template" src="{{ site.baseurl }}{% link resources/templates/slack-workspace.md %}"></iframe>
 [Open in a new page]({{ site.baseurl }}{% link resources/templates/slack-workspace.md %})
 
-### Code Sprint presentation
-
 ## After the Code Sprint
+
+Keep the activity going by continuing the conversation in Slack and contributing to the appropriate GitHub repository.
 
 ### Feedback form
 

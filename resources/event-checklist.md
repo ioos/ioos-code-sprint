@@ -13,19 +13,17 @@ including links to relevant resources and templates.
 {:.alt-table}
 Date              | Action
 ---               | ---                 
-March 31          | Finalize [participants]({{ site.baseurl }}{% link resources/templates.md %}#participant-spreadsheet) and provisionally allocate projects
-                  | Send calendar invites for pre-Code Sprint meetings and Code Sprint to project leads and participants
+March 31          | Send calendar invites for pre-Code Sprint meetings and Code Sprint to project leads and participants
 ---               | ---                  
 April 11          | Finalize [tutorial notebooks / repositories]({{ site.baseurl }}{% link resources.md %})
-                  | Create recurring Zoom meeting for Code Sprint, with pre-allocated breakout rooms for topics, ensuring participants are muted on entry, can connect without host present and can move freely between breakout rooms
-                  | Create Slack channelsfor each track/topic.
+                  | Create recurring Google Meet meeting for Code Sprint, with pre-allocated breakout rooms for topics, ensuring participants are muted on entry, can connect without host present and can move freely between breakout rooms
+                  | (If needed) Create Slack channels for each track/topic.
                   | Create/share GitHub repository for each project
-                  | Create shared documents for online collaboration
                   | Add GitHub usernames of participants to their project repositories
 ---               | ---                  
-April 18          | Check there are contingencies in case of connection issues, including alternate host on Zoom
+April 18          | Check there are contingencies in case of connection issues, including alternate host on Google Meet.
 ---               | ---                  
-**Code Sprint**   | Make sure the Zoom meeting can be joined without going via the waiting room
-April 25-28       | Ensure the code of conduct is signposted at the start
+**Code Sprint**   | Make sure the Google Meet meetings can be joined.
+April 25-28       | Check breakout room connections.
 ---               | ---                  
-1 week after      | Remind participants to move data off system
+1 week after      | Remind participants to summarize work.
