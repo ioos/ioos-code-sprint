@@ -22,7 +22,7 @@ Time (CST)    | Activity | Google Meet | Pendry Room
 {:.agenda}
 Time (CST)    | Activity | Google Meet | Pendry Room
 ------------- | -------- | ---- | ----
-08:30 – 09:00 | Breakfast/Coffee | main room | Michigan Ballroom | 
+08:00 – 09:00 | Breakfast/Coffee | main room | Michigan Ballroom | 
 09:00 - 09:15 | **Daily kickoff** | main room | |
 09:15 – 11:00 | **Breakout groups**<br>Recap and continue working on projects | breakout rooms | Salon 1, 2, 3, and 5 |
 11:00 – 12:00 | Lunch break | |
@@ -34,7 +34,7 @@ Time (CST)    | Activity | Google Meet | Pendry Room
 {:.agenda}
 Time (CST)    | Activity | Google Meet | Pendry Room
 ------------- | -------- | ---- | ----
-08:30 – 09:00 | Breakfast/Coffee | main room | Michigan Ballroom |
+08:00 – 09:00 | Breakfast/Coffee | main room | Michigan Ballroom |
 09:00 - 09:15 | **Daily kickoff** | main room | |
 09:15 – 11:00 | **Breakout groups**<br>Recap and continue working on projects | breakout rooms | Salon 1, 2, 3, and 5 |
 11:00 – 12:00 | Lunch break |  |
@@ -48,7 +48,7 @@ __GLOS annual meeting starts at noon.__
 {:.agenda}
 Time (CST)    | Activity | Google Meet | Pendry Room
 ------------- | -------- | ---- | ----
-08:30 – 09:00 | Breakfast/Coffee | main room | Michigan Ballroom |
+08:00 – 09:00 | Breakfast/Coffee | main room | Michigan Ballroom |
 09:00 - 09:15 | **Daily kickoff** | main room | |
 09:15 – 10:00 | **Breakout groups**<br>Recap and continue working on projects | breakout rooms | Salon 1, 2, 3, and 5 |
 10:00 – 11:00 | **Report outs/Closing Discussion** | main room | Michigan Ballroom |
