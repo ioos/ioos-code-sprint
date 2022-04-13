@@ -18,6 +18,7 @@ The Code Sprint will begin at 1 PM CST on Monday, April 25 and run until 11 AM C
 {% elsif site.registration_status == 'soon' %}
   <a class="btn disabled">Registration opens soon</a>
 {% endif %}
+Still need to register? Email mathew.biddle@noaa.gov.
 
 ## Travel
 
