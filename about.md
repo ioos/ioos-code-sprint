@@ -14,7 +14,7 @@ The IOOS Code Sprint is a 4-day, hackathon-style event, organized by the Great L
 
 Creating a better informed and more confident Great Lakes community where everyone knows what’s happening in the water. We put lake information into peoples’ hands in support of the [Smart Great Lakes vision](https://glos.org/priorities/smart-great-lakes/). 
 
-A bi-national nonprofit, GLOS provides end-to-end data services that support science, policy, management, and industry in the U.S. and Canada. Whether deciding to venture out on a boat or confronting the effects of climate change, we want to equip observers with high-quality, up-to-date lake information from the region’s observing network.
+A bi-national nonprofit, [GLOS](https://glos.org/) provides end-to-end data services that support science, policy, management, and industry in the U.S. and Canada. Whether deciding to venture out on a boat or confronting the effects of climate change, we want to equip observers with high-quality, up-to-date lake information from the region’s observing network.
 
 ## The organizing team
 
