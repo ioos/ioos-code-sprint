@@ -2,8 +2,8 @@
 number: 3
 title: User documentation on "how to get started with your erddap server"
 pis:
-  - Mathew Biddle
   - Joeseph Smith
+  - Mathew Biddle
   - Fernando Pacheco
 contributors:
   - 
