@@ -14,44 +14,31 @@ To register for the Code Sprint, please see the registration website https://ioo
 |**Topics within track**|**links**|**lead**|**duration**|
 |---------------|---------|--------|------|
 | Using ERDDAP in the IOOS RA/DAC archive pipelines. | https://github.com/ioos/ioos-atn-data/issues/28 | @MathewBiddle | 6 hrs? |
-| ERDDAP server best practices (talk) |  |  |  |
 | User documentation on "how to get started with your erddap server" (sprint) | https://github.com/ioos/ioos-code-sprint/issues/4 | @joe-smithe-glos | <= 1 day |
-| Tools for easing data integration into ERDDAP |  | merge with user doc? |  |
-| ERDDAP integration |  |  |  |
 
 ## General Python
 |**Topics within track**|**links**|**lead**|**duration**|
 |---------------|---------|--------|-----|
 | Ioos_qc implementation | https://github.com/ioos/ioos-code-sprint/issues/13 | @gp86041 |  |
-| strategies for querying/visualizing gridded data (pygeoapi, stac, xarray) as outputs get larger (higher resolution, more variables) |  |  |  |
 | IOOS Compliance Checker refactor and documentation/examples for plugins | https://github.com/ioos/ioos-code-sprint/issues/2 | @benjwadams | | 
+| mapping an ISO metadata record to EML |  |  |  |
+| strategies for querying/visualizing gridded data (pygeoapi, stac, xarray) as outputs get larger (higher resolution, more variables) |  |  |  |
 
 
 ## Biology/Ecology
 |**Topics within track**|**links**|**lead**|**duration**|
 |---------------|---------|--------|-----|
-| General | | @hmoustahfid-NOAA interested in participating, is seeking lead |  |
+| OBIStools-style QC library in Python | https://github.com/ioos/ioos-code-sprint/issues/7 | @jdpye |  |
+| Biodiversity indicator development from open source data & visualization/analysis of indicators. | https://github.com/ioos/ioos-code-sprint/issues/9 | @7yl4r | |
+| Biodiversity assessment |  |  |  |
 | Update the robis package |  |  |  |
 | Update the pyworms package |  |  |  |
 | Darwin Core training |  |  |  |
 | Enhance robis MoF response |  |  |  |
-| OBIStools-style QC library in Python | https://github.com/ioos/ioos-code-sprint/issues/7 | @jdpye |  |
-| Biodiversity indicator development from open source data & visualization/analysis of indicators. | https://github.com/ioos/ioos-code-sprint/issues/9 | @7yl4r | |
-| Biodiversity assessment |  |  |  |
 
-## Cloud
+## Cloud/IoT
 |**Topics within track**|**links**|**lead**|**duration**|
 |---------------|---------|--------|----|
 | Geospatial and Metadata |  |  |  |
 | Front end JavaScript (React) |  |  |  |
 | Python as it pertains to cloud/IoT |  |  |  |
-
-## IoT
-|**Topics within track**|**links**|**lead**|**duration**|
-|---------------|---------|--------|----|
-| Python as it pertains to IoT |  |  |  |
-
-## Metadata
-|**Topics within track**|**links**|**lead**|**duration**|
-|---------------|---------|--------|-----|
-| mapping an ISO metadata record to EML |  |  |  |
