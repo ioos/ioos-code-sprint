@@ -6,7 +6,7 @@ pis:
   - Mathew Biddle
   - Fernando Pacheco
 contributors:
-  - 
+  - TBD
 github: ioos/ioos-code-sprint/issues/4
 slack:
   - erddap
@@ -35,6 +35,7 @@ Some bullet points to hit (please add more or contact joe@glos.org to do so):
 
 * Markdown
 * GH-pages??
+* Docker, Kubernetes pod skill
 
 **Difficulty:**
 
