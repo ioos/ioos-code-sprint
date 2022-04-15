@@ -42,11 +42,9 @@ Time (CST)    | Activity | Google Meet | Pendry Room
 16:00 – 17:00 | **Daily Recap/Lightning Talks** | main room | Salon 1 & 2 |
 
 
-__All Code Sprint participants are invited to attend to a Great Lakes Networking Reception hosted by Mazarine Ventures at 5:30 PM. [Register for free.](https://glos.org/wp-content/uploads/2022/04/Reception-by-Mazarine-Ventures-Glosapalooza.pdf) __
+__Note:__ All in-person Code Sprint participants are invited to attend to a Great Lakes Networking Reception hosted by Mazarine Ventures at 5:30 PM. [Register for free.](https://glos.org/wp-content/uploads/2022/04/Reception-by-Mazarine-Ventures-Glosapalooza.pdf)
 
 ## Day 4 - Thursday April 28
-
-__All Code Sprint participants are invited to attend to the Annual Meeting starting at noon, followed by a launch party for GLOS' Seagull platform. [Learn more and register](https://glos.org/glosapalooza/) __
 
 {:.agenda}
 Time (CST)    | Activity | Google Meet | Pendry Room
@@ -55,3 +53,5 @@ Time (CST)    | Activity | Google Meet | Pendry Room
 09:00 - 09:15 | **Daily kickoff** | main room | |
 09:15 – 10:00 | **Breakout groups**<br>Recap and continue working on projects | breakout rooms | Salon 1, 2, 3, and 5 |
 10:00 – 11:00 | **Report outs/Closing Discussion** | main room | Michigan Ballroom |
+
+__Note:__ All Code Sprint participants are invited to attend to the Annual Meeting starting at noon, followed by a launch party for GLOS' Seagull platform. [Learn more and register](https://glos.org/glosapalooza/)
