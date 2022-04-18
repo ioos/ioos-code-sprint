@@ -8,6 +8,8 @@ contributors:
 github: ioos/ioos-code-sprint/issues/9
 slack:
   - biological-data
+breakout:
+  - Biology/Ecology
 ---
 
 Open source biodiversity indicator development from open data.

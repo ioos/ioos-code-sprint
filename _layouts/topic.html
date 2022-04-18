@@ -49,6 +49,16 @@ layout: default
           </ul>
         </dd>
         {% endif %}
+        {% if page.breakout %}
+        <dt>Breakout room</dt>
+        <dd>
+          <ul>
+            {% for room in page.breakout %}
+            <li>{{ room }}</li>
+            {% endfor %}
+          </ul>
+        </dd>
+        {% endif %}
       </dl>
     </div>
   </header>

@@ -10,6 +10,8 @@ contributors:
 github: ioos/ioos-atn-data/issues/28
 slack:
   - erddap
+breakout:
+  - ERDDAP
 ---
 
 Currently, the IOOS Regional Associations (RA's) and Functional Data Assembly Centers (DAC's) rely heavily on using the 
