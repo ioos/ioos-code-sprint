@@ -23,7 +23,7 @@ Time (CST)    | Activity | Google Meet | Pendry Room
 Time (CST)    | Activity | Google Meet | Pendry Room
 ------------- | -------- | ---- | ----
 08:00 – 09:00 | Breakfast/Coffee | main room | Michigan Ballroom | 
-09:00 - 09:15 | **Daily kickoff** | main room | |
+09:00 - 09:15 | **Daily kickoff** | main room | Salon 1 & 2 |
 09:15 – 11:00 | **Breakout groups**<br>Recap and continue working on projects | breakout rooms | Salon 1, 2, 3, and 5 |
 11:00 – 12:00 | Lunch break | |
 12:00 – 16:00 | **Breakout groups**<br>Recap and continue working on projects | breakout rooms | Salon 1, 2, 3, and 5 |
@@ -35,7 +35,7 @@ Time (CST)    | Activity | Google Meet | Pendry Room
 Time (CST)    | Activity | Google Meet | Pendry Room
 ------------- | -------- | ---- | ----
 08:00 – 09:00 | Breakfast/Coffee | main room | Michigan Ballroom |
-09:00 - 09:15 | **Daily kickoff** | main room | |
+09:00 - 09:15 | **Daily kickoff** | main room | Salon 1 & 2 |
 09:15 – 11:00 | **Breakout groups**<br>Recap and continue working on projects | breakout rooms | Salon 1, 2, 3, and 5 |
 11:00 – 12:00 | Lunch break |  |
 12:00 – 16:00 | **Breakout groups**<br>Recap and continue working on projects | breakout rooms | Salon 1, 2, 3, and 5 |
@@ -50,7 +50,7 @@ __Note:__ All in-person Code Sprint participants are invited to attend to a Grea
 Time (CST)    | Activity | Google Meet | Pendry Room
 ------------- | -------- | ---- | ----
 08:00 – 09:00 | Breakfast/Coffee | main room | Michigan Ballroom |
-09:00 - 09:15 | **Daily kickoff** | main room | |
+09:00 - 09:15 | **Daily kickoff** | main room | Salon 1 & 2 |
 09:15 – 10:00 | **Breakout groups**<br>Recap and continue working on projects | breakout rooms | Salon 1, 2, 3, and 5 |
 10:00 – 11:00 | **Report outs/Closing Discussion** | main room | Michigan Ballroom |
 
