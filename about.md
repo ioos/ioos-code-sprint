@@ -57,6 +57,7 @@ If you would like to help organize the Code Sprint, please email:
         <td>
             <strong>Joseph Smith</strong>
             <span class="profile-links">
+                <a title="Profile &amp; contact" href="https://orcid.org/0000-0002-1896-1390"><i class="bi bi-person-lines-fill"></i></a>
                 <a title="GitHub" href="https://github.com/joe-smithe-glos/"><i class="bi bi-github"></i></a>
             </span>
             <br>Great Lakes Observing System (GLOS)
