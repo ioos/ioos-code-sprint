@@ -39,6 +39,7 @@ To register for the Code Sprint, please see the registration website https://ioo
 ## Cloud/IoT
 |**Topics within track**|**links**|**lead**|**duration**|
 |---------------|---------|--------|----|
+| Exploring modern RESTful services for gridded data | https://github.com/ioos/ioos-code-sprint/issues/11 | @jonmjoyce | |
 | Geospatial and Metadata |  |  |  |
 | Front end JavaScript (React) |  |  |  |
 | Python as it pertains to cloud/IoT |  |  |  |
