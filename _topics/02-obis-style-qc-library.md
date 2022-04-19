@@ -3,11 +3,10 @@ number: 2
 title: OBIStools-style QC library in Python
 pis:
   - Jon Pye
+contributors:
   - Stace Beaulieu
   - Mathew Biddle
   - Pieter Provoost
-contributors:
-  - 
 github: ioos/ioos-code-sprint/issues/7
 slack: 
   - biological-data
