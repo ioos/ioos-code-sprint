@@ -4,7 +4,7 @@ title: Using ERDDAP in the IOOS RA/DAC archival pipelines
 pis:
   - Mathew Biddle
 contributors:
-  - Bib Simons
+  - Bob Simons
   - John Relph
 github: ioos/ioos-atn-data/issues/28
 slack:
