@@ -7,7 +7,7 @@ contributors:
   - 
 github: ioos/ioos-code-sprint/issues/11
 slack:
-  - 
+  - cloud
 breakout:
   - Cloud/IoT
 ---
