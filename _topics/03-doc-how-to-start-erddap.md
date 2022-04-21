@@ -3,10 +3,9 @@ number: 3
 title: User documentation on "how to get started with your erddap server"
 pis:
   - Joeseph Smith
+contributors:
   - Mathew Biddle
   - Fernando Pacheco
-contributors:
-  - TBD
 github: ioos/ioos-code-sprint/issues/4
 slack:
   - erddap
