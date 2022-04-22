@@ -53,5 +53,3 @@ Time (CST)    | Activity | Google Meet | Pendry Room
 09:00 - 09:15 | **Daily kickoff** | MAIN ROOM | Salon 1 & 2 |
 09:15 – 10:00 | **Breakout groups**<br>Recap and continue working on projects | breakout rooms | Salon 1, 2, 3, and 5 |
 10:00 – 11:00 | **Report outs/Closing Discussion** | MAIN ROOM | Michigan Ballroom |
-
-__Note:__ All Code Sprint participants are invited to attend to the Annual Meeting starting at noon, followed by a launch party for GLOS' Seagull platform. [Learn more and register](https://glos.org/glosapalooza/)
