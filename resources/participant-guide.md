@@ -36,11 +36,11 @@ This is an excellent way of getting some team management experience and so we em
 The event is a hybrid format with attendees both in-person at The Pendry, and vitrual connecting through Google Meets and Slack. 
 
 ### For virtual attendees
-Before the week of the Code Sprint, you will receive a Google Invite to a series of events. Below is a description of how each of those events relates to the Code Sprint as a whole.
+Before the week of the Code Sprint, you will receive a link to a Google Calendar for the Code Sprint events. Below is a description of how each of those events relates to the Code Sprint as a whole.
 
-**IOOS Code Sprint - MAIN ROOM** - This will be the virtual connection to the parts of the agenda that are for the entire Code Sprint audience (Introductions, Daily kickoff, and Daily recap).  
+**MAIN ROOM** - This will be the virtual connection to the parts of the agenda that are for the entire Code Sprint audience (Introductions, Daily kickoff, and Daily recap).  
 
-**IOOS Code Sprint - Track [x]** - There are individual Google Meet events for each of the Tracks listed [here](https://github.com/ioos/ioos-code-sprint/blob/main/2022/track-list.md) (eg. ERDDAP, General Python, Biology/Ecology, Cloud, IoT, and Metadata). This is where participants will be spending the majority of their time. These spaces will be available for you to connect to during the break group portions of the event. You can enter and exit the sprint track rooms as you wish. 
+**[track]** - There are individual Google Meet events for each of the Tracks listed [here](https://github.com/ioos/ioos-code-sprint/blob/main/2022/track-list.md) ( **ERDDAP**, **General Python**, **Biology/Ecology**, and **Cloud/IoT**). This is where participants will be spending the majority of their time. These spaces will be available for you to connect to during the break group portions of the event. You can enter and exit the sprint track rooms as you wish. 
 
 ### For in-peron attendees
 
@@ -75,7 +75,7 @@ We ask that by the end of the code sprint:
 ## Where to go for help
 
 <div class="aside" markdown="1">
-The best way to contact us during the code sprint is to use the #code-sprint-2022 on Slack.
+The best way to contact us during the code sprint is to use the channel `#code-sprint-2022` on Slack.
 </div>
 
 ### A note on bandwidth at the event
