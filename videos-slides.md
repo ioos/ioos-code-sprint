@@ -12,11 +12,6 @@ menu_icon: film
 <iframe class="template" src="https://docs.google.com/presentation/d/1fk_JKYPnZi-bFZAzBQR5l-oStHlwNlNZPZslB4zQ9KE/edit"></iframe>
 [Kick off slides](https://docs.google.com/presentation/d/1fk_JKYPnZi-bFZAzBQR5l-oStHlwNlNZPZslB4zQ9KE/edit){: target="_blank"}
 </li>
-    
-<li class="video" markdown="1">
-<iframe class="template" src="https://docs.google.com/presentation/d/1ku7uIL7XiFGSJeLktPuTFNxIzhKn8ONF4sEqvwAwEtE/edit"></iframe>
-[IOOS Introduction](https://docs.google.com/presentation/d/1ku7uIL7XiFGSJeLktPuTFNxIzhKn8ONF4sEqvwAwEtE/edit){: target="_blank"}
-</li>
 
 <li class="video" markdown="1">
 <iframe class="template" src=""></iframe>
