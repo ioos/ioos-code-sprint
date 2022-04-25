@@ -10,7 +10,7 @@ menu_icon: clock
 Time (CST)    | Activity | Google Meet | Pendry Room
 ------------- | -------- | ---- | ----
 12:00 - 13:00 | Registration desk open |  |  |
-13:00 – 14:00 | **Code Sprint Introduction/Logistics**<br>IOOS<br>GLOS | MAIN ROOM | Michigan Ballroom |
+13:00 – 14:00 | **Code Sprint Introduction/Logistics** ([slides](https://docs.google.com/presentation/d/1fk_JKYPnZi-bFZAzBQR5l-oStHlwNlNZPZslB4zQ9KE/edit))<br>IOOS<br>GLOS | MAIN ROOM | Michigan Ballroom |
 14:00 - 14:30 | **Participant Introductions**<br>Virtual<br>In-person | MAIN ROOM | Michigan Ballroom |
 14:30 – 15:30 | **Sprint Pitches**<br>[Topics](https://ioos.github.io/ioos-code-sprint/topics/) | MAIN ROOM | Michigan Ballroom |
 15:30 - 16:00 | Break | | Michigan Ballroom |
