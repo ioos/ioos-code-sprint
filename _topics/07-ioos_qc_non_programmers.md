@@ -4,7 +4,9 @@ title: IOOS QC Implementation for non-programmers
 pis:
   - Ge (Jeff) Pu
 contributors:
-  - 
+  - Dylan Pugh
+  - Shelby Brunner
+  - Ben Adams
 github: ioos/ioos-code-sprint/issues/13
 slack:
   - python
