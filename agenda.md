@@ -7,7 +7,7 @@ menu_icon: clock
 ## Day 1 - Monday April 25
 
 {:.agenda}
-Time (CST)    | Activity | Google Meet | Pendry Room
+Time (CDT)    | Activity | Google Meet | Pendry Room
 ------------- | -------- | ---- | ----
 12:00 - 13:00 | Registration desk open |  |  |
 13:00 – 14:00 | **Code Sprint Introduction/Logistics** ([slides](https://docs.google.com/presentation/d/1fk_JKYPnZi-bFZAzBQR5l-oStHlwNlNZPZslB4zQ9KE/edit))<br>IOOS<br>GLOS | MAIN ROOM | Michigan Ballroom |
@@ -20,7 +20,7 @@ Time (CST)    | Activity | Google Meet | Pendry Room
 ## Day 2 - Tuesday April 26
 
 {:.agenda}
-Time (CST)    | Activity | Google Meet | Pendry Room
+Time (CDT)    | Activity | Google Meet | Pendry Room
 ------------- | -------- | ---- | ----
 07:30 – 09:00 | Breakfast/Coffee |  | Michigan Ballroom | 
 09:00 - 09:15 | **Daily kickoff** | MAIN ROOM | Salon 1 & 2 |
@@ -32,7 +32,7 @@ Time (CST)    | Activity | Google Meet | Pendry Room
 ## Day 3 - Wednesday April 27
 
 {:.agenda}
-Time (CST)    | Activity | Google Meet | Pendry Room
+Time (CDT)    | Activity | Google Meet | Pendry Room
 ------------- | -------- | ---- | ----
 07:30 – 09:00 | Breakfast/Coffee |  | Michigan Ballroom |
 09:00 - 09:15 | **Daily kickoff** | MAIN ROOM | Salon 1 & 2 |
@@ -47,7 +47,7 @@ __Note:__ All in-person Code Sprint participants are invited to attend to a Grea
 ## Day 4 - Thursday April 28
 
 {:.agenda}
-Time (CST)    | Activity | Google Meet | Pendry Room
+Time (CDT)    | Activity | Google Meet | Pendry Room
 ------------- | -------- | ---- | ----
 07:30 – 09:00 | Breakfast/Coffee |  | Michigan Ballroom |
 09:00 - 09:15 | **Daily kickoff** | MAIN ROOM | Salon 1 & 2 |
