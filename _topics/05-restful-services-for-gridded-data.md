@@ -4,7 +4,10 @@ title: Exploring modern RESTful services for gridded data
 pis:
   - Jonathan Joyce
 contributors:
-  - 
+  - James Munroe
+  - Alex Kerney
+  - Max Grover
+  - Matt Iannucci
 github: ioos/ioos-code-sprint/issues/11
 slack:
   - cloud
@@ -41,6 +44,7 @@ Moderate-Difficult
 
 **Relevant links:**
 
+* Project [page](https://asascience.github.io/restful-grids/project-overview.html) created during the sprint
 * [https://docs.xarray.dev/en/stable/](https://docs.xarray.dev/en/stable/)
 * [https://xpublish.readthedocs.io/en/latest/](https://xpublish.readthedocs.io/en/latest/)
 * [https://arrow.apache.org/](https://arrow.apache.org/)
