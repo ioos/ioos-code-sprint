@@ -44,3 +44,18 @@ Can vary from easy to difficult depending on skills of group members.
 
 * [https:/ioos.github.io/ioos_qc/](https:/ioos.github.io/ioos_qc/)
 * [https://github.com/gp86041/IOOS_waterlevel_QC_interactive](https://github.com/gp86041/IOOS_waterlevel_QC_interactive)
+
+**Functioning Prototype Repo**
+
+* [ioos-qc-front-end](https://github.com/Dylan-Pugh/ioos-qc-front-end)
+
+**Workflow**
+
+1. Import data that need QA/QC
+2. Select variable to be QA/QC
+3. Select QC checker type (i.e. gross range test)
+4. Select test parameters using a slider or numeric input
+5. Run QARTOD 
+6. Plot results (TBA, would be nice to have)
+7. Download post QA/QC data with flags
+
