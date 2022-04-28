@@ -51,7 +51,7 @@ Moderate
 
 After developing a plan of action, there was a flurry of activity to establish concise instruction on setting up ERDDAP locally via a Docker container. Local development without Docker was dismissed due to being against the spirit of the exercise. Work was done to develop utility functions to interact with an ERDDAP container, and a guide to deploying on Kubernetes locally was developed.
 
-[A website]() with this guide, has been developed. 
+[A website](https://ioos.github.io/erddap-gold-standard/index.html) with this guide, has been developed. 
 
 **Future work**
 
