@@ -45,9 +45,10 @@ Can vary from easy to difficult depending on skills of group members.
 * [https:/ioos.github.io/ioos_qc/](https:/ioos.github.io/ioos_qc/)
 * [https://github.com/gp86041/IOOS_waterlevel_QC_interactive](https://github.com/gp86041/IOOS_waterlevel_QC_interactive)
 
-**Functioning Prototype Repo**
+**Functioning Prototype**
 
-* [ioos-qc-front-end](https://github.com/Dylan-Pugh/ioos-qc-front-end)
+* [Live Web Application](https://share.streamlit.io/gp86041/ioos-qc-front-end/main/streamlit_file_upload.py)
+* [Repo](https://github.com/Dylan-Pugh/ioos-qc-front-end)
 
 **Workflow**
 
