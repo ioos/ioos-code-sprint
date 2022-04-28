@@ -29,14 +29,14 @@ Python and R knowledge, some experience with porting functionality from one lang
 Moderate
 
 **Team:**
-Jon Pye - Ocean Tracking Network(sprint lead)
-Kyle Wilcox - Axiom Data Science
-Ryan Gosse - Ocean Tracking Network
-Simon Beauvillier - Observatoire Global du St. Laurent (author)
-Germain Sauvé - Observatoire Global du St. Laurent (author)
-Naomi Tress - Ocean Tracking Network
-Mathew Biddle - US-IOOS
-Abby Benson - OBIS USA / USGS
+* Jon Pye - Ocean Tracking Network(sprint lead)
+* Kyle Wilcox - Axiom Data Science
+* Ryan Gosse - Ocean Tracking Network
+* Simon Beauvillier - Observatoire Global du St. Laurent (author)
+* Germain Sauvé - Observatoire Global du St. Laurent (author)
+* Naomi Tress - Ocean Tracking Network
+* Mathew Biddle - US-IOOS
+* Abby Benson - OBIS USA / USGS
 
 **Activities:**
 
