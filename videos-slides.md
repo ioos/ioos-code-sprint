@@ -14,8 +14,8 @@ menu_icon: film
 </li>
 
 <li class="video" markdown="1">
-<iframe class="template" src=""></iframe>
-[GLOS Introduction](){: target="_blank"}
+<iframe class="template" src="https://docs.google.com/presentation/d/1_o_VkI_UgXMnRtz3mv_P_lgesJbrW4QUsPbhym2psv8/edit?usp=sharing"></iframe>
+[Closing slides](https://docs.google.com/presentation/d/1_o_VkI_UgXMnRtz3mv_P_lgesJbrW4QUsPbhym2psv8/edit?usp=sharing){: target="_blank"}
 </li>
 
 </ul>
