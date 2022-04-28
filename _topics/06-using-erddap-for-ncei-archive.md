@@ -44,3 +44,27 @@ Moderate
 * [https://github.com/ioos/ioos-atn-data/issues/28](https://github.com/ioos/ioos-atn-data/issues/28)
 * [https://ioos.github.io/ioos-metadata/](https://ioos.github.io/ioos-metadata/)
 * [https://www.ncei.noaa.gov/netcdf-templates](https://www.ncei.noaa.gov/netcdf-templates)
+
+**Code Sprint Activity**
+After walking through using the `ArchiveADataset.sh` tool with Bob Simons, we identified the following process:
+1. Create/edit a configuration file which lists the dataset ID's in the host ERDDAP to be archived at NCEI. This is a "Setting the 'ready for archival flag'".
+   1. The data provider would have to manage which ones are new/updates. They can manage that by calculating the SHA-256 checksum of the jsonl response for the dataset of interest to see if the **data** changed.
+1. Script (ran at some frequency TBD by provider) uses the config file to run `ArchiveADataset.sh` for each dataset.
+   1. To run as a one liner with a Docker deployed ERDDAP, use this 
+      ```
+      $ docker run --rm -it \
+      -v "$(pwd)/datasets:/datasets" \
+      -v "$(pwd)/logs:/erddapData/logs" \
+      -v "$(pwd)/erddap/content:/usr/local/tomcat/content/erddap" \
+      -v "$(pwd)/erddap/data:/erddapData" \
+      axiom/docker-erddap:latest \
+      bash -c "cd webapps/erddap/WEB-INF/ && bash ArchiveADataset.sh -verbose BagIt tar.gz default raw_asset_inventory default "" "" .nc SHA-256"
+      ```
+1. Resultant BagIt package is put in the appropriate WAF for NCEI to pick up.
+
+**Next Steps**
+* Chris Turner to test/build process for ATN satellite telemetry data.
+* Bob Simons to add functionality to include additional files in the BagIt package (auto add ISO metadata record).
+  * See: https://github.com/BobSimons/erddap/issues/45
+* Matt Biddle to engage with other stakeholders for requirements (Nazila needs something specific for NMFS).
+
