@@ -46,3 +46,13 @@ Moderate
 
 * [https://github.com/ioos/erddap-gold-standard/issues/8](https://github.com/ioos/erddap-gold-standard/issues/8)
 * [https://github.com/ioos/erddap-gold-standard/issues/5](https://github.com/ioos/erddap-gold-standard/issues/5)
+
+**Code Sprint Activity**
+
+After developing a plan of action, there was a flurry of activity to establish concise instruction on setting up ERDDAP locally via a Docker container. Local development without Docker was dismissed due to being against the spirit of the exercise. Work was done to develop utility functions to interact with an ERDDAP container, and a guide to deploying on Kubernetes locally was developed.
+
+[A website]() with this guide, has been developed. 
+
+**Future work**
+
+We will want to develop a guide on deploying ERDDAP via Docker or Kubernetes on a live server or cluster. Further development of the utility functions and using the flag system.
