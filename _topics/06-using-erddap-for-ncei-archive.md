@@ -46,6 +46,7 @@ Moderate
 * [https://www.ncei.noaa.gov/netcdf-templates](https://www.ncei.noaa.gov/netcdf-templates)
 
 **Code Sprint Activity**
+
 After walking through using the `ArchiveADataset.sh` tool with Bob Simons, we identified the following process:
 1. Create/edit a configuration file which lists the dataset ID's in the host ERDDAP to be archived at NCEI. This is a "Setting the 'ready for archival flag'".
    1. The data provider would have to manage which ones are new/updates. They can manage that by calculating the SHA-256 checksum of the jsonl response for the dataset of interest to see if the **data** changed.
