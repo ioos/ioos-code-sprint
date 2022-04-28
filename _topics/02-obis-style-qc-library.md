@@ -28,6 +28,28 @@ Python and R knowledge, some experience with porting functionality from one lang
 
 Moderate
 
+**Team:**
+* Jon Pye - Ocean Tracking Network(sprint lead)
+* Kyle Wilcox - Axiom Data Science
+* Ryan Gosse - Ocean Tracking Network
+* Simon Beauvillier - Observatoire Global du St. Laurent (author)
+* Germain Sauvé - Observatoire Global du St. Laurent (author)
+* Naomi Tress - Ocean Tracking Network
+* Mathew Biddle - US-IOOS
+* Abby Benson - OBIS USA / USGS
+
+**Activities:**
+
+Code for running checks donated by the OGSL team and adapted from the BioData Mobilization workshop was re-implemented by the Sprint team as a Python module. A repository was created under the CIOOS namespace to host pyobistools. The module [https://github.com/cioos-siooc/pyobistools](https://github.com/cioos-siooc/pyobistools) has implemented much of the low-level QC functionality from the iobis/obistools package, including functions for checking fields and formats for both Occurrence Core-formatted files as well as an extension to check Event Core files and their extension Occurrence files. 
+
+Taxonomic checks, field checks, date and spatial coordinate format checks, as well as on_land and depth checks are implemented using GeoPandas in place of R's sp package and leveraging the same xylookup service as is used in obistools, a service that OBIS maintains
+
+Linting and CI have been implemented to ensure the package is more readily maintained and extended going forward.
+
+Testing for the package is being deployed to mirror the tests currently implemented on iobis/obistools. Translation of strings used in the module is included in a file but is not yet in the YAML format required to be implemented with python-i18n. A milestone will be created for that work, to be completed post-Sprint.
+
+Maintenance of this package will be undertaken by its authors and the Sprinters from the Ocean Tracking Network, under their CIOOS partnership. More functionality will be added over time in an effort to more accurately mirror functionality in iobis/obistools. When a core set of functionality is tested and ready, registration with PyPI/Conda will follow.
+
 **Relevant links:**
 
 * [https://github.com/iobis/obistools](https://github.com/iobis/obistools)
