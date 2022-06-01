@@ -16,7 +16,7 @@ repository: "ioos/ioos-code-sprint"
 #github_username: ioos-code-sprint
 theme: minima
 header_pages:
-  - registration.md
+#  - registration.md
   - agenda.md
   - topics.md
   - videos-slides.md

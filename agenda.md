@@ -41,8 +41,9 @@ Time (CDT)    | Activity | Google Meet | Pendry Room
 12:00 – 16:00 | **Breakout groups**<br>Recap and continue working on projects | breakout rooms | Salon 1, 2, 3, and 5 |
 16:00 – 17:00 | **Daily Recap/Lightning Talks** | MAIN ROOM | Salon 1 & 2 |
 
-
+<!--
 __Note:__ All in-person Code Sprint participants are invited to attend to a Great Lakes Networking Reception hosted by Mazarine Ventures at 5:30 PM. [Register for free.](https://glos.org/wp-content/uploads/2022/04/Reception-by-Mazarine-Ventures-Glosapalooza.pdf)
+-->
 
 ## Day 4 - Thursday April 28
 
