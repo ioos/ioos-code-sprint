@@ -54,7 +54,7 @@ body:
     validations:
       required: false
   - type: textarea
-    id: lead
+    id: links
     attributes:
       label: Relevant links
       description: Include relevant links to issues/repositories/websites here.
