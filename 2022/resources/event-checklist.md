@@ -15,7 +15,7 @@ Date              | Action
 ---               | ---                 
 March 31          | Send calendar invites for pre-Code Sprint meetings and Code Sprint to project leads and participants
 ---               | ---                  
-April 11          | Finalize [tutorial notebooks / repositories]({{ site.baseurl }}{% link 2022/resources.md %})
+April 11          | Finalize [tutorial notebooks / repositories]({{ site.baseurl }}{% link resources.md %})
                   | Create recurring Google Meet meeting for Code Sprint, with pre-allocated breakout rooms for topics, ensuring participants are muted on entry, can connect without host present and can move freely between breakout rooms
                   | (If needed) Create Slack channels for each track/topic.
                   | Create/share GitHub repository for each project

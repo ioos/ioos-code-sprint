@@ -36,7 +36,7 @@ permalink: pretty
 collections:
   topics:
     output: true
-    permalink: /:collection/:name/
+    permalink: 2022/:collection/:name/
 
 # Social media links
 # (See default layout below)
