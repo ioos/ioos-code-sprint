@@ -11,8 +11,8 @@ description:
   high quality ocean, coastal and Great Lakes information that meets the 
   safety, economic, and stewardship needs of the Nation.
 url: "https://ioos.github.io"
-baseurl: "/ioos-code-sprint"
-repository: "ioos/ioos-code-sprint"
+baseurl: "/ioos-code-sprint/2022"
+repository: "ioos/ioos-code-sprint/2022"
 #github_username: ioos-code-sprint
 theme: minima
 header_pages:
