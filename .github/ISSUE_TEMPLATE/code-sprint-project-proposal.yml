@@ -35,14 +35,14 @@ body:
     validations:
       required: false
   - type: dropdown
-    id: difficulty
+    id: expertise
     attributes:
-      label: Difficulty
-      description: Identify the difficulty of the project.
+      label: Expertise
+      description: Identify the expertise level for project participation.
       options:
-        - Easy
-        - Moderate
-        - Difficult
+        - Novice
+        - Intermediate
+        - Expert
     validations:
       required: false
   - type: input
