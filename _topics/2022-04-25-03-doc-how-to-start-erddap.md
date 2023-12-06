@@ -11,6 +11,8 @@ slack:
   - erddap
 breakout:
   - ERDDAP
+year: 
+  - 2022
 ---
 
 User documentation on how to get started with your erddap server.

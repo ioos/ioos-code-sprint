@@ -27,7 +27,7 @@ header_pages:
 #   soon = Registration has not yet opened
 #   open = Registration form is open
 #   closed = Registration form is now closed
-registration_status: closed
+registration_status: soon
 
 # Remove ".html" from default permalinks
 permalink: pretty
@@ -36,7 +36,7 @@ permalink: pretty
 collections:
   topics:
     output: true
-    permalink: :collection/:year/:name/
+    permalink: :collection/:year/:title:output_ext
 
 # Social media links
 # (See default layout below)

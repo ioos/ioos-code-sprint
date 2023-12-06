@@ -12,6 +12,8 @@ slack:
   - python
 breakout:
   - General Python
+year: 
+  - 2022
 ---
 
 Building an interactive user interface/application based on I0OS QC functions in [https://ioos.github.io/ioos_qc/](https://ioos.github.io/ioos_qc/). QC is 
