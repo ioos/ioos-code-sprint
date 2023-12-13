@@ -4,11 +4,32 @@ layout: page
 
 {{ content }}
 
+<h2 id="2024">2024</h2>
 <ul class="grid">
   {% for topic in site.topics %}
+  {% capture year %}{{ topic.date | date: '%Y' }}{% endcapture %}
+  {% if year == '2024' %}
+  {% unless topic.name == 'index' %}
     <li class="topic">
       <h3>Topic {{ topic.number }}: <a href="{{ site.baseurl }}{{ topic.url }}">{{ topic.title }}</a></h3>
       {{ topic.content | truncatewords: 10 }}
     </li>
+  {% endunless %}
+  {% endif %}
+  {% endfor %}
+</ul>
+
+<h2 id="2022">2022</h2>
+<ul class="grid">
+  {% for topic in site.topics %}
+  {% capture year %}{{ topic.date | date: '%Y' }}{% endcapture %}
+  {% if year == '2022' %}
+  {% unless topic.name == 'index' %}
+    <li class="topic">
+      <h3>Topic {{ topic.number }}: <a href="{{ site.baseurl }}{{ topic.url }}">{{ topic.title }}</a></h3>
+      {{ topic.content | truncatewords: 10 }}
+    </li>
+  {% endunless %}
+  {% endif %}
   {% endfor %}
 </ul>
