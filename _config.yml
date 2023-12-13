@@ -38,6 +38,7 @@ collections:
     output: true
     permalink: :collection/:year/:title:output_ext
 
+future: true
 # Social media links
 # (See default layout below)
 twitter:
