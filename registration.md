@@ -9,7 +9,7 @@ Participation is open to the IOOS community. The closing date for
 registration is **31 March 2022**.
 
 
-The Code Sprint will begin at 1 PM CST on Monday, April 25 and run until 11 AM CST on Thursday, April 28 (see the [agenda]({{ site.baseurl }}{% link agenda.md %}) for more details). The event will be hybrid with both in-person (in Chicago, Illinois) and virtual participants. The registration form for the event can be found below.
+The Code Sprint will begin at 1 PM CST on Monday, April 25 and run until 11 AM CST on Thursday, April 28 (see the [agenda]({{ site.baseurl }}/agenda) for more details). The event will be hybrid with both in-person (in Chicago, Illinois) and virtual participants. The registration form for the event can be found below.
 
 {% if site.registration_status == 'open' %}
   [Complete the registration form](https://docs.google.com/forms/d/e/1FAIpQLSeGrLQy9nlWRdNNnffV80sCgUMmd85_n_3iCpiy43GuuY30zw/viewform?usp=sf_link){:.btn target="_blank"}

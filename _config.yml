@@ -36,7 +36,13 @@ permalink: pretty
 collections:
   topics:
     output: true
-    permalink: :collection/:year/:title:output_ext
+    permalink: :year/:collection/:title:output_ext
+  agendas:
+    output: true
+    permalink: :year/:title:output_ext
+  homepages:
+    output: true
+    permalink: :year/:title:output_ext
 
 future: true
 # Social media links

@@ -46,7 +46,7 @@ Before the week of the Code Sprint, you will receive a link to a Google Calendar
 
 * Make sure the room you are in has a connection to the appropriate Google Meet event for virtual attendees.
 * Make an announcement on the `#code-sprint-2022` channel, identifying the topic to be worked on and the Google Meet connection information.
-* Check the [agenda]({{ site.baseurl }}{% link agenda.md %}) or the `#code-sprint-2022` channel on Slack for more detailed information.
+* Check the [agenda]({{ site.baseurl }}/agenda) or the `#code-sprint-2022` channel on Slack for more detailed information.
 
 ## How we are communicating
 
