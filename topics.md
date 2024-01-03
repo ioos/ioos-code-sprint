@@ -1,8 +1,11 @@
 ---
 layout: topic_list
 title: Code Sprint Topics
-menu_title: Topics
+menu_title: All Topics
 menu_icon: briefcase
+year: 
+  - 2024 
+  - 2022
 ---
 See the track list started [here](https://github.com/ioos/ioos-code-sprint/blob/main/2022/track-list.md).
 

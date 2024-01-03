@@ -20,25 +20,19 @@
             </svg>
           </span>
         </label>
-
         <div class="trigger">
-            <a class="page-link {% if page.url == node.url %}active{% endif %}" href="{{ site.baseurl }}/{{ page.year }}/topics">
-                <i class="bi bi-briefcase"></i>
-                <span>{{ page.year }} Topics</span>
+            <a class="page-link " href="https://glos.org/2019-code-sprint/">
+              {% if node.menu_icon %}<i class="bi bi-{{ node.menu_icon | escape }}"></i>{% endif %}
+                <span>2019 Code Sprint</span>
             </a>
-            <a class="page-link {% if page.url == node.url %}active{% endif %}" href="{{ site.baseurl }}/{{ page.year }}/agenda">
-                <i class="bi bi-clock"></i>
-                <span>{{ page.year }} Agenda</span>
+            <a class="page-link " href="{{ site.baseurl }}/2022">
+              {% if node.menu_icon %}<i class="bi bi-{{ node.menu_icon | escape }}"></i>{% endif %}
+                <span>2022 Code Sprint</span>
             </a>
-            <a class="page-link {% if page.url == node.url %}active{% endif %}" href="{{ site.baseurl }}/{{ page.year }}/registration">
-                <i class="bi bi-clipboard-check"></i>
-                <span>{{ page.year }} Registration</span>
+            <a class="page-link " href="{{ site.baseurl }}/2024">
+              {% if node.menu_icon %}<i class="bi bi-{{ node.menu_icon | escape }}"></i>{% endif %}
+                <span>2024 Code Sprint</span>
             </a>
-            <a class="page-link {% if page.url == node.url %}active{% endif %}" href="{{ site.baseurl }}/{{ page.year }}/about">
-                <i class="bi bi-globe2"></i>
-                <span>{{ page.year }} About</span>
-            </a>
-
         </div>
       </nav>
   </div>

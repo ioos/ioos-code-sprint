@@ -2,6 +2,8 @@
 title: Code Sprint registration
 menu_title: Registration
 menu_icon: clipboard-check
+layout: default
+year: 2022
 ---
 
 {:.lead}
@@ -9,16 +11,15 @@ Participation is open to the IOOS community. The closing date for
 registration is **31 March 2022**.
 
 
-The Code Sprint will begin at 1 PM CST on Monday, April 25 and run until 11 AM CST on Thursday, April 28 (see the [agenda]({{ site.baseurl }}/agenda) for more details). The event will be hybrid with both in-person (in Chicago, Illinois) and virtual participants. The registration form for the event can be found below.
+The Code Sprint will begin at 1 PM CST on Monday, April 25 and run until 11 AM CST on Thursday, April 28 (see the [agenda]({{ site.baseurl }}/2022/agenda) for more details). The event will be hybrid with both in-person (in Chicago, Illinois) and virtual participants. The registration form for the event can be found below.
 
-{% if site.registration_status == 'open' %}
+{% if site.registration_status_2022 == 'open' %}
   [Complete the registration form](https://docs.google.com/forms/d/e/1FAIpQLSeGrLQy9nlWRdNNnffV80sCgUMmd85_n_3iCpiy43GuuY30zw/viewform?usp=sf_link){:.btn target="_blank"}
-{% elsif site.registration_status == 'closed' %}
+{% elsif site.registration_status_2022 == 'closed' %}
   <a class="btn disabled">Registration has closed</a>
-{% elsif site.registration_status == 'soon' %}
+{% elsif site.registration_status_2022 == 'soon' %}
   <a class="btn disabled">Registration opens soon</a>
 {% endif %}
-Still need to register? Email mathew.biddle@noaa.gov.
 
 ## Travel
 

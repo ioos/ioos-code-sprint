@@ -16,9 +16,9 @@ repository: "ioos/ioos-code-sprint"
 #github_username: ioos-code-sprint
 theme: minima
 header_pages:
-#  - registration.md
+  - registration.md
   - agenda.md
-  - topics.md
+#  - topics.md
   - videos-slides.md
   - resources.md
   - about.md
@@ -27,7 +27,8 @@ header_pages:
 #   soon = Registration has not yet opened
 #   open = Registration form is open
 #   closed = Registration form is now closed
-registration_status: soon
+registration_status_2022: closed
+registration_status_2024: soon
 
 # Remove ".html" from default permalinks
 permalink: pretty
@@ -41,6 +42,12 @@ collections:
     output: true
     permalink: :year/:title:output_ext
   homepages:
+    output: true
+    permalink: :year/:title:output_ext
+  registrations:
+    output: true
+    permalink: :year/:title:output_ext
+  abouts:
     output: true
     permalink: :year/:title:output_ext
 
