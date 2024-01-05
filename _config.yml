@@ -28,7 +28,7 @@ header_pages:
 #   open = Registration form is open
 #   closed = Registration form is now closed
 registration_status_2022: closed
-registration_status_2024: soon
+registration_status_2024: open
 
 # Remove ".html" from default permalinks
 permalink: pretty
