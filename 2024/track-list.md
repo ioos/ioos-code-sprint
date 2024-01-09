@@ -12,6 +12,7 @@ Expectations for topic leads: Leads are expected to identify a short plan for th
 
 To register for the Code Sprint, please see the registration website https://ioos.github.io/ioos-code-sprint/2024/registration.
 
-|**Topics within track**|**links**|**lead**|**webpage**|
+|**Topic**|**links**|**lead**|**webpage**|
 |-----------------------|---------|--------|-----------|
-|  |  |  |  |
+| ERDDAP data harvesters/translators | https://github.com/ioos/ioos-code-sprint/issues/26 |  |  |
+| IOOS report env | https://github.com/ioos/ioos-code-sprint/issues/28 |  |  |
