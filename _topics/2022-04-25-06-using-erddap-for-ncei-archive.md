@@ -11,6 +11,8 @@ slack:
   - erddap
 breakout:
   - ERDDAP
+year: 
+  - 2022
 ---
 
 Currently, the IOOS Regional Associations (RA's) and Functional Data Assembly Centers (DAC's) rely heavily on using the 

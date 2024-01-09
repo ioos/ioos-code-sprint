@@ -1,11 +1,11 @@
 title: IOOS Code Sprint
 menu_title: IOOS Code Sprint
 author: Integrated Ocean Observing System (IOOS) Office, 
-  Great Lakes Observing System (GLOS)
+  Great Lakes Observing System (GLOS), Mid-Atlantic Regional Association Coastal Ocean Observing System (MARACOOS)
 description:
-  The IOOS Code Sprint is a 4-day hackathon style event, organised by the
-  Integrated Ocean Observing System (IOOS) Office and the Great Lakes 
-  Observing System (GLOS). Over the course of the event, teams of developers 
+  The IOOS Code Sprint is a multi-day hackathon style event, organised by the
+  Integrated Ocean Observing System (IOOS) Office and IOOS Regional Associations 
+  (RA). Over the course of the event, teams of developers 
   and academic researchers from across the IOOS community will work on 
   projects related to the IOOS mission to produce, integrate, and communicate 
   high quality ocean, coastal and Great Lakes information that meets the 
@@ -16,9 +16,9 @@ repository: "ioos/ioos-code-sprint"
 #github_username: ioos-code-sprint
 theme: minima
 header_pages:
-#  - registration.md
+  - registration.md
   - agenda.md
-  - topics.md
+#  - topics.md
   - videos-slides.md
   - resources.md
   - about.md
@@ -27,7 +27,8 @@ header_pages:
 #   soon = Registration has not yet opened
 #   open = Registration form is open
 #   closed = Registration form is now closed
-registration_status: closed
+registration_status_2022: closed
+registration_status_2024: open
 
 # Remove ".html" from default permalinks
 permalink: pretty
@@ -36,8 +37,21 @@ permalink: pretty
 collections:
   topics:
     output: true
-    permalink: /:collection/:name/
+    permalink: :year/:collection/:title:output_ext
+  agendas:
+    output: true
+    permalink: :year/:title:output_ext
+  homepages:
+    output: true
+    permalink: :year/:title:output_ext
+  registrations:
+    output: true
+    permalink: :year/:title:output_ext
+  abouts:
+    output: true
+    permalink: :year/:title:output_ext
 
+future: true
 # Social media links
 # (See default layout below)
 twitter:

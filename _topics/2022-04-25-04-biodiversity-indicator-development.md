@@ -10,6 +10,8 @@ slack:
   - biological-data
 breakout:
   - Biology/Ecology
+year: 
+  - 2022
 ---
 
 Open source biodiversity indicator development from open data.

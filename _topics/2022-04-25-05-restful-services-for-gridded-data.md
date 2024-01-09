@@ -13,6 +13,8 @@ slack:
   - cloud
 breakout:
   - Cloud/IoT
+year: 
+  - 2022
 ---
 
 This project will explore passing gridded geospatial data through microservices. We would like to develop some standard HTTP interfaces for data requests and responses. The guiding principles for this work should focus on performance, accessibility, and interoperability.

@@ -4,11 +4,20 @@ layout: page
 
 {{ content }}
 
+
+{% for year in page.year %}
+<h2 id={{ year }}>{{ year }}</h2>
 <ul class="grid">
   {% for topic in site.topics %}
+  {% assign tyear = topic.date | date: "%Y" | plus: 0 %} {% comment %} needed to convert to integer {% endcomment %}
+  {% if tyear == year %}
+  {% unless topic.name == 'index' %}
     <li class="topic">
       <h3>Topic {{ topic.number }}: <a href="{{ site.baseurl }}{{ topic.url }}">{{ topic.title }}</a></h3>
       {{ topic.content | truncatewords: 10 }}
     </li>
+  {% endunless %}
+  {% endif %}
   {% endfor %}
 </ul>
+{% endfor %}
