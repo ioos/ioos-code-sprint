@@ -36,8 +36,4 @@ Please note the following:
 1. The Canopy by Hilton hotel rate is $289 plus taxes and fees.
    1. Book using the block rate at the [Canopy by Hilton](https://www.hilton.com/en/hotels/dcacupy-canopy-washington-dc-the-wharf/) using [this link](https://www.hilton.com/en/book/reservation/deeplink/?ctyhocn=DCACUPY&groupCode=CCOSP&arrivaldate=2024-05-20&departuredate=2024-05-24&cid=OM,WW,HILTONLINK,EN,DirectLink&fromId=HILTONLINKDIRECT) by **April 20, 2024**.
 
-To start the process to request a travel voucher, complete the form below. 
-  
-  <a class="btn disabled">Travel Voucher form opens soon...</a>
-
 [faq]: {% link faq.md %}
