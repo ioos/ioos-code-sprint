@@ -25,7 +25,7 @@ The registration form for the event can be found below.
 
 ## Travel
 
-The Mid-Atlantic Regional Association Coastal Ocean Observing System (MARACOOS) will be hosting the Code Sprint and has some limited funding to provide travel vouchers for those in-person IOOS Regional Association partners in need.   Please indicate your need for travel support and one of the MARACOOS organizer will reach out to you.  If travel support is approved, the travel voucher will be paid with check in advance of the event.
+The Mid-Atlantic Regional Association Coastal Ocean Observing System (MARACOOS) will be hosting the Code Sprint and has some limited funding to provide travel vouchers for those in-person IOOS Regional Association partners in need.   Please indicate your need for travel support in the registration form above, and one of the MARACOOS organizer will reach out to you.  If travel support is approved, the travel voucher will be paid with check in advance of the event.
 
 The in-person event will be held at The Pitch at The Wharf, Washington D.C., see map below.
 
