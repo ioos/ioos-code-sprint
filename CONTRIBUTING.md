@@ -42,7 +42,7 @@ be considerate and respectful of others by following our
 
 ## Creating Sprint Topic Webpages
 
-1. Fork this repository and start a new branch for your contributions.
+1. Fork the `gh-pages` branch of this repository and start a new branch for your contributions.
 1. Make a copy of https://github.com/ioos/ioos-code-sprint/blob/gh-pages/_topics/2024-05-01-01-test_something.md?plain=1 to a new markdown file in the `_topics/` directory.
    1. The filename convention is as follows: 
        2024-05-01-`<incrementor>`-`<title>`.md
