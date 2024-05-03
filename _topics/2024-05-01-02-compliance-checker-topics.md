@@ -62,6 +62,7 @@ Metadata Standards
  * [Ocean Glider 1.0 User Manual Github.io](https://oceangliderscommunity.github.io/OG-format-user-manual/)
  * [NGDAC NetCDF File Format Version 2](https://ioos.github.io/glider-dac/ngdac-netcdf-file-format-version-2.html)
  * [CF Metadata Conventions](https://cfconventions.org/)
+ * [NECI NetCDF Templates](https://www.ncei.noaa.gov/netcdf-templates)
 
 Vocabularies
  * [NERC](https://vocab.nerc.ac.uk/collection/)
