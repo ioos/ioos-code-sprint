@@ -6,7 +6,7 @@ pis:
 contributors:
   - 7yl4r
   - cjolson64
-github: https://github.com/ioos/ioos-code-sprint/issues/33
+github: ioos/ioos-code-sprint/issues/33
 slack:
   - TBD
 breakout:
