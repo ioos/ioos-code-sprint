@@ -39,6 +39,11 @@
                 <span>{{ page.year }} About</span>
             </a>
 
+            <a class="page-link {% if page.url == node.url %}active{% endif %}" href="{{ site.baseurl }}/{{ page.year }}/participant-guide">
+                <i class="bi bi-globe2"></i>
+                <span>{{ page.year }} Participant Guide</span>
+            </a>
+
         </div>
       </nav>
   </div>

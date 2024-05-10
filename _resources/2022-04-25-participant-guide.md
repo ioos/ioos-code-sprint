@@ -1,6 +1,7 @@
 ---
 title: Participant guide
 layout: resource
+year: 2022
 ---
 
 <div class="lead" markdown="1">

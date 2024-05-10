@@ -1,5 +1,5 @@
 ---
-title: Code Sprint resources
+title: Code Sprint _resources
 menu_title: Resources
 menu_icon: journal-code
 ---
@@ -8,7 +8,7 @@ menu_icon: journal-code
 <li class="resource-block" markdown="1">
 
 ## Getting set up
-#### [Participant guide]({{ site.baseurl }}{% link resources/participant-guide.md %}) - a guide that explains how the code sprint is being organised
+#### [Participant guide]({{ site.baseurl }}/resources/2022/participant-guide.html) - a guide that explains how the code sprint is being organised
 </li>
 
 <li class="resource-block" markdown="1">
@@ -20,7 +20,7 @@ menu_icon: journal-code
 <li class="resource-block" markdown="1">
 
 ## Help for organisers
-#### [Event checklist]({{ site.baseurl }}{% link resources/event-checklist.md %}) – a checklist for activities required in the run-up to a hackathon event
+#### [Event checklist]({{ site.baseurl }}//resources/2022/event-checklist.html) – a checklist for activities required in the run-up to a hackathon event
 
 An at-a-glace guide to the key activities required when organising a
 hackathon, including links to relevant resources and templates.
@@ -29,7 +29,6 @@ hackathon, including links to relevant resources and templates.
 <li class="resource-block" markdown="1">
 
 ## Useful templates
-#### [Templates]({{ site.baseurl }}{% link resources/templates.md %}) - useful forms, emails and resources for organisers
 
 
 </li>
