@@ -20,7 +20,7 @@ header_pages:
   - agenda.md
 #  - topics.md
   - videos-slides.md
-  - resources.md
+#  - _resources.md
   - about.md
 
 # Open and close the registration form
@@ -28,7 +28,7 @@ header_pages:
 #   open = Registration form is open
 #   closed = Registration form is now closed
 registration_status_2022: closed
-registration_status_2024: open
+registration_status_2024: closed
 
 # Remove ".html" from default permalinks
 permalink: pretty
@@ -48,6 +48,9 @@ collections:
     output: true
     permalink: :year/:title:output_ext
   abouts:
+    output: true
+    permalink: :year/:title:output_ext
+  resources:
     output: true
     permalink: :year/:title:output_ext
 
