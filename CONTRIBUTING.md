@@ -38,6 +38,7 @@ be considerate and respectful of others by following our
 1. Determine how many potential participants would like to contribute during the Code Sprint. (_for 2024 we did this via Google Forms_)
 1. Determine who will lead the topic during the sprint by assigning a person as `assignee` in the GitHub issue.
    1. A Code Sprint coordinator will update the ticket identifying a potential topic lead by setting them as `assignee`.
+   2. The topic will be assigned a label for the appropriate year of the event. This label indicates the topic will be executed during the event. (eg. for the 2024 event see [these issues](https://github.com/ioos/ioos-code-sprint/issues?q=is%3Aissue+label%3A2024+)) 
 1. The issue `assignee` will [create a Sprint Topic webpage](#creating-sprint-topic-webpages).
 
 ## Creating Sprint Topic Webpages
