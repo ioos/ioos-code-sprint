@@ -44,7 +44,7 @@ be considerate and respectful of others by following our
 ## Creating Sprint Topic Webpages
 
 1. Fork the `gh-pages` branch of this repository and start a new branch for your contributions.
-1. Make a copy of https://github.com/ioos/ioos-code-sprint/blob/gh-pages/_topics/2024-05-01-01-test_something.md?plain=1 to a new markdown file in the `_topics/` directory.
+1. Make a copy of this [template](https://github.com/ioos/ioos-code-sprint/blob/326ac1b9a770a6a4ce5f0137659c8c87e0a2e998/_topics/2024-05-01-01-test_something.md?plain=1) to a new markdown file in the `_topics/` directory.
    1. The filename convention is as follows: 
        2024-05-01-`<incrementor>`-`<title>`.md
 1. Adjust the filename to increase the `<incrementor>` by 1 and adjust the `<title>` text to something descriptive about the topic (For example, `2024-05-01-01-test_something.md` -> `2024-05-01-02-ERDDAP_mobile_application.md`).
