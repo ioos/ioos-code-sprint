@@ -18,4 +18,5 @@ To register for the Code Sprint, please see the registration website https://ioo
 | Provider Parameter Mapper Utilities | https://github.com/ioos/ioos-code-sprint/issues/33 | joe-smithe-glos | https://ioos.github.io/ioos-code-sprint/2024/topics/04-provider-param-mapper.html |
 | Collect data usage statistics from OBIS and GBIF and add to ioos_metrics  | https://github.com/ioos/ioos-code-sprint/issues/55 | mathewbiddle | https://ioos.github.io/ioos-code-sprint/2024/topics/05-usage_stats_obis_gbif.html |
 | XPublish Enhancements | https://github.com/ioos/ioos-code-sprint/issues/42 | jonmjoyce mpiannucci | https://ioos.github.io/ioos-code-sprint/2024/topics/06-xpublish.html |
+| AI Ready Data Checker | https://github.com/ioos/ioos-code-sprint/issues/32 | hmoustahfid-NOAA | https://ioos.github.io/ioos-code-sprint/2024/topics/07-ai-ready-data-checker.html |
 
