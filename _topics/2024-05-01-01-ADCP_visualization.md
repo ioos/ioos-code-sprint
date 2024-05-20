@@ -24,7 +24,7 @@ The general task is to develop a configurable Python package that can be importe
 
 **Skills required:**
 
-Python prgramming, netCDF understanding, accessing ERDDAP service
+Python programming, netCDF understanding, accessing ERDDAP service
 
 **Difficulty:**
 

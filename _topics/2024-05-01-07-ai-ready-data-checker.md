@@ -48,7 +48,7 @@ Here are some examples of existing compliance checkers/assessment tools to evalu
 | Examples  |Organization  | What's for?|
 |--------|--------|--------|
 |[IOOS Compliance Checker](https://compliance.ioos.us/index.html) | [NOAA IOOS](https://ioos.noaa.gov/) | The IOOS Compliance Checker is a Python-based tool for data providers to check for completeness and community standard compliance of local or remote netCDF files against CF and ACDD file standards. The Python module can be used as a command-line tool or as a library that can be integrated into other software.|
-|[FAIR Data Assessment Tool-f-uji](http://www.f-uji.net/)| [PANGAEA](https://www.pangaea.de/) |F-UJI is a web service to programatically assess FAIRness of research data objects at the dataset level based on the FAIRsFAIR Data Object Assessment Metrics|
+|[FAIR Data Assessment Tool-f-uji](http://www.f-uji.net/)| [PANGAEA](https://www.pangaea.de/) |F-UJI is a web service to programmatically assess FAIRness of research data objects at the dataset level based on the FAIRsFAIR Data Object Assessment Metrics|
 |[pyQuARC](https://github.com/NASA-IMPACT/pyQuARC)|[NASA](https://www.nasa.gov/) | Open Source Library for Earth Observation Metadata Quality Assessment|
 |[FAIR-Checker](https://fair-checker.france-bioinformatique.fr/) | [Looks like French Group](https://jbiomedsem.biomedcentral.com/articles/10.1186/s13326-023-00289-5)| Assess FAIRness|
 

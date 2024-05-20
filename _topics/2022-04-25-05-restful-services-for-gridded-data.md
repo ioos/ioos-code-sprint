@@ -69,7 +69,7 @@ To update your conda environment with any new packages added or removed to the `
 Alternatively, you can install dependencies with `pip` and `virtualenv`: 
 
 ```bash
-virutalenv env/
+virtualenv env/
 source env/bin/activate
 pip install -r requirements.txt
 ```
