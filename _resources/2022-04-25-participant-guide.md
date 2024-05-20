@@ -34,7 +34,7 @@ This is an excellent way of getting some team management experience and so we em
 </div>
 
 ## How our event is structured
-The event is a hybrid format with attendees both in-person at The Pendry, and vitrual connecting through Google Meets and Slack. 
+The event is a hybrid format with attendees both in-person at The Pendry, and virtual connecting through Google Meets and Slack. 
 
 ### For virtual attendees
 Before the week of the Code Sprint, you will receive a link to a Google Calendar for the Code Sprint events. Below is a description of how each of those events relates to the Code Sprint as a whole.
@@ -43,7 +43,7 @@ Before the week of the Code Sprint, you will receive a link to a Google Calendar
 
 **[track]** - There are individual Google Meet events for each of the Tracks listed [here](https://github.com/ioos/ioos-code-sprint/blob/main/2022/track-list.md) ( **ERDDAP**, **General Python**, **Biology/Ecology**, and **Cloud/IoT**). This is where participants will be spending the majority of their time. These spaces will be available for you to connect to during the break group portions of the event. You can enter and exit the sprint track rooms as you wish. 
 
-### For in-peron attendees
+### For in-person attendees
 
 * Make sure the room you are in has a connection to the appropriate Google Meet event for virtual attendees.
 * Make an announcement on the `#code-sprint-2022` channel, identifying the topic to be worked on and the Google Meet connection information.
@@ -81,7 +81,7 @@ The best way to contact us during the code sprint is to use the channel `#code-s
 
 ### A note on bandwidth at the event
 
-For those attending in-person, at The Pendry, we will be using the wifi network provided by the hotel. If you need high bandwidth to download large amounts of data for your project we recommend using cloud services, preload on local machine, or bring usb sticks. If you have special circumstances or questions, please post your requirements to the `#code-sprint-2022` Slack channel and we can see how we can accomodate your needs.
+For those attending in-person, at The Pendry, we will be using the wifi network provided by the hotel. If you need high bandwidth to download large amounts of data for your project we recommend using cloud services, preload on local machine, or bring usb sticks. If you have special circumstances or questions, please post your requirements to the `#code-sprint-2022` Slack channel and we can see how we can accommodate your needs.
 
 ## Feedback
 

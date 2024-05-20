@@ -19,9 +19,9 @@ Develop a tool that reads in the web logs of an ERDDAP server to analyse how the
 - Filtering out bots/crawlers/spam
 - Analysing and visualising which datasets receive the most requests
 - Examining geographical/temporal distribution of users
-- Investigating what user agents are making requests (browers, erddapy, other ERDDAP servers etc.)
+- Investigating what user agents are making requests (browsers, erddapy, other ERDDAP servers etc.)
 
-Initiallly this will be a static tool that is run on the tomcat/nginx logs of an ERDDAP server. The next step will be to run it alongside the ERDDAP server perhaps with a tool like prometheus
+Initially this will be a static tool that is run on the tomcat/nginx logs of an ERDDAP server. The next step will be to run it alongside the ERDDAP server perhaps with a tool like prometheus
 
 **Expected Outcomes:**
 
