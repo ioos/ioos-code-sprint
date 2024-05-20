@@ -10,7 +10,7 @@ github: ioos/ioos-code-sprint/issues/33
 slack:
   - TBD
 breakout:
-  - General TBD
+  - Metadata
 year: 
   - 2024
 ---

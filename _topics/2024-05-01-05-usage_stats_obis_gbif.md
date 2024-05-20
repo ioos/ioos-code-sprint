@@ -9,7 +9,7 @@ github: ioos/ioos-code-sprint/issues/55
 slack:
   - python
 breakout:
-  - General Python
+  - Unconference
 year: 
   - 2024
 ---

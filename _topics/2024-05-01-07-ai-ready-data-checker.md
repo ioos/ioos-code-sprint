@@ -9,7 +9,7 @@ github: ioos/ioos-code-sprint/issues/32
 slack:
   - TBD
 breakout:
-  - TBD
+  - unconference
 year: 
   - 2024
 ---

@@ -7,9 +7,9 @@ contributors:
   - Sandeep Jilla
 github: ioos/ioos-code-sprint/issues/45
 slack:
-  - TBD
+  - erddap
 breakout:
-  - TBD
+  - ERDDAP
 year: 
   - 2024
 ---

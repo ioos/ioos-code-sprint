@@ -8,8 +8,9 @@ contributors:
 github: ioos/ioos-code-sprint/issues/34
 slack:
   - python
+  - erddap
 breakout:
-  - General Python
+  - ERDDAP
 year: 
   - 2024
 ---
