@@ -3,6 +3,8 @@ number: 3
 title: ERDDAP web logs analysis
 pis:
   - Callum Rollo
+  - Ana Paula Krelling 
+  - Chris John
 contributors:
   - tbd
 github: ioos/ioos-code-sprint/issues/34
@@ -50,5 +52,7 @@ Other potentially relevant tools that have been referenced:
 - https://github.com/dfo-meds/erddaputil
 
 **Functioning Prototype**
+
+https://github.com/callumrollo/erddaplogs
 
 **Workflow**
