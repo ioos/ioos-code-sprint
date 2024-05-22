@@ -5,6 +5,7 @@ pis:
   - MathewBiddle
 contributors:
   - laurabrenskelle
+  - 7yl4r
 github: ioos/ioos-code-sprint/issues/55
 slack:
   - python
@@ -35,8 +36,17 @@ Novice
 **Relevant links:**
 - <https://github.com/ioos/ioos_metrics/issues/69>
 - <https://github.com/ioos/mbon-docs/issues/45>
+- Pull Request - <https://github.com/ioos/ioos_metrics/pull/74>
 
 **Functioning Prototype**
 * <https://github.com/MathewBiddle/sandbox/blob/main/notebooks/MBON_OBIS_statistics.ipynb>
 
 **Workflow**
+* add function to `ioos_metrics`
+* parse results in jupyter notebook added to `ioos_metrics/notebooks` and visualize something important.
+
+```python
+import ioos_metrics.ioos_metrics
+
+df = ioos_metrics.ioos_metrics.mbon_stats()
+```
