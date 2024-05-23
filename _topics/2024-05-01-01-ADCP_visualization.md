@@ -9,9 +9,9 @@ contributors:
   - Flora Sauerbronn
 github: ioos/ioos-code-sprint/issues/45
 slack:
-  - erddap
+  - visualization-adcp
 breakout:
-  - ERDDAP
+  - ERDDAP ADCP
 year: 
   - 2024
 ---
@@ -22,7 +22,7 @@ The general task is to develop a configurable Python package that can be importe
 
 **Expected Outcomes:**
 * Python-based package the can be imported to display 2D or 3D ocean current plots from ADCPs or similar data types.
-* 3D plots with a time-slider to manually or automatically view plots for different time frames for all depths on one station
+* 3D plot for a given date and depth range from one station
 
 **Skills required:**
 
@@ -40,9 +40,20 @@ Easy to Moderate
 
 **Functioning Prototype**
 
-TODO
+The full functional prototype is posted at https://github.com/SandeepJilla/erddap_stick. The code reads the ERDDAP server directly and plot the results. 
+
+*Configurable Parameters*
+
+* Data source (ERDDAP URL)
+* Dataset ID
+* Temporal period (start/end datestamp)
+* Depth range (m)
+* Color palette
+* Plot dimension (width, height)
+* Line spacing (2D plot)
 
 **Workflow**
+
 * read netCDF data from ERDDAP services
 * compute plotting configurations, and
 * display the 2D or 3D plots
