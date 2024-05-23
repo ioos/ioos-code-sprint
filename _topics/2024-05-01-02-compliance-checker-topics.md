@@ -1,19 +1,17 @@
 ---
 number: 2
 title: Compliance Checker Topics
-pis:
-  - Rob Cermak
+contributors:
+  - Benjamin Adams
+  - Rob Cermak (topic lead)
   - Filipe Fernandes
   - Callum Rollo
-contributors:
-  - TBD
 github: ioos/ioos-code-sprint/issues/40
 slack:
+  - compliance-checker
   - code-sprint-2024
-  - erddap
-  - python
 breakout:
-  - unconference
+  - compliance-checker
 year: 
   - 2024
 ---
@@ -85,3 +83,36 @@ References
  * [OG Format User Manual Discussion #165](https://github.com/OceanGlidersCommunity/OG-format-user-manual/discussions/165)
  * [OG Format User Manual Discussion #92](https://github.com/OceanGlidersCommunity/OG-format-user-manual/discussions/92)
  * [OG Format User Manual PR #172](https://github.com/OceanGlidersCommunity/OG-format-user-manual/pull/172)
+
+---
+
+**Work Completed**
+
+An Ocean Glider 1.0 plugin is largely operational with three specification
+tests. These tests can be combined with CF-1.8 at present with CF-1.9 and
+CF-1.10 coming soon! The plug-in is available from this
+[repository](https://github.com/uw-farlab/cc-plugin-og) which will be
+eventually migrated into the IOOS organizational repository.
+
+ * 10 closed [pull requests](https://github.com/ioos/cc-plugin-glider/pulls?q=label%3Aioos-code-sprint-2024+) for cc-plugin-glider
+ * 11 closed [pull requests](https://github.com/ioos/compliance-checker/pulls?q=label%3Aioos-code-sprint-2024+) for compliance-checker 
+
+**Future Actions**
+
+ * Activate CF-1.9 and CF-1.10 in compliance checker for use in the OG-1.0 plugin.  For now
+   the OG-1.0 plugin can utilize CF-1.8.
+ * Finish off CF-1.9/CF-1.10 work
+ * Work on CF-1.11 in coordination with UK Met effort.  This will retire the UGRID plugin.
+   * Changes from [CF-1.8 to CF-1.9](https://github.com/cf-convention/cf-conventions/compare/1.8.0...1.9.0#diff-3b9c470edad8a09f463987db632803f1ecc22561199fa5771745ad472a62e0ee)
+   * Changes from [CF-1.9 to CF-1.10](https://github.com/cf-convention/cf-conventions/compare/1.9.0...v1.10.0#diff-3b9c470edad8a09f463987db632803f1ecc22561199fa5771745ad472a62e0ee)
+   * Changes from [CF-1.9 to CF-1.11](https://github.com/cf-convention/cf-conventions/compare/1.9.0...v1.11.0#diff-3b9c470edad8a09f463987db632803f1ecc22561199fa5771745ad472a62e0ee)
+   
+   * Plugin for AI? Wait for further mapping and reconcilation of AI Ready
+     specifications to current IOOS metadata template and see what needs to be done.
+
+   * Central repository for example datasets? No.  The compliance checker repository will
+     curate for convienence only pointers to examples of interest: ERDDAP, NCEI, IOOS
+     "golden standard" and Ocean Glider repositories.  Utilization of python pooch is the
+     recommended method of access.
+
+
