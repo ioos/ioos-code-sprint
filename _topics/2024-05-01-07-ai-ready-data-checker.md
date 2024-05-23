@@ -5,6 +5,10 @@ pis:
   - Hassan Moustahfid (@hmoustahfid-NOAA)
 contributors:
   - Megan Cromwell (@megancromwell)
+  - Felimon Gayanilo (@fgayanilo)
+  - Rob Cermak (@jcermauwedu)
+  - Doug Rao
+  - Sandeep Jilla (@sandeepjilla)
 github: ioos/ioos-code-sprint/issues/32
 slack:
   - TBD
@@ -66,3 +70,9 @@ Tasks:
 1. Review the ESIP AI Ready Checklist (focus on Training Data level 3 Metadata?) 
 1. Evaluate existing checker (differences) commonalities etc.  
 1. Select a checker to build on/prototype etc. 
+
+**Updates**
+
+The NOAA IOOS Compliance Checker utilizes, among others, the NOAA IOOS Metadata Profile (1.2; https://ioos.github.io/ioos-metadata/) as a reference. Mapping the requirements as drafted by the AI-Data Ready ESIP Cluster (Doug Rao, Lead) indicates that the NOAA IOOS Profile fulfills much of the requirements of the AI Dat Ready Checklist. However, the profile may need some minor adjustments that can be used by the Compliance Checker to tag if data is AI-ready. For example, the creator's name in the IOOS Metadata Profile is tagged as 'Recommended' but in the ESIP AI Ready Checklist, it is required. With the help of the ESIP AI Data Ready Cluster, mapping the requirements with the IOOS Metadata Profile will need to be completed first before an update to the IOOS Compliance Checker can be made.
+
+The team will continue the discussion until the mapping of the requirements are completed.
