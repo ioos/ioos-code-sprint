@@ -6,9 +6,11 @@ pis:
 contributors:
   - 7yl4r
   - cjolson64
+  - Dylan-Pugh
+  - MathewBiddle
 github: ioos/ioos-code-sprint/issues/33
 slack:
-  - TBD
+  - metadata
 breakout:
   - Metadata
 year: 
@@ -23,7 +25,7 @@ Interfaces to the library may be developed to serve different purposes. For exam
 
 Generally, the goals here are:
 
-- A user fillable form that allows platform/buoy data providers to submit what parameters their platform is going to send in, and the CF standard names those parameters map to + a form to map biological parameters to Darwin Core compatible terms (TODO: @7yl4r, correct this)
+- A user fillable form that allows platform/buoy data providers to submit what parameters their platform is going to send in, and the CF standard names those parameters map to + a form to map biological parameters to Darwin Core compatible terms
 
 - When a provider is searching for an appropriate standard name, the standard name's definition pops up someplace to inform the provider what they're looking at. Suggestions may also pop up as well.
 
@@ -43,10 +45,16 @@ Hopefully just drudgery towards a useful set of tools.
 - https://github.com/ioos/ioos-code-sprint/issues/33
 - https://github.com/ioos/ioos-code-sprint/issues/31
 
-**Functioning Prototype**
+**Functioning Prototypes**
 
-TODO
+- https://github.com/7yl4r/react_component
+- https://github.com/joe-smithe-glos/seagull.platform.form.ics2024
 
 **Workflow**
 
-Caffeinated 
+- Started with working on assimilating a standardized JSON parameter vocabulary
+  - https://github.com/7yl4r/react_component/tree/main/src/vocabulary_json
+- A javascript storybook 'CfParameterField' became the minimum viable product
+  - Run this repo: https://github.com/7yl4r/react_component
+- Per the topic lead, a metadata form with the parameter mapper integrated was drafted
+  - https://github.com/joe-smithe-glos/seagull.platform.form.ics2024
