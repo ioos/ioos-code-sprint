@@ -50,3 +50,15 @@ import ioos_metrics.ioos_metrics
 
 df = ioos_metrics.ioos_metrics.mbon_stats()
 ```
+
+**Notebook**
+<https://github.com/ioos/ioos_metrics/blob/main/notebooks/mbon_citation_visualizations.ipynb>
+
+**Images**
+
+![](image.png)
+![](image_copy.png)
+![](image copy 2.png)
+![](image copy 3.png)
+![](image copy 4.png)
+![](newplot.png)
