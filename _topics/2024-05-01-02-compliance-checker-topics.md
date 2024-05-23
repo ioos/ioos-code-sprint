@@ -3,6 +3,7 @@ number: 2
 title: Compliance Checker Topics
 contributors:
   - Benjamin Adams
+  - Chris Barker
   - Rob Cermak (topic lead)
   - Filipe Fernandes
   - Callum Rollo
