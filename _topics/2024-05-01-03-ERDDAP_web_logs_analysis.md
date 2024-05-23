@@ -3,10 +3,11 @@ number: 3
 title: ERDDAP web logs analysis
 pis:
   - Callum Rollo
+
+contributors:
   - Ana Paula Krelling 
   - Chris John
-contributors:
-  - tbd
+  - Tuomo Saari
 github: ioos/ioos-code-sprint/issues/34
 slack:
   - python
@@ -54,5 +55,13 @@ Other potentially relevant tools that have been referenced:
 **Functioning Prototype**
 
 https://github.com/callumrollo/erddaplogs
+On PyPI https://pypi.org/project/erddaplogs/
 
 **Workflow**
+
+1. Read in apache and nginx logs, combine them into one consistent dataframe
+2. Find the ips that made the greatest number of requests. Get their info from ip-api.com
+3. Remove suspected spam/bot requests
+4. Perform basic anaylysis to graph number of requests and users over time, most popular datasets/datatypes and geographic distribution of users etc
+5. Output anonymized data for sharing via ERDDAP
+
