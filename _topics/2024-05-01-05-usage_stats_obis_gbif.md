@@ -56,9 +56,9 @@ df = ioos_metrics.ioos_metrics.mbon_stats()
 
 **Images**
 
-![](image.png)
-![](image_copy.png)
-![](image copy 2.png)
-![](image copy 3.png)
-![](image copy 4.png)
-![](newplot.png)
+![](https://github.com/ioos/ioos-code-sprint/raw/gh-pages/assets/image.png)
+![](https://github.com/ioos/ioos-code-sprint/raw/gh-pages/assets/image_copy.png)
+![](https://github.com/ioos/ioos-code-sprint/raw/gh-pages/assets/image%20copy%202.png)
+![](https://github.com/ioos/ioos-code-sprint/raw/gh-pages/assets/image%20copy%203.png)
+![](https://github.com/ioos/ioos-code-sprint/raw/gh-pages/assets/image%20copy%204.png)
+![](https://github.com/ioos/ioos-code-sprint/raw/gh-pages/assets/newplot.png)
