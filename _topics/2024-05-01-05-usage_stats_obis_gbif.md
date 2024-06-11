@@ -39,11 +39,11 @@ Novice
 - Pull Request - <https://github.com/ioos/ioos_metrics/pull/74>
 
 **Functioning Prototype**
-* <https://github.com/MathewBiddle/sandbox/blob/main/notebooks/MBON_OBIS_statistics.ipynb>
+* <https://github.com/ioos/ioos_metrics/blob/main/notebooks/mbon_citation_visualizations.ipynb>
 
 **Workflow**
-* add function to `ioos_metrics`
-* parse results in jupyter notebook added to `ioos_metrics/notebooks` and visualize something important.
+* add function to `ioos_metrics` - DONE in [these PRs](https://github.com/ioos/ioos_metrics/pulls?q=is%3Apr+is%3Aclosed+label%3Aioos-code-sprint-2024)
+* parse results in jupyter notebook added to `ioos_metrics/notebooks` and visualize something important. - DONE (see functioning prototype and notebook link below)
 
 ```python
 import ioos_metrics.ioos_metrics
