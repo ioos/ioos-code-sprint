@@ -46,16 +46,16 @@ Novice
 
 **Relevant links:**
 
-Work in progress here https://github.com/callumrollo/erddaplogs
+Work in progress here <https://github.com/callumrollo/erddaplogs>
 
 Other potentially relevant tools that have been referenced:
-- https://github.com/axiom-data-science/erddap-metrics
-- https://github.com/dfo-meds/erddaputil
+- <https://github.com/axiom-data-science/erddap-metrics>
+- <https://github.com/dfo-meds/erddaputil>
 
 **Functioning Prototype**
 
-https://github.com/callumrollo/erddaplogs
-On PyPI https://pypi.org/project/erddaplogs/
+* <https://github.com/callumrollo/erddaplogs>
+* On PyPI <https://pypi.org/project/erddaplogs/>
 
 **Workflow**
 
