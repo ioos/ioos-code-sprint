@@ -40,7 +40,7 @@ Easy to Moderate
 
 **Functioning Prototype**
 
-The full functional prototype is posted at https://github.com/SandeepJilla/erddap_stick. The code reads the ERDDAP server directly and plot the results. 
+The full functional prototype is posted at <https://github.com/SandeepJilla/erddap_stick>. The code reads the ERDDAP server directly and plot the results. 
 
 *Configurable Parameters*
 
