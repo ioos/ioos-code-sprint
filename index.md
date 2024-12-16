@@ -13,12 +13,14 @@ menu_icon: house-door
 
 ## Background
 The IOOS Code Sprint is a 4-day hackathon style event organized by [NOAA's Integrated Ocean Observing System Office](https://ioos.noaa.gov/).
-Over the course of the event, teams of developers, academic researchers, and community members will work on projects that address pressing data and information challenges. Projects will relate to the IOOS mission to produce, integrate, and communicate high quality ocean, coastal and Great Lakes information that meets the safety, economic, and stewardship needs of the Nation.
+Over the course of the event, teams of developers, academic researchers, and community members will work on projects that address pressing data and information challenges. 
+Projects will relate to the IOOS mission to produce, integrate, and communicate high quality ocean, coastal and Great Lakes information that meets the safety, economic, and stewardship needs of the Nation.
 
 ## Upcoming IOOS Code Sprints
-* [2024 IOOS Code Sprint]({{ site.baseurl }}/2024/)
+* TBD
 
 ## Previous IOOS Code Sprints
+* [2024 IOOS Code Sprint]({{ site.baseurl }}/2024/)
 * [2022 IOOS Code Sprint]({{ site.baseurl }}/2022/)
 * [2019 IOOS Code Sprint](https://glos.org/2019-code-sprint/)
 
