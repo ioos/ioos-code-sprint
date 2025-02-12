@@ -56,8 +56,8 @@ Here are some examples of existing compliance checkers/assessment tools to evalu
 |[pyQuARC](https://github.com/NASA-IMPACT/pyQuARC)|[NASA](https://www.nasa.gov/) | Open Source Library for Earth Observation Metadata Quality Assessment|
 |[FAIR-Checker](https://fair-checker.france-bioinformatique.fr/) | [Looks like French Group](https://jbiomedsem.biomedcentral.com/articles/10.1186/s13326-023-00289-5)| Assess FAIRness|
 
-- A capability maturity model for scientific data management - https://doi.org/10.1002/meet.14504701359
-- A Unified Framework for Measuring Stewardship Practices Applied to Digital Environmental Datasets - https://datascience.codata.org/articles/10.2481/dsj.14-049
+- A capability maturity model for scientific data management - <https://doi.org/10.1002/meet.14504701359>
+- A Unified Framework for Measuring Stewardship Practices Applied to Digital Environmental Datasets - <https://datascience.codata.org/articles/10.2481/dsj.14-049>
 
 **Functioning Prototype**
 
@@ -73,6 +73,6 @@ Tasks:
 
 **Updates**
 
-The NOAA IOOS Compliance Checker utilizes, among others, the NOAA IOOS Metadata Profile (1.2; https://ioos.github.io/ioos-metadata/) as a reference. Mapping the requirements as drafted by the AI-Data Ready ESIP Cluster (Doug Rao, Lead) indicates that the NOAA IOOS Profile fulfills much of the requirements of the AI Dat Ready Checklist. However, the profile may need some minor adjustments that can be used by the Compliance Checker to tag if data is AI-ready. For example, the creator's name in the IOOS Metadata Profile is tagged as 'Recommended' but in the ESIP AI Ready Checklist, it is required. With the help of the ESIP AI Data Ready Cluster, mapping the requirements with the IOOS Metadata Profile will need to be completed first before an update to the IOOS Compliance Checker can be made.
+The NOAA IOOS Compliance Checker utilizes, among others, the NOAA IOOS Metadata Profile (1.2; <https://ioos.github.io/ioos-metadata/>) as a reference. Mapping the requirements as drafted by the AI-Data Ready ESIP Cluster (Doug Rao, Lead) indicates that the NOAA IOOS Profile fulfills much of the requirements of the AI Dat Ready Checklist. However, the profile may need some minor adjustments that can be used by the Compliance Checker to tag if data is AI-ready. For example, the creator's name in the IOOS Metadata Profile is tagged as 'Recommended' but in the ESIP AI Ready Checklist, it is required. With the help of the ESIP AI Data Ready Cluster, mapping the requirements with the IOOS Metadata Profile will need to be completed first before an update to the IOOS Compliance Checker can be made.
 
 The team will continue the discussion until the mapping of the requirements are completed.
