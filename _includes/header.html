@@ -22,9 +22,23 @@
         </label>
 
         <div class="trigger">
+            {% if page.menu_title == "All Topics" or page.menu_title == "All About" %}
+            <a class="page-link {% if page.url == node.url %}active{% endif %}" href="{{ site.baseurl }}/topics">
+                <i class="bi bi-briefcase"></i>
+                <span>Topics</span>
+            </a>
+            <a class="page-link {% if page.url == node.url %}active{% endif %}" href="{{ site.baseurl }}/about">
+                <i class="bi bi-info-circle"></i>
+                <span>About</span>
+            </a>
+            {% else %}
             <a class="page-link {% if page.url == node.url %}active{% endif %}" href="{{ site.baseurl }}/{{ page.year }}/topics">
                 <i class="bi bi-briefcase"></i>
                 <span>{{ page.year }} Topics</span>
+            </a>
+            <a class="page-link {% if page.url == node.url %}active{% endif %}" href="{{ site.baseurl }}/{{ page.year }}/about">
+                <i class="bi bi-info-circle"></i>
+                <span>{{ page.year }} About</span>
             </a>
             <a class="page-link {% if page.url == node.url %}active{% endif %}" href="{{ site.baseurl }}/{{ page.year }}/agenda">
                 <i class="bi bi-clock"></i>
@@ -32,17 +46,14 @@
             </a>
             <a class="page-link {% if page.url == node.url %}active{% endif %}" href="{{ site.baseurl }}/{{ page.year }}/registration">
                 <i class="bi bi-clipboard-check"></i>
-                <span>{{ page.year }} Registration</span>
-            </a>
-            <a class="page-link {% if page.url == node.url %}active{% endif %}" href="{{ site.baseurl }}/{{ page.year }}/about">
-                <i class="bi bi-info-circle"></i>
-                <span>{{ page.year }} About</span>
+                <span>{{ page.year }}  Registration</span>
             </a>
 
             <a class="page-link {% if page.url == node.url %}active{% endif %}" href="{{ site.baseurl }}/{{ page.year }}/participant-guide">
                 <i class="bi bi-journal-text"></i>
                 <span>{{ page.year }} Participant Guide</span>
             </a>
+            {% endif %}
 
         </div>
       </nav>

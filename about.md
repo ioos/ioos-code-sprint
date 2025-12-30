@@ -1,30 +1,31 @@
 ---
-title: About the 2024 Code Sprint
-menu_title: About
+title: About the Code Sprint
+menu_title: All About
 menu_icon: globe2
 layout: default
-year: 2024
+year:
+  - 2026
+  - 2024 
+  - 2022
 ---
 
 * Table of contents
 {:toc}
 
 ## The event
-The IOOS Code Sprint is a 3-day, hackathon-style event, organized by the Mid-Atlantic Regional Association Coastal Ocean Observing System (MARACOOS) and the Integrated Ocean Observing System (IOOS) Office. Over the course of the event, teams of developers, academic researchers, and community members will work on projects that address pressing data and information challenges. Projects will relate to the IOOS mission to produce, integrate, and communicate high quality ocean, coastal and Great Lakes information that meets the safety, economic, and stewardship needs of the Nation.
+The IOOS Code Sprint is a 3-day hackathon style event organized by [NOAA's Integrated Ocean Observing System Office](https://ioos.noaa.gov/).
+Over the course of the event, teams of developers, academic researchers, and community members will work on projects that address pressing data and information challenges. 
+Projects will relate to the IOOS mission to produce, integrate, and communicate high quality ocean, coastal and Great Lakes information that meets the safety, economic, and stewardship needs of the Nation.
 
-## About MARACOOS
+## About IOOS
 
-MARACOOS powers understanding and prediction of ocean and coastal systems, enabling better decisions through better data.
-MARACOOS is the Mid-Atlantic Regional Association Coastal Ocean Observing System, covering the region from Cape Cod, MA to Cape Hatteras, NC for U.S. IOOS
-MARACOOS is a regional association of partners that collect unique ocean and coastal data that is transformed into information products that support jobs, the economy, safety and well-being for the more than 78 million people living, visiting, and working in the Mid-Atlantic region.
-Working with people who actually work in and around the ocean, coasts, bays, and rivers, MARACOOS cultivates data with purpose.
-
+The Integrated Ocean Observing System (IOOS®) is a national-regional partnership working to provide new tools and forecasts to improve safety, enhance the economy, and protect our environment. Integrated ocean information is available in near real time, as well as retrospectively. Easier and better access to this information is improving our ability to understand and predict coastal events - such as storms, wave heights, and sea level change. Such knowledge is needed for everything from retail to development planning.
 
 ## The organizing team
 
 {:.lead}
-If you would like to help organize the Code Sprint, please email:
-<mathew.biddle@noaa.gov>
+If you would like to help organize a Code Sprint, please email:
+<data.ioos@noaa.gov>
 
 <table class="team-list">
     <tr>
