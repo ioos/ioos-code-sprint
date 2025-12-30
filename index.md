@@ -17,7 +17,7 @@ Over the course of the event, teams of developers, academic researchers, and com
 Projects will relate to the IOOS mission to produce, integrate, and communicate high quality ocean, coastal and Great Lakes information that meets the safety, economic, and stewardship needs of the Nation.
 
 ## Upcoming IOOS Code Sprints
-* TBD
+* [2026 IOOS Code Sprint]({{ site.baseurl }}/2026/) - Coming Soon!
 
 ## Previous IOOS Code Sprints
 * [2024 IOOS Code Sprint]({{ site.baseurl }}/2024/)

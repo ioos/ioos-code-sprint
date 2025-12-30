@@ -1,7 +1,7 @@
 title: IOOS Code Sprint
 menu_title: IOOS Code Sprint
 author: Integrated Ocean Observing System (IOOS) Office, 
-  Great Lakes Observing System (GLOS), Mid-Atlantic Regional Association Coastal Ocean Observing System (MARACOOS)
+  Great Lakes Observing System (GLOS), Mid-Atlantic Regional Association Coastal Ocean Observing System (MARACOOS), Gulf of America Coastal Ocean Observing System (GCOOS)
 description:
   The IOOS Code Sprint is a multi-day hackathon style event, organised by the
   Integrated Ocean Observing System (IOOS) Office and IOOS Regional Associations 
@@ -29,6 +29,7 @@ header_pages:
 #   closed = Registration form is now closed
 registration_status_2022: closed
 registration_status_2024: closed
+registration_status_2026: soon
 
 # Remove ".html" from default permalinks
 permalink: pretty
