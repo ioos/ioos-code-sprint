@@ -4,10 +4,11 @@ title: Code Sprint Topics
 menu_title: All Topics
 menu_icon: briefcase
 year: 
+  - 2026
   - 2024 
   - 2022
 ---
-See the track list started [here](https://github.com/ioos/ioos-code-sprint/blob/main/2022/track-list.md).
+See the track list started [here](https://github.com/ioos/ioos-code-sprint/blob/main/).
 
 For each topic, we recommend that the lead submits an [issue](https://github.com/ioos/ioos-code-sprint/issues/new?assignees=&labels=&template=code-sprint-project-proposal.md&title=Project+title) to the [ioos-code-sprint repository]({{ site.github.repository_url }}), identifying the scope of that topic. 
 This will help ensure each code sprint topic has a plan that can be executed during the code sprint week.
