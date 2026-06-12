@@ -31,9 +31,11 @@ The in-person event will be held at [Texas A&M University Mays Business School -
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3462.900920878305!2d-95.56458992383253!3d29.780506331026807!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8640db4cc91bbd7d%3A0xb681cec173c59d21!2sTexas%20A%26M%20University%20Mays%20Business%20School%20-%20CityCentre!5e0!3m2!1sen!2sus!4v1781288574710!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-Please note the following: 
 
-1. The Canopy by Moran hotel rate is **$289/night** plus taxes and fees.
-   1. Book using the block rate at the [Moran Hotel]() using [this link]() by **TBD**.
+### Please note the following: 
+We have reserved a block rate at [The Moran Hotel](https://www.themoranhotel.com/). 
+
+1. The Moran hotel rate is **$289/night** plus taxes and fees.
+   1. Book using the block rate at the Moran Hotel using [this link]() by **TBD**.
 
 [faq]: {% link faq.md %}
