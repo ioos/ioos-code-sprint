@@ -8,7 +8,7 @@ year: 2026
 
 {:.lead}
 Participation is open to the IOOS community. 
-The closing date for registration is **TBD**.
+The closing date for registration is **November 1, 2026**.
 
 
 The Code Sprint will begin at 9 AM EDT on Tuesday, November 17, 2026 and run until 5pm EDT on Thursday, November 19, 2026 (see the [agenda]({{ site.baseurl }}/2026/agenda) for more details). 
@@ -35,7 +35,7 @@ The in-person event will be held at [Texas A&M University Mays Business School -
 ### Please note the following: 
 We have reserved a block rate at [The Moran Hotel](https://www.themoranhotel.com/). 
 
-1. The Moran hotel rate is **$289/night** plus taxes and fees.
-   1. Book using the block rate at the Moran Hotel using [this link]() by **TBD**.
+1. The Moran hotel rate is **$179/night** plus taxes and fees.
+   1. Book using the block rate at the Moran Hotel using [this link](https://be.synxis.com/?Hotel=99520&Chain=27716&group=2611GCOOSR&arrive=11/16/2026&depart=11/20/2026) by **November 1, 2026**.
 
 [faq]: {% link faq.md %}
