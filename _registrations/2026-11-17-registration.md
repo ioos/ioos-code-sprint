@@ -16,7 +16,7 @@ The event will be hybrid with both in-person (in Houston, TX) and virtual partic
 The registration form for the event can be found below.
 
 {% if site.registration_status_2026 == 'open' %}
-  [Complete the registration form](https://forms.gle/W2QHJx2rXDsWZtQ17){:.btn target="_blank"}
+  [Complete the registration form](https://forms.gle/uu8G7s7iL7NG7nUy9){:.btn target="_blank"}
 {% elsif site.registration_status_2026 == 'closed' %}
   <a class="btn disabled">Registration has closed</a>
 {% elsif site.registration_status_2026 == 'soon' %}
