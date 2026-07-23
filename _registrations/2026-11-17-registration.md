@@ -35,7 +35,6 @@ The in-person event will be held at [Texas A&M University Mays Business School -
 ### Please note the following: 
 We have reserved a block rate at [The Moran Hotel](https://www.themoranhotel.com/). 
 
-1. The Moran hotel rate is **$179/night** plus taxes and fees.
-   1. Book using the block rate at the Moran Hotel using [this link](https://be.synxis.com/?Hotel=99520&Chain=27716&group=2611GCOOSR&arrive=11/16/2026&depart=11/20/2026) by **November 1, 2026**.
+Book using the block rate at the Moran Hotel using [this link](https://be.synxis.com/?Hotel=99520&Chain=27716&group=2611GCOOSR&arrive=11/16/2026&depart=11/20/2026) by **November 1, 2026**.
 
 [faq]: {% link faq.md %}
