@@ -3,6 +3,16 @@ This repo is used to organize the approx biannual IOOS Code Sprint.
 
 The IOOS Code Sprint is a 4-day hackathon style event organized by NOAA’s Integrated Ocean Observing System Office. Over the course of the event, teams of developers, academic researchers, and community members will work on projects that address pressing data and information challenges. Projects will relate to the IOOS mission to produce, integrate, and communicate high quality ocean, coastal and Great Lakes information that meets the safety, economic, and stewardship needs of the Nation.
 
+## 2026
+Event Dates: 17–19 November, 2026
+
+Location: Texas A&M University’s Mays Business School - CityCentre  (Hybrid event so virtual participation is possible)
+> 842 W. Sam Houston Pkwy N., Suite 200,
+> Houston, TX 77024
+
+
+See this [site](https://ioos.github.io/ioos-code-sprint/2026/) for more details including registration information.  Add an issue to this repo to contribute an idea for the sprint.
+
 ## 2024
 Event Dates: Tue May 21 - Thu May 23, 2024
 
