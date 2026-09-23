@@ -34,16 +34,28 @@ This is an excellent way of getting some team management experience and so we em
 </div>
 
 ## How our event is structured
-The event is a hybrid format with attendees both in-person at **TBD**, and virtual connecting through Zoom and Slack. 
+The event is a hybrid format with attendees both in-person at [**Texas A&M University Mays Business School - City Centre, Houston, TX**](https://maps.app.goo.gl/ZpUZQWWT6hf6Wk2X9), and virtual connection through Zoom and Slack. 
 
-### For virtual attendees
+### How do we define the topics
+
+Topics are identified by the participants. We use GitHub issues as a tool for proposing and tracking topics throughout the event. Topics must have some connection to the ocean observing community or IOOS Regional Association developments. Typically, we plan for ~10 sprint topics to be worked on throughout the event. 
+
+Key dates for this year's event:
+* **September 30, 2026** - Project proposal due date. (via GitHub issues)
+* **October 2, 2026** - Community votes on topics of interest. (we will send a google form for voting)
+* **October 9, 2026** - Main sprint topics posted to the website. (identified from the Google Form)
+* **November 1, 2026** - Registration closes.
+* **November 17-19, 2026** - Code Sprint!
+
+### Attendee information
+#### For virtual attendees
 Before the week of the Code Sprint, you will receive a link to a Google Calendar for the Code Sprint events. Below is a description of how each of those events relates to the Code Sprint as a whole.
 
 **MAIN ROOM** - This will be the virtual connection to the parts of the agenda that are for the entire Code Sprint audience (Introductions, Daily kickoff, and Daily recap).  
 
 **[track]** - There are individual Zoom breakout rooms for each of the Tracks listed [here](https://github.com/ioos/ioos-code-sprint/blob/main/2024/track-list.md). This is where participants will be spending the majority of their time. These spaces will be available for you to connect to during the break group portions of the event. You can enter and exit the sprint track rooms as you wish. 
 
-### For in-person attendees
+#### For in-person attendees
 
 * Make sure the room you are in has a connection to the appropriate Zoom breakout room for virtual attendees.
 * Make an announcement on the `#code-sprint-2026` channel, identifying the topic to be worked on and the Zoom breakout room information.
@@ -55,7 +67,7 @@ We are using:
 * **Zoom** for the talks and breakout groups. All participants will be invited to all the meetings so virtual attendees can easily move between them as needed. 
 * **Slack** for text-based chat, sharing of ideas, announcements and technical support (we have a channel for each project group, plus the main #code-sprint-2026 channel. 
 * **[Resources]({{ site.baseurl }}{% link resources.md %})** will be where any slides, or resources can be linked for reference during the event of afterwards (this page will live on!). 
-* **[Topic]({{ site.baseurl }}{% link topics.md %})** pages will fill out as the sprint progresses. Anyone can submit a change to these pages. 
+* **[Topic]({{ site.baseurl }}/2026/topics)** pages will fill out as the sprint progresses. Anyone can submit a change to these pages. 
 
 ## How we are storing code, data and outputs
 
