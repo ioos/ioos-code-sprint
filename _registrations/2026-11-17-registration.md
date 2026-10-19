@@ -33,7 +33,7 @@ The in-person event will be held at [Texas A&M University Mays Business School -
 
 
 ### Please note the following: 
-We have reserved a block rate at [The Moran Hotel](https://www.themoranhotel.com/). 
+We have reserved a block rate at **The Moran Hotel** 800 Sorella Court, Houston, Texas 77024, United States. Phone: 1-713-9731600. 
 
 Book using the block rate at the Moran Hotel using [this link](https://be.synxis.com/?Hotel=99520&Chain=27716&group=2611GCOOSR&arrive=11/16/2026&depart=11/20/2026) by **November 1, 2026**.
 
