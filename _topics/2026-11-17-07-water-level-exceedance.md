@@ -4,7 +4,7 @@ title: Flood threshold exceedance tool for low-cost water level sensors
 pis:
   - Matthew Conlin
 contributors:
-  - 
+  - TBD
 github: ioos/ioos-code-sprint/issues/78
 slack:
   - TBD
@@ -13,8 +13,6 @@ breakout:
 year: 
   - 2026
 ---
-
-### Project Description
 
 Adapt flood threshold exceedance frequency code from NOAA CO-OPs Coastal Hazards Examples to work with RA ERDDAP(s) for low-cost water level stations. 
 

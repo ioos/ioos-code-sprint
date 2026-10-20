@@ -1,10 +1,10 @@
 ---
 number: 10
-title: low-cost water level + WebCOOS cam synchronizer
+title: low-cost water level and WebCOOS cam synchronizer
 pis:
   - matthew conlin
 contributors:
-  - 
+  - TBD
 github: ioos/ioos-code-sprint/issues/77
 slack:
   - TBD
@@ -13,8 +13,6 @@ breakout:
 year: 
   - 2026
 ---
-
-### Project Description
 
 Adapt NWLON + WebCOOS camera synchronizer code to ingest RA water level stations or wave buoy information to combine with camera imagery.
 

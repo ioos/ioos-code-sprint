@@ -4,7 +4,7 @@ title: Create cloud-optimized virtual ocean-model datasets and services
 pis:
   - @eeholmes
 contributors:
-  - 
+  - TBD
 github: ioos/ioos-code-sprint/issues/83
 slack:
   - TBD
@@ -13,8 +13,6 @@ breakout:
 year: 
   - 2026
 ---
-
-## Project Description
 
 Let's use agentic coding (e.g. Claude, Antigravity, CODEX) to create new cloud-optimized data stores and services that are built off icechunks. Goal is to increase the world of cloud-optimized and accessible ocean model data and services that build off them. Things you might work on in this team
 

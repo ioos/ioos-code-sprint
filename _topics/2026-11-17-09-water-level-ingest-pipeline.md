@@ -4,7 +4,7 @@ title: Develop water level data ingest pipeline adaptors for IRA WL project
 pis:
   - @mwengren
 contributors:
-  - 
+  - TBD
 github: ioos/ioos-code-sprint/issues/89
 slack:
   - TBD
@@ -13,8 +13,6 @@ breakout:
 year: 
   - 2026
 ---
-
-### Project Description
 
 The IRA T2 water level project is developing a data pipeline that enables standardized data collection and processing across RAs, data access services, and delivery to key partners such as (NDBC and NCEI).
 

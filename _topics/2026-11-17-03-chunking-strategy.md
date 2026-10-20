@@ -5,7 +5,7 @@ pis:
   - @jonmjoyce
   - @ChrisBarker-NOAA
 contributors:
-  - 
+  - TBD
 github: ioos/ioos-code-sprint/issues/84
 slack:
   - TBD
@@ -14,7 +14,6 @@ breakout:
 year: 
   - 2026
 ---
-
 
 As things move forward with putting more model results in the cloud (e.g. the NODD), Zarr, Kerchunk, Icechunk etc can make them more accessible. (e.g. <https://github.com/ioos/ioos-code-sprint/issues/83> , <https://github.com/ioos/ioos-code-sprint/issues/80>).
 

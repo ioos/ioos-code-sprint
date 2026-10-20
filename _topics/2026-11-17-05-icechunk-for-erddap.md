@@ -4,7 +4,7 @@ title: Work on Icechunk for ERDDAP (xpublish-erddap plugin, Zarr v3/Icechunk ser
 pis:
   - @eeholmes
 contributors:
-  - 
+  - TBD
 github: ioos/ioos-code-sprint/issues/82
 slack:
   - TBD
