@@ -1,8 +1,8 @@
 ---
 number: 1
-title: Station Specific QA/QC Thresholds for Sensor Stations
+title: Station Specific QA QC Thresholds for Sensor Stations
 pis:
-  - @KarinaKh
+  - (@KarinaKh)
 contributors:
   - TBD
 github: ioos/ioos-code-sprint/issues/87
