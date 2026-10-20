@@ -1,6 +1,6 @@
 ---
 number: 1
-title: Station Specific QA QC Thresholds for Sensor Stations
+title: Station Specific QA/QC Thresholds for Sensor Stations
 pis:
   - (@KarinaKh)
 contributors:

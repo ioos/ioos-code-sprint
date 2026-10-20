@@ -2,7 +2,7 @@
 number: 6
 title: Create cloud-optimized virtual ocean-model datasets and services
 pis:
-  - @eeholmes
+  - (@eeholmes)
 contributors:
   - TBD
 github: ioos/ioos-code-sprint/issues/83

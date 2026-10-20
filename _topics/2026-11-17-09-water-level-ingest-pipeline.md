@@ -2,7 +2,7 @@
 number: 9
 title: Develop water level data ingest pipeline adaptors for IRA WL project
 pis:
-  - @mwengren
+  - (@mwengren)
 contributors:
   - TBD
 github: ioos/ioos-code-sprint/issues/89

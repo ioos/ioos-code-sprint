@@ -1,6 +1,6 @@
 ---
 number: 10
-title: low-cost water level and WebCOOS cam synchronizer
+title: Low-cost water level and WebCOOS cam synchronizer
 pis:
   - matthew conlin
 contributors:

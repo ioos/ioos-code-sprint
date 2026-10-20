@@ -2,8 +2,8 @@
 number: 3
 title: Optimize Chunking for Ocean model results
 pis:
-  - @jonmjoyce
-  - @ChrisBarker-NOAA
+  - (@jonmjoyce)
+  - (@ChrisBarker-NOAA)
 contributors:
   - TBD
 github: ioos/ioos-code-sprint/issues/84

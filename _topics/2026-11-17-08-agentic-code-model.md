@@ -2,7 +2,7 @@
 number: 8
 title: Agentic Coding for IOOS model output
 pis:
-  - @rsignell
+  - (@rsignell)
 contributors:
   - TBD
 github: ioos/ioos-code-sprint/issues/80
