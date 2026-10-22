@@ -71,6 +71,17 @@ The coordinators will update the remaining fields in the header.
 1. Update the various sections of the webpage from the information in the GitHub issue. The formatting follows [markdown formatting](https://www.markdownguide.org/cheat-sheet/).
 1. Submit your sprint topic page addition as a [Pull Request](#pull-requests) to the `gh-pages` branch.
 
+## Editing Topic Webpages
+
+1. Browse to the topic page of interest using your favorite web browser.
+2. Scroll to the bottom of the page and click on the "Improve this page" hyperlink.           
+   <img width="248" height="141" alt="image" src="https://github.com/user-attachments/assets/70ab2765-b829-49a7-9969-8d0f50809a78" />
+4. That will bring you to the appropriate markdown source file to edit in the GitHub browser interface.
+5. Edit the content as appropriate (keep in mind the front matter material should be edited with caution).
+6. Submit your changes as a Pull Request by selecting "Create a new branch for this commit and start a pull request".
+   <img width="449" height="101" alt="image" src="https://github.com/user-attachments/assets/0eed8b74-ef41-4a50-a5a0-e45142149d47" />
+
+
 ## Pull Requests
 
 ### Website
