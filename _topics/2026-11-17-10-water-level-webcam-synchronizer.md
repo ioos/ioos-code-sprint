@@ -2,7 +2,7 @@
 number: 10
 title: Better Integrate RA Data and CO-OPS Tools
 pis:
-  - @conlin-matt
+  - (@conlin-matt)
 contributors:
   - Anna Simpson
   - Katie DeVore
