@@ -13,7 +13,7 @@ layout: page
   {% if tyear == year %}
   {% unless topic.name == 'index' %}
     <li class="topic">
-      <h3>Topic {{ topic.number }}: <a href="{{ site.baseurl }}{{ topic.url }}">{{ topic.title }}</a></h3>
+      <h3><a href="{{ site.baseurl }}{{ topic.url }}">{{ topic.title }}</a></h3>
       {{ topic.content | truncatewords: 10 }}
     </li>
   {% endunless %}
