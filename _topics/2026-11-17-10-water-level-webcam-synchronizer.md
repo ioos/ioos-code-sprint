@@ -1,9 +1,11 @@
 ---
 number: 10
-title: Low-cost water level and WebCOOS cam synchronizer
+title: Better Integrate RA Data and CO-OPS Tools
 pis:
-  - matthew conlin
+  - @conlin-matt
 contributors:
+  - Anna Simpson
+  - Katie DeVore
   - TBD
 github: ioos/ioos-code-sprint/issues/77
 slack:
@@ -14,27 +16,28 @@ year:
   - 2026
 ---
 
-Adapt NWLON + WebCOOS camera synchronizer code to ingest RA water level stations or wave buoy information to combine with camera imagery.
+Enhance existing CO-OPS software tools (inundation analysis and WebCOOS camera synchronizer) to integrate with RA data.
 
 ### Expected Outcomes
 
-_No response_
+CO-OPS provides two tools (among others) that could be of use to IOOS RAs: The [NWLON_WebCOOS Synchronizer](https://github.com/NOAA-CO-OPS/NWLON_WebCOOS_Synchronizer) and the [Tidal Analysis Datums Calculator](https://github.com/NOAA-CO-OPS/CO-OPS-Tidal-Analysis-Datum-Calculator). This topic will involve taking these exising tools and extending/adding-on to them to better integrate with RA data, and will result in multiple tools that IOOS RAs can use with their low-cost water level (and potentially other) data.
 
 ### Skills required
 
-_No response_
+Python
 
 ### Expertise
 
-None
+Intermediate 
 
 ### Topic Lead(s)
 
-_No response_
+@conlin-matt
 
 ### Relevant links
 
-_No response_
+[NWLON_WebCOOS Synchronizer](https://github.com/NOAA-CO-OPS/NWLON_WebCOOS_Synchronizer)
+[Tidal Analysis Datums Calculator](https://github.com/NOAA-CO-OPS/CO-OPS-Tidal-Analysis-Datum-Calculator)
 
 **Functioning Prototype**
 
