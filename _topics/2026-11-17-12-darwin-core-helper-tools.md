@@ -15,7 +15,29 @@ year:
   - 2026
 ---
 
-This project will explore the use of emerging AI tools to aid in the transformation of "raw" biological occurrence data produced by researchers into standardized formats (Darwin Core (DwC)) for ingestion into systems like OBIS and GBIF.
+This project explores the cutting edge of software that helps researchers publish taxonomic occurrence data. 
+
+-------------------------------------
+
+Better biodiversity assessments start with better data. 
+How can we combine observations of when, where, and what researchers are seeing in the biota around us?
+
+We need Findable, Accessible, Interoperable, and Reusable (FAIR) data to empower cross-dataset exploration.
+What can software do to help researchers publish FAIR data?
+
+AI can work at many times the speed of a human on digitized information but standards of alignment, responsibility, and ethics have not yet been established.
+What is the role of AI in the process of bridging physical ecosystems and FAIR data repositories like the Ocean Biodiversity Information System (OBIS)?
+
+-------------------------------------
+
+### Software product ideas :
+
+This project may span multiple software prototypes.
+Some prototype ideas are outlined below.
+
+
+#### AI for Darwin Core Alignment
+AI tools to aid in the transformation of "raw" biological occurrence data produced by researchers into standardized formats (Darwin Core (DwC)) for ingestion into systems like OBIS and GBIF.
 
 Examples from the [Standardizing Marine Biological Data (SMBD) working group](https://github.com/ioos/bio_data_guide?tab=readme-ov-file#-how-to-participate) and associated annual Biodata Mobilization Workshops are available for use to guide AI prompt tailoring.
 
@@ -31,7 +53,8 @@ A successful project will likely include multiple AI prompts working through pro
 Automation of the process through the GitHub issue tracker may be possible.
 Use of automated emailing systems may be helpful as well.
 
-The topic will also explore building a simple Darwin Core compliance checker.
+
+#### Browser-based Darwin Core compliance checker
 
 The IOOS Marine Life Data Network recommends aligning data that observes a species at a location and time to the DarwinCore Standard. Currently, there are various tools and resources available to check if a package matches the DarwinCore standard:
 
@@ -44,12 +67,6 @@ Most of these checkers have some prerequisite requirements of installing additio
 
 The idea is that this could be a relatively simple checker for the community to use to ensure their workflows are aligning with the standard.
 
-### Expected Outcomes
-
-A software project published to GitHub demonstrating the concept.
-
-For the compliance checker part:
-
 An online checker that allows a user to:
 * Upload a data file ([occurrence](https://rs.gbif.org/core/dwc_occurrence_2022-02-02.xml), [extended measurementorfact](https://rs.gbif.org/extension/obis/extended_measurement_or_fact_2023-08-28.xml), [event](https://rs.gbif.org/core/dwc_event_2022-02-02.xml), [DNA derived data](https://rs.gbif.org/extension/gbif/1.0/dna_derived_data_2024-07-11.xml) or other applicable [extensions](https://rs.gbif.org/extensions.html).) or a [DarwinCoreArchive](https://ipt.gbif.org/manual/en/ipt/latest/dwca-guide) package
 * Checks for compliance with the DarwinCore standard. If DarwinCore Archive, checks compliance with that standard.
@@ -59,17 +76,21 @@ An online checker that allows a user to:
 * Provides a web enabled API, similar to the [compliance-checker API](https://github.com/ioos/compliance-checker-web/wiki/API)
 * A compliant data file could be directly loaded to an IPT by an OBIS Node manager.
 
-### Skills required
 
-Ideally python. API usage familiarity. Experience with automated emailing or GitHub issues API desired but not necessary.
+### Skills desired
+
+Taxonomic Occurrence Data familiarity. Coding experience. API usage familiarity. Email or GitHub issues automation.
+
 
 ### Expertise
 
 Intermediate
 
+
 ### Topic Lead(s)
 
 @7yl4r, @mathewbiddle
+
 
 ### Relevant links
 
@@ -92,9 +113,11 @@ Tools:
 - https://rshiny.lifewatch.be/BioCheck/
 - https://github.com/EMODnet/EMODnetBiocheck
 
+
 **Functioning Prototype**
 
 TBD
+
 
 **Workflow**
 
