@@ -1,11 +1,14 @@
 ---
 number: 6
-title: Create cloud-optimized virtual ocean-model datasets and services
+title: Cloud-Native Ocean Model Workflows via Agentic Coding
 pis:
   - (@eeholmes)
+  - (@rsignell)
 contributors:
   - TBD
-github: ioos/ioos-code-sprint/issues/83
+github:
+  - ioos/ioos-code-sprint/issues/83
+  - ioos/ioos-code-sprint/issues/80
 slack:
   - TBD
 breakout:
@@ -14,41 +17,26 @@ year:
   - 2026
 ---
 
-Let's use agentic coding (e.g. Claude, Antigravity, CODEX) to create new cloud-optimized data stores and services that are built off icechunks. Goal is to increase the world of cloud-optimized and accessible ocean model data and services that build off them. Things you might work on in this team
+**TL;DR**
 
-* build new virtual and native Icechunks on object storage (you can add to our Source Coop org which already has icechunks)
-* develop xpublish-based services (OPeNDAP, WMS, OGC Tiles)
-* create user-facing web apps that consume data directly from icechunk, OGC services and ERDDAP, like GridLook and ilk
-* work on our icechunk/VirtualiZarr agent skill
+This project merges IOOS Code Sprint topics #80 and #83. It focuses on utilizing agentic coding tools (e.g., Claude) to construct cloud-native workflows for ocean model output. Key deliverables include generating virtual Icechunk datasets, creating STAC catalogs stored in GeoParquet, and developing downstream applications and analytical workflows that query these records.
 
-**Expected Outcomes**
+### Background
 
-Increased understanding of agentic coding and icechunks. New  notebooks and user-facing web apps that demonstrate the power, performance of this approach. Reproducible ingestion and validation notebooks. Recommendations for publishing cloud-optimized ocean-model NetCDF files.
+This effort combines proposals for agentic coding application and cloud-optimized virtual ocean-model dataset development. Managing and distributing large-scale coastal and ocean model output presents structural challenges for the IOOS community. Cloud-native data architectures, particularly Zarr and Icechunk, paired with SpatioTemporal Asset Catalogs (STAC), provide an efficient mechanism for data access and discovery. This project evaluates the application of agentic coding assistants to accelerate the development of these data engineering workflows.
 
-### Some examples of specific tasks you might take on
+### Objectives
 
-**on a Icechunk building project**
+1. **Agentic Coding Integration**: Utilize AI coding agents (e.g., Claude) to script, debug, and implement the data pipeline.
+2. **Virtual Icechunk Construction**: Employ tools such as VirtualiZarr to generate virtual Icechunk datasets from existing ocean model output (e.g., NetCDF), avoiding direct data duplication.
+3. **STAC Catalog Generation & GeoParquet Storage**: Generate STAC items and collections for the virtual Icechunks. Transition STAC item storage to GeoParquet using rustac-py and pyarrow to enable performant querying of large asset collections.
+4. **Workflow Development**: Develop reproducible analytical workflows (e.g., Python/Xarray/HoloViz notebooks) and prototype applications (e.g., TypeScript/React with Zarr-layers) that initiate data retrieval via STAC queries.
 
-* Identify suitable ocean-model archives and assess their formats, chunking, and access constraints.
-* Virtualize well-chunked NetCDF files without copying the source data.
-* Test common workflows such as maps, regional subsets, profiles, and point time series.
-* Measure data transfer and read amplification.
-* Document when source files must be spatially or temporally rechunked before virtualization.
+### Methodology
 
-**on a visualization project**
+The workflow begins with existing model output on cloud storage. Assisted by agentic tools, participants will execute Python scripts to generate virtual Icechunk representations. STAC metadata will then be generated and embedded into GeoParquet schemas. The final phase involves constructing downstream applications to demonstrate STAC-driven data discovery, opening the Icechunk representations via Xarray for visualization and analysis.
 
-* Use an agent to understand a current dashboard and how zarrita, icechunk-js and WebGL work together
-* Brain storm what it would take to create 'preview' functionality that could be integrated into websites
-* Build it with with an agent
-
-**on an agent skills project**
-
-* Talk with the other teams re what they are learning
-* Point the agent to their repos, notebooks and scripts and guide the agent to learn the gotchas
-* Talk with icechunk experts and gather more info on what is critical in an icechunk skill
-* Build it with an agent!
-
-### Why cloud-optimized, Why VirtualiZarr and Icechunk?
+### Why cloud-optimized, why VirtualiZarr and Icechunk?
 
 Ocean model output especially is so so many netcdf files. Sadly much is unsuitable for virtualization (it is unchunked and files are one single massive chunk), but lots is suitable and we have tricks for dealing with some unchunked types. But we need more icechunks built with different types of source files so that we can learn.
 
@@ -56,22 +44,24 @@ Ocean model output especially is so so many netcdf files. Sadly much is unsuitab
 
 <img width="724" height="412" alt="Image" src="https://github.com/user-attachments/assets/d014622f-827c-4185-8c75-209b69a61efd" />
 
-
 ### Expected Outcomes
 
-_No response_
+* A documented methodology for producing virtual Icechunk datasets from ocean model output.
+* Example STAC catalogs hosted in GeoParquet format.
+* Reference implementations of analytical workflows and prototype web applications driven by STAC queries.
+* An assessment of agentic coding efficacy in constructing cloud-native Earth data architectures.
 
 ### Skills required
 
-_No response_
+Ability to type some prompts!
 
 ### Expertise
 
-None
+Understanding what users might like.
 
 ### Topic Lead(s)
 
-_No response_
+Eli Holmes, Rich Signell
 
 ### Relevant links
 
@@ -88,5 +78,4 @@ Tasks:
 1. 
 
 **Updates**
-
 
