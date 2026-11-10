@@ -57,6 +57,10 @@ Before the week of the Code Sprint, you will receive a link to a Google Calendar
 
 #### For in-person attendees
 
+Driving and parking directions for the Mays Business School Facility at CITYCENTRE can be found [here](https://github.com/ioos/ioos-code-sprint/blob/ac2ac166fbf9ba7892b90443c3c2d54592c1e48c/assets/Mays%20CityCentre%20Houston%20Driving%20Directions.pdf).
+
+<iframe>https://raw.githubusercontent.com/ioos/ioos-code-sprint/gh-pages/assets/Mays%20CityCentre%20Houston%20Driving%20Directions.pdf</iframe>
+
 * Make sure the room you are in has a connection to the appropriate Zoom breakout room for virtual attendees.
 * Make an announcement on the `#code-sprint-2026` channel, identifying the topic to be worked on and the Zoom breakout room information.
 * Check the [agenda]({{ site.baseurl }}/2026/agenda) or the `#code-sprint-2026` channel on Slack for more detailed information.
