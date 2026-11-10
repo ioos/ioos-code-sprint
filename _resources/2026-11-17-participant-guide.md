@@ -60,12 +60,12 @@ Before the week of the Code Sprint, you will receive a link to a Google Calendar
 Driving and parking directions for the Mays Business School Facility at CITYCENTRE can be found [here](https://github.com/ioos/ioos-code-sprint/blob/ac2ac166fbf9ba7892b90443c3c2d54592c1e48c/assets/Mays%20CityCentre%20Houston%20Driving%20Directions.pdf).
 
 <iframe 
-  src="https://raw.githubusercontent.com/ioos/ioos-code-sprint/gh-pages/assets/Mays%20CityCentre%20Houston%20Driving%20Directions.pdf" 
+  src="https://github.com/ioos/ioos-code-sprint/blob/gh-pages/assets/Mays%20CityCentre%20Houston%20Driving%20Directions.pdf" 
   width="100%" 
   height="600px" 
   style="border: none;">
   <p>Your browser does not support iframes. 
-     <a href="https://raw.githubusercontent.com/ioos/ioos-code-sprint/gh-pages/assets/Mays%20CityCentre%20Houston%20Driving%20Directions.pdf">Download the PDF instead.</a>
+     <a href="https://github.com/ioos/ioos-code-sprint/blob/gh-pages/assets/Mays%20CityCentre%20Houston%20Driving%20Directions.pdf">Download the PDF instead.</a>
   </p>
 </iframe>
 
