@@ -9,8 +9,9 @@ contributors:
 github:
   - ioos/ioos-code-sprint/issues/83
   - ioos/ioos-code-sprint/issues/80
+  - ocean-icechunks
 slack:
-  - TBD
+  - ocean-modeling
 breakout:
   - TBD
 year: 
@@ -19,7 +20,9 @@ year:
 
 **TL;DR**
 
-This project merges IOOS Code Sprint topics #80 and #83. It focuses on utilizing agentic coding tools (e.g., Claude) to construct cloud-native workflows for ocean model output. Key deliverables include generating virtual Icechunk datasets, creating STAC catalogs stored in GeoParquet, and developing downstream applications and analytical workflows that query these records.
+This project merges IOOS Code Sprint topics #80 and #83. It focuses on utilizing agentic coding tools (e.g., Claude) to construct cloud-native workflows for ocean model output. Key deliverables include generating virtual Icechunk datasets, creating STAC catalogs stored in GeoParquet, and developing downstream applications and Jupyter notebooks that query these cloud-optimized datasets (icechunks).
+
+[Dive in via our project website](https://ocean-icechunks.github.io/2026-ioos-hackathon/) or [play with some cloud-optimized datasets in Colab](https://ocean-icechunks.github.io/2026-ioos-hackathon/examples/)
 
 ### Background
 
@@ -46,10 +49,10 @@ Ocean model output especially is so so many netcdf files. Sadly much is unsuitab
 
 ### Expected Outcomes
 
-* A documented methodology for producing virtual Icechunk datasets from ocean model output.
+* New cloud-optimized icechunks. We have a [Source Coop organization](https://source.coop/ocean-icechunks) for hosting.
+* New notebooks that show people how to do cool things with Icechunks. See our [examples](https://ocean-icechunks.github.io/2026-ioos-hackathon/examples/)
 * Example STAC catalogs hosted in GeoParquet format.
 * Reference implementations of analytical workflows and prototype web applications driven by STAC queries.
-* An assessment of agentic coding efficacy in constructing cloud-native Earth data architectures.
 
 ### Skills required
 
@@ -65,17 +68,15 @@ Eli Holmes, Rich Signell
 
 ### Relevant links
 
-_No response_
+* [Our tutorials](https://ocean-icechunks.github.io/2026-ioos-hackathon/)
+* [Source Coop Ocean Icechunks](https://source.coop/ocean-icechunks)
+* Tom Nichols (EarthMover) [How to make ai ready archives](https://www.earthmover.io/blog/ai-ready-scientific-data-archives)
+* [JupyterHub for the hackathon](https://workshop.nmfs-openscapes.2i2c.cloud)
 
-**Functioning Prototype**
-
-TBD
-
-**Workflow**
+**What are we making?**
 
 Tasks:
 
 1. 
 
-**Updates**
 
