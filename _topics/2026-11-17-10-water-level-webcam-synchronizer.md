@@ -4,8 +4,6 @@ title: Better Integrate RA Data and CO-OPS Tools
 pis:
   - (@conlin-matt)
 contributors:
-  - Anna Simpson
-  - Katie DeVore
   - TBD
 github: ioos/ioos-code-sprint/issues/77
 slack:
@@ -24,7 +22,7 @@ CO-OPS provides two tools (among others) that could be of use to IOOS RAs: The [
 
 ### Skills required
 
-Python
+Python, ERDDAP knowledge useful
 
 ### Expertise
 
@@ -47,7 +45,9 @@ TBD
 
 Tasks:
 
-1. 
+1. Spend some time thinking about inconsistencies in dataset names, variable names, data access patterns, etc. accross RAs and how it could be improved. Pull from existing literature potentially on the IOOS Code Lab. Discuss how these can be handled.
+2. Prototype some integration of RA data into the existing codes.
+3. Do some coding!
 
 **Updates**
 
