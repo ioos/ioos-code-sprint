@@ -35,7 +35,25 @@ layout: default
         {% if page.github %}
         <dt>GitHub issue</dt>
         <dd>
-          <a href="https://github.com/{{ page.github }}" target="_blank">github.com/{{ page.github }}</a>
+          {% comment %}
+            page.github is a plain string in most topics but a YAML list in some.
+            Printing a list directly runs its entries together into one broken link,
+            so normalize to an array (split on a separator that never appears) and loop.
+          {% endcomment %}
+          {% if page.github.first %}
+            {% assign github_links = page.github %}
+          {% else %}
+            {% assign github_links = page.github | split: "|||" %}
+          {% endif %}
+          {% if github_links.size > 1 %}
+          <ul>
+            {% for gh in github_links %}
+            <li><a href="https://github.com/{{ gh }}" target="_blank">github.com/{{ gh }}</a></li>
+            {% endfor %}
+          </ul>
+          {% else %}
+          <a href="https://github.com/{{ github_links.first }}" target="_blank">github.com/{{ github_links.first }}</a>
+          {% endif %}
         </dd>
         {% endif %}
         {% if page.slack %}
