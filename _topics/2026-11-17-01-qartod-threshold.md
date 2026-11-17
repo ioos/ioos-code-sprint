@@ -2,14 +2,16 @@
 number: 1
 title: Station Specific QA/QC Thresholds for Sensor Stations
 pis:
-  - (@KarinaKh)
+  - (@klankers)
+  - (@martaw22)
 contributors:
-  - TBD
+  - (@KarinaKh)
+  - (@tborgfeldt)
 github: ioos/ioos-code-sprint/issues/87
 slack:
-  - TBD
+  - code-sprint-2026-mlqc
 breakout:
-  - TBD
+  - Room 2
 year: 
   - 2026
 ---
@@ -33,7 +35,7 @@ Intermediate
 
 **Topic Lead(s)**
 
-_No response_
+Aaron Mau, Marta Wolfshorndl
 
 **Relevant links**
 
@@ -48,7 +50,17 @@ TBD
 
 Tasks:
 
-1. 
+1. Find example training datasets
+2. Choose potential models
+3. Create training workflow and reproduce results
+4. Scale up to more datasets
+
+Deliverables:
+
+1. `auto_thresh` module in `ioos_qc`
+   * This includes example model weights and coeffs, training code to export coeffs
+2. Walkthrough Jupyter notebook for building your own model
+   * In `docs/examples`
 
 **Updates**
 
