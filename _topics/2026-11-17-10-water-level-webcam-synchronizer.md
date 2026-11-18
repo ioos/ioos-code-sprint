@@ -4,12 +4,14 @@ title: Better Integrate RA Data and CO-OPS Tools
 pis:
   - (@conlin-matt)
 contributors:
-  - TBD
+  - Katie DeVore
+  - Keeney
+  - Chris John
 github: ioos/ioos-code-sprint/issues/77
 slack:
-  - TBD
+  - (@erddap-co-ops-tools)
 breakout:
-  - TBD
+  - 1
 year: 
   - 2026
 ---
@@ -39,7 +41,7 @@ Intermediate
 
 **Functioning Prototype**
 
-TBD
+See the [GitHub repo](https://github.com/NOAA-CO-OPS/NWLON_WebCOOS_Synchronizer)
 
 **Workflow**
 
@@ -51,4 +53,16 @@ Tasks:
 
 **Updates**
 
+As of the end of Day 1:
+- **Everyone is up to speed**: Everyone installed and got the `NWLON_WebCOOS-Synchronizer` code running
+- **Failing tests fixed**: A couple failing tests were fixed
+
+
+As of the end of Day 2:<br>
+1. Progress improving the `NWLON_WebCOOS_Synchronizer` tool:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- **You can make a movie with RA data!**: Completed initial integration of `erddapy` and UI modifications for RA datasets.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- **You can run the code more easily**: Added a command line interface.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- **You can do a spatial search**: Added methods to geo-aggregate and find all NWLONs near a camera (and vice-versa).<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- **You can run the code faster**: Added methods to parallelize image download.<br>
+2. Progress on integrating fuzzy search logic into ERDDAP
 
