@@ -2,15 +2,16 @@
 number: 12
 title: Darwin Core helper tools
 pis:
-  - (@7yl4r)
+  - (@h-hahn)
   - (@mathewbiddle)
+  - (@7yl4r)
 contributors:
   - TBD
 github: ioos/ioos-code-sprint/issues/67
 slack:
   - TBD
 breakout:
-  - TBD
+  - DarwinCore - Room 4
 year: 
   - 2026
 ---
@@ -116,15 +117,40 @@ Tools:
 
 **Functioning Prototype**
 
-TBD
+https://mathewbiddle.github.io/DarwinCore_quickCheck/index.html
 
 
 **Workflow**
 
 Tasks:
 
-1. 
+1. Scope out the project.
+2. Two parts
+   1. Python checking code.
+   2. Web Assembly framework.
+3. Complete low level checks in python code base.
+4. Implement capability to upload three files via WASM/GitHub pages.
+5. Check files against a subset of tests (mainly merging on identifiers)
+6. Expand checks to include taxonomic identifiers, location, depth, and dates. This will set us up for integration with pyobistools.
+8. Develop output structure.
+9. Integrate with pyobistools. 
 
 **Updates**
 
+11/18/2026:
+* @ocefpaf gave an introduction to how WASM works and how items are sent between webpages, javascript, and python. 
+* Troubleshoot the testing functions. Found bugs regarding how the testing was done for the different identifiers.
+* Researched the various way's identifiers across the files could be mapped.
+ ![](https://ioos.github.io/bio_mobilization_workshop/fig/OBISsampling-schema-example.png)
+* Remembered that there is already a python package [pyobistools](https://github.com/cioos-siooc/pyobistools) but was pinned on very old python and couldn't install.
+   * @ocefpaf sent in a PR to modernize the codebase and reduce dependencies. <https://github.com/cioos-siooc/pyobistools/pull/77>
+* @h-hahn Added more functions for more robust checking against data standard. <https://github.com/MathewBiddle/DarwinCore_quickCheck/commit/7073f38ba52138d61d61b4f48cb756eea1978a36>
+  * These will be added back into main.py.
+* IOOS Cloud Sandbox Lessons Learned -
+   * if working in the same shared space, and someone switches the branch, it changes for everyone.
+   * setting up git via ssh was a pain.
+
+Two PRs!:
+* <https://github.com/cioos-siooc/pyobistools/pull/77>
+* <https://github.com/MathewBiddle/DarwinCore_quickCheck/pull/12>
 
