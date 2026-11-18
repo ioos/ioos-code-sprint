@@ -64,4 +64,28 @@ Deliverables:
 
 **Updates**
 
+Day 2 update:
+* We ran a ML processor on our example data, but had a realization that we don't need ML at all for the `gross_range_test`. It's a common practice to assign the global range limits to a certain number of standard deviations if there is no obvious literature that describes the expected annual conditions for the data.
+* We re-evaluated what we thought would be required.
+  * Operators still don't quite know what to set their ranges to for the `gross_range_test`, `climatology_test`, or `spike_test`. These can be satisfied by:
+    * Fail parameters being specified by sensor manufacturers
+    * Suspect parameters being identified statistically for the data
+  * Furthermore, the `climatology_test` configuration has historically very hard to define and can be daunting for new operators or data access centers.
+    * Can we, using ML clustering methods, identify different periods of time within the data (including "seasonal" or repeating trends)
+    * Run our statistical bounds during each period and build a `climatology` configuration through reproducible statistics.
+* We (including Claude) put together a new module, `build_limits.py`, which seeks to address this.
+  * Use `k-means` to identify different periods by number of specified temporal bins (ignores annual trends, better for shorter datasets), shared regimes (like supporting storms in both winter and summer), and "seasons" (annual trends within a specified resolution summed over multiple years).
+  * Pass in the `auto_thresh` function with a specified number of standard deviations to permit
+  * Generate the climatology config, using terminology consistent with `IOOS_QC`'s existing code (`period`, for example, to support `weekofyear`)
+ * We passed it over our previous training set and it successfully builds statistically-reproducible bounds and configs for the `gross_range` and `climatology_test`s.
+
+Objectives tomorrow will to be to continue to refine the code and build some documentation. Ideally, we'll have the following defaults:
+* Cluster my data "seasonally", such that I can build a climatology for every January, or every Spring, or every 01-15 to 02-20.
+  * "Seasonal" limits are the best defined for nrt data or streams, where the current time is known. This is most intuitive for individuals that are not experts in the region.
+* Get averages for those specified ranges with a standard deviation of 3.
+* Return the climatology and support plotting for the user to see what the configuration looks like.
+* Make `plot_limits` more generic, such that a user can more easily visualize premade configurations for the climatology and gross range
+* Investigate `spike_test`
+* Run again with remote participant, submitting data with known storm data
+* Finalize a Jupyter notebook that can live in the documents of IOOS QC to demonstrate the workflow
 
