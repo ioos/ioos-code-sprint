@@ -77,6 +77,22 @@ Eli Holmes, Rich Signell
 
 Tasks:
 
-1. 
+1. [x] Build virtual Icechunks from ocean model and gridded output with agent skills, and publish them in the [Ocean Icechunks organization on Source Coop](https://source.coop/ocean-icechunks)
+2. [ ] Get participants set up on the [ocean-icechunks GitHub organization](https://github.com/ocean-icechunks), so they can contribute the scripts they use to construct their virtual Icechunks
+3. [ ] Set up those repos to keep the forecast model run collections on Source Coop up to date, by appending new runs to their virtual Icechunks
+
+**Progress**
+
+![ECCOFS potential temperature shown in gridlook](/ioos-code-sprint/assets/eccofs-gridlook.png)
+
+A [forked copy of gridlook](https://rsignell.github.io/gridlook/) (adds CF-compliant discovery of lon/lat coordinates) displaying a virtual Icechunk of ECCOFS forward run data stored on Source Coop (`noaa-eccofs/eccofs-avg-best` in the Ocean Icechunks organization).
 
 
+
+![SSCOFS salinity shown in gridlook](/ioos-code-sprint/assets/sscofs-gridlook.png)
+
+Gridlook exploring a UGRID-compliant virtual Icechunk for SSCOFS (Salish Sea and Columbia River Operational Forecast System), built by Cheryl Morse.
+
+![TX-LA ROMS salinity forecast shown in gridlook](/ioos-code-sprint/assets/txla-roms-gridlook.png)
+
+Gridlook view of the TX-LA ROMS virtual Icechunk on Source Coop, created by Charan. It holds forecast runs, indexed by forecast reference time.
