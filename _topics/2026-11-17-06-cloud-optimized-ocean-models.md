@@ -73,13 +73,27 @@ Eli Holmes, Rich Signell
 * Tom Nichols (EarthMover) [How to make ai ready archives](https://www.earthmover.io/blog/ai-ready-scientific-data-archives)
 * [JupyterHub for the hackathon](https://workshop.nmfs-openscapes.2i2c.cloud)
 
-**What are we making?**
+### What are we making?
 
 Tasks:
 
 1. [x] Build virtual Icechunks from ocean model and gridded output with agent skills, and publish them in the [Ocean Icechunks organization on Source Coop](https://source.coop/ocean-icechunks)
 2. [ ] Get participants set up on the [ocean-icechunks GitHub organization](https://github.com/ocean-icechunks), so they can contribute the scripts they use to construct their virtual Icechunks
 3. [ ] Set up those repos to keep the forecast model run collections on Source Coop up to date, by appending new runs to their virtual Icechunks
+
+**Development Environment**
+To support future Icechunking work that started during the Sprint, the NOS Coastal Sandbox Nebari deployment was updated to include the following packages:
+
+* pixi: dependency management and alternative to conda environments
+* claude CLI: for following the tutorial presented by Eli Holmes: https://ocean-icechunks.github.io/2026-ioos-hackathon
+* gh CLI: for ease-of-use interacting with GitHub (and connecting with Claude or your coding harness of choice)
+
+New accounts were created for Code Sprint participants without @noaa.gov email addresses to allow access to a shared environment for co-development.
+
+**Future NODD Ocean Icechunk bucket**
+Additionally, as a potential NOAA-hosted home for future ocean Icechunk aggregations, we discussed with NODD the potential for a dedicated “NOAA Cloud Optimized MetOcean Model Aggregations” bucket.  Stay tuned for more to come on that story!
+
+
 
 **Progress**
 
@@ -94,15 +108,3 @@ Gridlook exploring a UGRID-compliant virtual Icechunk for SSCOFS (Salish Sea and
 ![TX-LA ROMS salinity forecast shown in gridlook](/ioos-code-sprint/assets/txla-roms-gridlook.png)
 
 Gridlook view of the TX-LA ROMS virtual Icechunk on Source Coop, created by Charan. It holds forecast runs, indexed by forecast reference time.
-
-**Development Environment**
-To support future Icechunking work that started during the Sprint, the NOS Coastal Sandbox Nebari deployment was updated to include the following packages:
-
-* pixi: dependency management and alternative to conda environments
-* claude CLI: for following the tutorial presented by Eli Holmes: https://ocean-icechunks.github.io/2026-ioos-hackathon
-* gh CLI: for ease-of-use interacting with GitHub (and connecting with Claude or your coding harness of choice)
-
-New accounts were created for Code Sprint participants without @noaa.gov email addresses to allow access to a shared environment for co-development.
-
-**Future NODD Ocean Icechunk bucket**
-Additionally, as a potential NOAA-hosted home for future ocean Icechunk aggregations, we discussed with NODD the potential for a dedicated “NOAA Cloud Optimized MetOcean Model Aggregations” bucket.  Stay tuned for more to come on that story!
