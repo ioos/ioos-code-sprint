@@ -81,6 +81,27 @@ Tasks:
 2. [ ] Get participants set up on the [ocean-icechunks GitHub organization](https://github.com/ocean-icechunks), so they can contribute the scripts they use to construct their virtual Icechunks
 3. [ ] Set up those repos to keep the forecast model run collections on Source Coop up to date, by appending new runs to their virtual Icechunks
 
+
+### New Icechunk Datasets
+
+**HYCOM**
+The Hybrid Coordinate Ocean Model (HYCOM) is an open-source data-assimilative computer model used to simulate and predict ocean circulation, temperature, salinity, and water velocity. These are Icechunks from the data on AWS Open Data.
+https://source.coop/ocean-icechunks/hycom
+
+**NOAA ECCOFS**
+The East Coast Community Ocean Forecast System (ECCOFS) is a data assimilating ocean analysis and forecast system being developed by Rutgers University, the University of California Santa Cruz, Fathom Science Inc., and the National Ocean Service (NOS) of NOAA for transition to operations at NCEP in 2028. The ECCOFS domain spans the eastern seaboard of North America and Intra-Americas Seas from the Grand Banks of Newfoundland in the north to the mouth of the Orinoco River, Venezuela, in the south. ECCOFS will complement the existing WCOFS (West Coast Operational Forecast System) to achieve complete forecast coverage of U.S. territorial seas adjacent to the 48 contiguous states and Puerto Rico. Each day ECCOFS generates an ocean analysis using the Regional Ocean Modeling System (ROMS) 4-Dimensional Variational (4D-Var) data assimilation (DA) system constrained by ocean observations. The forecast resolution is 3 km in the horizontal at 50 vertical terrain-following levels.
+https://source.coop/ocean-icechunks/noaa-eccofs
+
+**SSCOFS**
+
+
+**PacIOOS**
+Regional models of the ocean (ROMS), weather (WRF) and waves (WaveWatch III) for the main Hawaiian Islands, run by the Pacific Islands Ocean Observing System (PacIOOS) to simulate and forecast currents, temperature, salinity, winds and waves.
+https://source.coop/ocean-icechunks/pacioos
+
+
+### Progress
+
 **Development Environment**
 To support future Icechunking work that started during the Sprint, the NOS Coastal Sandbox Nebari deployment was updated to include the following packages:
 
@@ -94,8 +115,9 @@ New accounts were created for Code Sprint participants without @noaa.gov email a
 Additionally, as a potential NOAA-hosted home for future ocean Icechunk aggregations, we discussed with NODD the potential for a dedicated “NOAA Cloud Optimized MetOcean Model Aggregations” bucket.  Stay tuned for more to come on that story!
 
 
+**Visualizations**
 
-**Progress**
+Visualizations of the above Icechunks in Gridlook.  Gridlook (see this [forked copy](https://rsignell.github.io/gridlook/)) is an excellent tool for quick visualizations of model aggregations.  See some examples below:
 
 ![ECCOFS potential temperature shown in gridlook](/ioos-code-sprint/assets/eccofs-gridlook.png)
 
