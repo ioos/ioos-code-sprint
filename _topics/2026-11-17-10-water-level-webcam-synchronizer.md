@@ -1,6 +1,6 @@
 ---
 number: 10
-title: Better Integrate RA Data and CO-OPS Tools
+title: Better Integrate RA Data and CO-OPS Tools + ERDDAP updates
 pis:
   - (@conlin-matt)
 contributors:
@@ -65,4 +65,17 @@ As of the end of Day 2:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- **You can do a spatial search**: Added methods to geo-aggregate and find all NWLONs near a camera (and vice-versa).<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- **You can run the code faster**: Added methods to parallelize image download.<br>
 2. Progress on integrating fuzzy search logic into ERDDAP
+
+As of the end of Day 3:<br>
+1. Completed working integration of `erddapy` and UI modifications for RA datasets into the `NWLON_WebCOOS_Synchronizer`.
+<img width="1069" height="948" alt="Screenshot 2026-11-19 132622" src="https://github.com/user-attachments/assets/3387ff01-6a91-4171-b9bb-9172e592e6df" />
+<img width="874" height="203" alt="Screenshot 2026-11-19 132833" src="https://github.com/user-attachments/assets/6856defc-cb42-4675-8fce-501697fb82b8" />
+
+
+2. Completed initial implementation of ERDDAP smart search logic
+<img width="1611" height="1244" alt="image" src="https://github.com/user-attachments/assets/362f9dfe-c466-4093-926b-b5332e42ef85" />
+
+
+
+
 
