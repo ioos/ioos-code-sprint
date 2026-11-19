@@ -130,3 +130,25 @@ Gridlook exploring a UGRID-compliant virtual Icechunk for SSCOFS (Salish Sea and
 ![TX-LA ROMS salinity forecast shown in gridlook](/ioos-code-sprint/assets/txla-roms-gridlook.png)
 
 Gridlook view of the TX-LA ROMS virtual Icechunk on Source Coop, created by Charan. It holds forecast runs, indexed by forecast reference time.
+
+***Tooling***
+
+For the PacIOOS project, a deployable toolkit (icechunker) was developed to deploy to a server
+to facilitate continuous scheduled upload of NetCDF model data to source.coop and updating
+of the corresponding icechunk datasets, also on source.coop. The deployed tool is self contained,
+requires minimal configuration, and can be scheduled to run periodically via cron to sync and process
+data, verify health of the entire icechunk dataset, and perform periodic clean up tasks.
+Errors are reported to a configured user via email. See below for more details.
+
+### PacIOOS results ###
+
+Employing Eli Holmes’ agentic skills in the Ocean Icechunks skills repository on GitHub, namely archive-to-cloud and virtual-icechunk, PacIOOS now has 4 datasets hosted in the cloud on Source Cooperative as Icechunks from NetCDF files that were originally stored on our local server. This includes regional forecast models of the ocean (ROMS), weather (WRF), and waves (WaveWatch III) for the main Hawaiian Islands, comprised of 13,317 NetCDF files and totaling 3.4 TB. The Source Coop pages also provide a link to the Gridlook WebGL-based viewer for generating online maps of each dataset. Eli got 3 of the 4 datasets onto Source Coop prior to the Code Sprint, and John Maurer worked through issues she identified in the WRF dataset during the Code Sprint to get that one onto Source Coop as well; details in issue #12. John also explored connecting these datasets into Earthmover but hit a few snags that need addressing before this can be completed; details in issue #31.
+
+We added a GitHub action to build a tarball of the deployable icechunker tool payload and attach it as an artifact to a pre-release (basically a workaround to allow our artifact that gets built on every push to main to not expire).
+
+https://github.com/ocean-icechunks/pacioos/releases/tag/icechunker-main
+
+The tarball can be downloaded and extracted on the server, bootstrapped with the included bootstrap.sh script, lightly configured (mostly source-coop api key and email notification settings), and then scheduled in cron to run regularly and keep source.coop netcdf and icechunk datasets up to date according to the output of icechunker cron. User can also do dry run syncs, verify the health of the entire icechunk repo, clean up local temp and cache files, view installed toolset status, and check the health of the local icechunker install.
+
+Shane St Savage and Honza Rychly worked on this component, with heavy use of
+[ocean-icechunk-skills](https://github.com/ocean-icechunks/ocean-icechunks-skills).
