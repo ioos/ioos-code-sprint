@@ -87,8 +87,6 @@ Tasks:
 
 A [forked copy of gridlook](https://rsignell.github.io/gridlook/) (adds CF-compliant discovery of lon/lat coordinates) displaying a virtual Icechunk of ECCOFS forward run data stored on Source Coop (`noaa-eccofs/eccofs-avg-best` in the Ocean Icechunks organization).
 
-
-
 ![SSCOFS salinity shown in gridlook](/ioos-code-sprint/assets/sscofs-gridlook.png)
 
 Gridlook exploring a UGRID-compliant virtual Icechunk for SSCOFS (Salish Sea and Columbia River Operational Forecast System), built by Cheryl Morse.
@@ -96,3 +94,15 @@ Gridlook exploring a UGRID-compliant virtual Icechunk for SSCOFS (Salish Sea and
 ![TX-LA ROMS salinity forecast shown in gridlook](/ioos-code-sprint/assets/txla-roms-gridlook.png)
 
 Gridlook view of the TX-LA ROMS virtual Icechunk on Source Coop, created by Charan. It holds forecast runs, indexed by forecast reference time.
+
+**Development Environment**
+To support future Icechunking work that started during the Sprint, the NOS Coastal Sandbox Nebari deployment was updated to include the following packages:
+
+* pixi: dependency management and alternative to conda environments
+* claude CLI: for following the tutorial presented by Eli Holmes: https://ocean-icechunks.github.io/2026-ioos-hackathon
+* gh CLI: for ease-of-use interacting with GitHub (and connecting with Claude or your coding harness of choice)
+
+New accounts were created for Code Sprint participants without @noaa.gov email addresses to allow access to a shared environment for co-development.
+
+**Future NODD Ocean Icechunk bucket**
+Additionally, as a potential NOAA-hosted home for future ocean Icechunk aggregations, we discussed with NODD the potential for a dedicated “NOAA Cloud Optimized MetOcean Model Aggregations” bucket.  Stay tuned for more to come on that story!
