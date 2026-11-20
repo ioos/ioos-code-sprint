@@ -84,8 +84,10 @@ Tasks:
 
 ### New Icechunk Datasets
 
+All of these are in the [Ocean Icechunks organization on Source Coop](https://source.coop/ocean-icechunks).
+
 **HYCOM**
-The Hybrid Coordinate Ocean Model (HYCOM) is an open-source data-assimilative computer model used to simulate and predict ocean circulation, temperature, salinity, and water velocity. These are Icechunks from the data on AWS Open Data.
+The Hybrid Coordinate Ocean Model (HYCOM) is an open-source data-assimilative computer model used to simulate and predict ocean circulation, temperature, salinity, and water velocity. These are Icechunks from the data on AWS Open Data: the GOFS 3.1 global reanalysis, with a Gulf of Mexico 1/100° reanalysis started during the Sprint (see Progress below).
 https://source.coop/ocean-icechunks/hycom
 
 **NOAA ECCOFS**
@@ -114,6 +116,20 @@ New accounts were created for Code Sprint participants without @noaa.gov email a
 **Future NODD Ocean Icechunk bucket**
 Additionally, as a potential NOAA-hosted home for future ocean Icechunk aggregations, we discussed with NODD the potential for a dedicated “NOAA Cloud Optimized MetOcean Model Aggregations” bucket.  Stay tuned for more to come on that story!
 
+
+**HYCOM Gulf of Mexico reanalysis**
+Work started on an Icechunk for the HYCOM-TSIS GOMb0.01 reanalysis, the 1/100° hourly Gulf of Mexico reanalysis (2001–2024; about 348,000 NetCDF files, 466 TB, on S3). During the Sprint we:
+
+* Reviewed the files on S3 against HYCOM's server. They match, but the copy is still in progress, and the files after April 2024 (experiments 027 and 028) use a different chunk layout, so they cannot share one Icechunk array with the earlier files.
+* Built and published a 2022 test store on Source Coop, with a [Gridlook viewer](https://data.source.coop/ocean-icechunks/test-repo/hycom/viewer/index.html#icechunk+https://data.source.coop/ocean-icechunks/test-repo/hycom/hycom-tsis-gom-reanalysis/hourly::varname=water_temp::dimIndices_MT=0::dimIndices_Depth=0) and [loading code](https://data.source.coop/ocean-icechunks/test-repo/hycom/README.md). It opens anonymously in about 1 s.
+* Chose the 3D chunking by measuring a year of reads: with one depth level per chunk, a one-year hourly point time series takes 17 s, against 117 s with ten levels per chunk.
+* Found and fixed memory growth in the build (flat at 2.7 GB for a year, from 6.0 GB), and added and tested a way to fill gaps after the store is built.
+* Found source-file issues worth knowing if you read the files directly (land values do not match `_FillValue`, so land is not masked; the 3D longitudes drift slightly from 2021 on) and sent them, with the questions on the second chunk layout, to the HYCOM team.
+
+The plan is two stores: GOMb0.01 (to September 2024) and GOMe0.01 (experiment 028, still running). The full build waits on the S3 copy and HYCOM's answers. Details: [ocean-icechunks/hycom](https://github.com/ocean-icechunks/hycom) and [hackathon issue #22](https://github.com/ocean-icechunks/2026-ioos-hackathon/issues/22).
+
+**Icechunk performance issue: `s3://` references on HTTP/2 object stores**
+We found an Icechunk performance issue that makes virtual datasets 2–7× slower to read when their source files are referenced as `s3://` on object stores that offer HTTP/2, including Source Cooperative, GCS (through its S3 interface) and OSN. `https://` references to the same files are unaffected, as are AWS S3, Tigris, Wasabi and CloudFerro. It came up when we tested whether switching our source-file references from `https://` to `s3://` would matter: [earth-mover/icechunk#2571](https://github.com/earth-mover/icechunk/issues/2571)
 
 **Visualizations**
 
