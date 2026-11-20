@@ -4,12 +4,11 @@ title: Darwin Core helper tools
 pis:
   - (@h-hahn)
   - (@mathewbiddle)
-  - (@7yl4r)
 contributors:
-  - TBD
+  - (@ocefpaf)
 github: ioos/ioos-code-sprint/issues/67
 slack:
-  - TBD
+  - code-sprint-2026
 breakout:
   - DarwinCore - Room 4
 year: 
@@ -87,11 +86,9 @@ Taxonomic Occurrence Data familiarity. Coding experience. API usage familiarity.
 
 Intermediate
 
-
 ### Topic Lead(s)
 
-@7yl4r, @mathewbiddle
-
+@h-hahn, @mathewbiddle
 
 ### Relevant links
 
@@ -102,7 +99,6 @@ Resources:
 - https://ipt.gbif.org/manual/en/ipt/latest/dwca-guide
 - https://rs.gbif.org/extensions.html
 - https://manual.obis.org/darwin_core.html
-
 
 Tools:
 - https://github.com/cioos-siooc/pyobistools
@@ -115,12 +111,11 @@ Tools:
 - https://github.com/EMODnet/EMODnetBiocheck
 
 
-**Functioning Prototype**
+### Functioning Prototype
 
-https://mathewbiddle.github.io/DarwinCore_quickCheck/index.html
+<https://mathewbiddle.github.io/DarwinCore_quickCheck/index.html>
 
-
-**Workflow**
+### Workflow
 
 Tasks:
 
@@ -135,9 +130,11 @@ Tasks:
 8. Develop output structure.
 9. Integrate with pyobistools. 
 
-**Updates**
+### Updates
+#### 11/17/2026
+* We built a plan for the week and started scoping what needed to be done.
 
-11/18/2026:
+#### 11/18/2026
 * @ocefpaf gave an introduction to how WASM works and how items are sent between webpages, javascript, and python. 
 * Troubleshoot the testing functions. Found bugs regarding how the testing was done for the different identifiers.
 * Researched the various way's identifiers across the files could be mapped.
@@ -150,7 +147,15 @@ Tasks:
    * if working in the same shared space, and someone switches the branch, it changes for everyone.
    * setting up git via ssh was a pain.
 
-Two PRs!:
+##### Two PRs!:
 * <https://github.com/cioos-siooc/pyobistools/pull/77>
 * <https://github.com/MathewBiddle/DarwinCore_quickCheck/pull/12>
 
+#### 11/19/2026
+* Merged in the new pyscript functionality to upload multiple files.
+* Enabled the new functions from @h-hahn to check lat/lon, depth, valid columns, and null values.
+* Enabled and debugged WoRMS scientificName check.
+* Made webpage more user friendly.
+* added a sections that provide summaries of each table to provide a first glimpse to help troubleshoot data issues.
+* See changes at <https://github.com/MathewBiddle/DarwinCore_quickCheck/compare/2568475c4d614be7da8e5eefbe998b90f87cbc86...a126fca8d79458ab3029f2107f11dbde6d803976>
+* @ocefpaf finalized PR to pyobistools to enable integration in the future. <https://github.com/cioos-siooc/pyobistools/pull/77>
