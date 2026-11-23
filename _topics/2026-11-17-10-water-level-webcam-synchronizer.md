@@ -75,6 +75,15 @@ As of the end of Day 3:<br>
 2. Completed initial implementation of ERDDAP smart search logic
 <img width="1611" height="1244" alt="image" src="https://github.com/user-attachments/assets/362f9dfe-c466-4093-926b-b5332e42ef85" />
 
+3. Added map showing sensor locations
+<video src="https://github.com/user-attachments/assets/47398764-79af-4f90-a02a-58bffa202d51" width="640" height="360" controls></video>
+
+
+
+
+
+ 
+
 
 
 
